@@ -15,10 +15,9 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- Vivamus lacinia tincidunt dui, non auctor justo. 
-- Fusce euismod ornare dolor. 
-- Vestibulum euismod, nulla eu blandit mollis, erat diam convallis lorem, consectetur rhoncus libero sapien in enim. 
-- Praesent viverra tristique malesuada. 
+- Nous avons fait une version 2 du projet
+- Nous avons fait des tests sur TouchDesgner
+- Nous avons refait 
 - Mauris ex ligula, eleifend sed tellus ac, elementum blandit nunc. 
 - Phasellus blandit elit eu nibh blandit molestie. 
 - Nulla facilisi. Praesent vitae quam fermentum leo viverra ultrices eget nec massa. 
