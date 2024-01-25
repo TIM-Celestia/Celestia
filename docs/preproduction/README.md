@@ -74,6 +74,9 @@ Répondre à ces questions sur comment attiser la curiosité des interacteurs :
 ![cube](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/f7b0dbe0-65ce-4031-a272-a28c96e289d1)
 
 
+![interactive-table-projector](https://github.com/TIM-Celestia/Celestia/assets/113621167/b71d7c08-6b59-4c55-9951-81f73c6d2e8d)
+> inspiration pour la toile avec la quel on va pouvoir intéragir
+> source: https://sensorywizard.com.au/omibudii/ 
 
 ### Moodbord Visuel
 
