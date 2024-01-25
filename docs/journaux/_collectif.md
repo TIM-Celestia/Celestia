@@ -36,6 +36,12 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 ## Semaine 2
 
 ## Semaine 1
+Pour la première semaine nous avons repensé à notre projet et aller plus en détail dans le choix de notre thème, l'estétique dans lequel on veut aller. Nous avons aussi commencer les tests avec la kinect pour détecter le mouvement. 
+
+![MicrosoftTeams-image (10)](https://github.com/TIM-Celestia/Celestia/assets/113621167/49123909-f0a1-4476-a2f3-fec18178a9ef)
+
+Nous avons même pu être capable de détecter si la personne était proche ou loin de la kinect , ce qui va nous aidé pour quand on va vouloir détecter la profondeur de la main qui appuie sur la toile.
+
 
 
 
