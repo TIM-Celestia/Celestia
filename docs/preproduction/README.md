@@ -72,7 +72,7 @@ Répondre à ces questions sur comment attiser la curiosité des interacteurs :
 
 ### Moodbord de l'idée de projet 
 ![cube](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/f7b0dbe0-65ce-4031-a272-a28c96e289d1)
-![detection_presence](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/8c197d54-e072-4c3d-bb3a-ffbccdbf24f7)
+
 
 
 ### Moodbord Visuel
