@@ -76,10 +76,7 @@ Répondre à ces questions sur comment attiser la curiosité des interacteurs :
 ![image](https://github.com/TIM-Celestia/Celestia/assets/113621167/103014e7-d3ce-4a01-8784-90d25a28a058)
 
 
-![interactive-table-projector](https://github.com/TIM-Celestia/Celestia/assets/113621167/b71d7c08-6b59-4c55-9951-81f73c6d2e8d)
-> inspiration pour la toile avec la quel on va pouvoir intéragir
-> 
-> source: https://sensorywizard.com.au/omibudii/ 
+
 
 ### Moodbord Visuel
 
@@ -93,11 +90,6 @@ https://www.youtube.com/watch?v=2k6H5Qa_fCE&t=123s
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/QjaTnrS0IZM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlUeq1fGoKy-bU2EaoBtuHYTS9-w)](https://www.youtube.com/watch?v=QjaTnrS0IZ)
 
 
-
-![image](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/ff6bfcfa-321c-4336-9515-cdb82ef07273)
-![image](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/0d8e2f33-1e58-4482-9a3a-ecb0d67c2f28)
-![image](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/8f6860d2-900e-4c3e-a85e-1c72b7fe8ffa)
-![image](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/46c85a08-59c2-42f3-ae4a-47b10f31a010)
 ![image](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/bba89e68-8fee-4a47-a6cd-1e5eb28ec432)
 
 ## Scénario, scénarimage ou document audio/visuel
