@@ -77,7 +77,7 @@ Répondre à ces questions sur comment attiser la curiosité des interacteurs :
 
 ### Moodbord Visuel
 
-![687474703a2f2f696d672e796f75747562652e636f6d2f76692f47327074474377446b56452f302e6a7067](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/f998a19b-6d48-465d-b313-a8785f1e8012)
+
 
 [![Toile ](https://i.ytimg.com/vi/BLHGjFGR7LM/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLC6VEbIj6UwUSRQjWKw5-JmbQYXNA)](https://www.youtube.com/embed/BLHGjFGR7LM)
  
