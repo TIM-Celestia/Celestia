@@ -44,6 +44,28 @@ Celestial est une œuvre multimédia immersive qui relie l'humain et le temps. D
 
 [comment]: <> (le temps lkes souvenir la toile cert a faire les dit souvemnir qui vont afficher en forme de ligne ou forme qui vont apparaitre devant sur le murs donc les memoirs . ce promener dans le cerveau )
 
+
+## Quatre éléments spécifiques au médium de l’interactivité
+
+Fixer le nom de l’équipe et le nom du projet. 
+
+Déterminer le public cible.
+
+Écrire deux phrases sur chaque les quatre éléments spécifiques au médium de l’interactivité (8 phrases au total).Voir document.
+
+Répondre à ces deux questions sur les émotions :
+
+· Quelles émotions voulez-vous faire vivre à l’interacteur?
+
+· Pourquoi?
+
+Répondre à ces questions sur comment attiser la curiosité des interacteurs :
+
+· Quelles questions votre projet met-il dans l’esprit de l’interacteur?
+
+· Que devrez-vous faire pour qu’il ait envie de réponde à ces questions?
+
+
 ## Tableau d'ambiance (*moodboard*)
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
 
