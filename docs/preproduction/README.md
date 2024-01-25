@@ -73,13 +73,15 @@ Répondre à ces questions sur comment attiser la curiosité des interacteurs :
 ### Moodbord de l'idée de projet 
 ![cube](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/f7b0dbe0-65ce-4031-a272-a28c96e289d1)
 ![detection_presence](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/8c197d54-e072-4c3d-bb3a-ffbccdbf24f7)
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/YU1mx2s6qTA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBqg2AArgIigIMCAAQARhlIGUoZTAP&rs=AOn4CLDHuXob9wcPr4PrslLJN9qC0-VSKQ)](https://www.youtube.com/watch?v=YU1mx2s6qTA)
+
 
 ### Moodbord Visuel
 
 ![687474703a2f2f696d672e796f75747562652e636f6d2f76692f47327074474377446b56452f302e6a7067](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/f998a19b-6d48-465d-b313-a8785f1e8012)
 
-
+[![Toile ](https://i.ytimg.com/vi/BLHGjFGR7LM/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLC6VEbIj6UwUSRQjWKw5-JmbQYXNA)](https://www.youtube.com/embed/BLHGjFGR7LM)
+ 
+ > title="Physarum with Touchdesigner"
 https://www.youtube.com/watch?v=2k6H5Qa_fCE&t=123s
 
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/QjaTnrS0IZM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlUeq1fGoKy-bU2EaoBtuHYTS9-w)](https://www.youtube.com/watch?v=QjaTnrS0IZ)
