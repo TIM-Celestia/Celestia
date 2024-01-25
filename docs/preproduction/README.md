@@ -38,11 +38,12 @@
 [comment]: <> (![Exemple de cartographie 3](medias/cartographie_exemple_3.PNG))--->
 
 ## Intention de départ
-Celestial est une œuvre multimédia immersive qui relie l'humain et le temps. De nos jours , le temps controle notre vie, on est toujours occupé et moins de temps pour rien faire car la vie va trop vite. L’œuvre consiste à insité l'intéracteur à vouloir oublier le temps qui passe et d'apprésier le temps présent.
+Celestial est une œuvre multimédia immersive qui relie l'humain et le temps. De nos jours , le temps controle notre vie, on est toujours occupé et on a moins le temps de rien faire car la vie va trop vite. L’œuvre consiste à insité l'intéracteur à vouloir oublier le temps qui passe et d'apprésier le temps présent.
 
-[comment]: <> (pour un e petite perode de temps la personne va voir l'hstoriwure des truc qu'elle a faite en n genre de ces choix car la tu va pouvoir voir l'inpacte de ce que tu as fais en mettons 2 minutes que quand tu as appuiyer sa a generer une ligne et qu'a toute les fois ou il a pris le temps d'appuyer il va pouvooir voir ce qu'il a créer)
+Celestial est une ouvre concentrer sur le thème du temps et la mémoire humaine. Dans notre oeuvre on représente ça par une toile et de la projection. La toile est le support qui va comme représenter le cerveau, les neurones et les projections sur les murs vont représenter nos souvenirs.
 
-[comment]: <> (le temps lkes souvenir la toile cert a faire les dit souvemnir qui vont afficher en forme de ligne ou forme qui vont apparaitre devant sur le murs donc les memoirs . ce promener dans le cerveau )
+Lorsque nous allons appuyer sur la toile , selon la force exercer sur celle-ci une fois appuyer une nouvelle "ligne/forme" va apparaitre. a chaque fois que l'intéracteur appuie il va y avoir une forme/ligne abtraite qui va s'ajouté. et après par exemple 5 minutes certaines lignes vont commencer à disparitre tranquillent un peu pour symboliser les souvenirs qu'on fait , ces ligne vont donner l'impression d'explorer les neurones des êtres humains.
+
 
 
 ## Quatre éléments spécifiques au médium de l’interactivité
@@ -67,7 +68,7 @@ Répondre à ces questions sur comment attiser la curiosité des interacteurs :
 
 
 ## Tableau d'ambiance (*moodboard*)
-> Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
+
 
 ### Moodbord de l'idée de projet 
 ![cube](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/f7b0dbe0-65ce-4031-a272-a28c96e289d1)
