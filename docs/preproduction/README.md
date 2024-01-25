@@ -86,11 +86,7 @@ https://www.youtube.com/watch?v=2k6H5Qa_fCE&t=123s
 
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/QjaTnrS0IZM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlUeq1fGoKy-bU2EaoBtuHYTS9-w)](https://www.youtube.com/watch?v=QjaTnrS0IZ)
 
-j'ai pris cette vidéo pour montrer un peu les animation que j'aimerais projeter
 
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/lNLeRmnkug8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBx7UOL_BP6sDCPFe7JqQR9tI4L4Q)](https://www.youtube.com/watch?v=lNLeRmnkug8)
-
-![image1](https://raw.githubusercontent.com/2142692/concept_projet_final/main/medias/immersive.webp)
 
 ![image](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/ff6bfcfa-321c-4336-9515-cdb82ef07273)
 ![image](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/0d8e2f33-1e58-4482-9a3a-ecb0d67c2f28)
