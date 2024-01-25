@@ -15,12 +15,10 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- Nous avons fait une version 2 du projet
-- Nous avons fait des tests sur TouchDesgner
-- Nous avons refait 
-- Mauris ex ligula, eleifend sed tellus ac, elementum blandit nunc. 
-- Phasellus blandit elit eu nibh blandit molestie. 
-- Nulla facilisi. Praesent vitae quam fermentum leo viverra ultrices eget nec massa. 
+- J'ai trouvé une nouvelle idée pour le projet
+- J'ai fait des tests sur TouchDesigner
+- J'ai créer un groupe sur team pour notre projet. J'ai aussi commencé l'organisation de la semaine en créant une liste de choses à faire pour l'équipe.
+
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](medias/motionCapture.jpg)
@@ -31,12 +29,12 @@ ou
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
-- [ ] Assez
-- [x] Peu
+- [x] Assez
+- [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Phasellus placerat malesuada dictum. Sed dapibus sem vulputate, blandit ligula non, hendrerit dolor. Vivamus congue sit amet nulla nec tristique. Fusce eget nisi justo. 
+C'est la première semaine du retour à l'école donc on est toujours en adaptation. Je me suis comme défi la planification de la semaine et décider des jours de rencontre.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
