@@ -5,17 +5,17 @@
 
 
 Cette semaine a été parsemée de défis.
-![défis](medias/exemple_general.jpg)
+
 
 Tout d’abord, comme prévu, nous avons terminé de créer nos images dans Photoshop et le contenu 3D dans Maya. Nous avons également avancé la programmation multimédia du projet dans le logiciel Max et Unity.
-![exemple photoshop](medias/exemple_photoshop.jpg)
+
 
 Par la suite, nous avions prévu une séance d’enregistrement audio dans les studios de son. Cependant, misère (!), une panne d’électricité a eu lieu durant notre séance! Nous avons donc dû remettre celle-ci à quelques jours plus tard. (Nous avons beaucoup ri de cette situation.)
 
-![Enregistrement en studio](medias/exemple_studio1.jpg)
+
 
 Enfin, nous venons de commencer à mettre en espace le projet dans le grand studio du collège. Nos projecteurs viennent tout juste d’être installés! 
-![Projecteurs installés](medias/exemple_projector.jpg)
+
 
 On a bien hâte de voir le projet se concrétiser davantage dans les lieux physiques. À suivre
 
@@ -42,7 +42,7 @@ Pour la première semaine nous avons repensé à notre projet et aller plus en d
 
 [![IMAGE ALT TEXT HERE](https://github.com/TIM-Celestia/Celestia/assets/113621167/c165c661-39f7-445b-9d69-c1f417d78e03)](https://youtu.be/-pw7Mnlt3s4 )
 
-https://youtu.be/-pw7Mnlt3s4 
+
 
 
 Nous avons même pu être capable de détecter si la personne était proche ou loin de la kinect , ce qui va nous aidé pour quand on va vouloir détecter la profondeur de la main qui appuie sur la toile.
