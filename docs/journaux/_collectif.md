@@ -36,16 +36,16 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 ## Semaine 2
 
 ## Semaine 1
-Pour la première semaine nous avons repensé à notre projet et aller plus en détail dans le choix de notre thème, l'estétique dans lequel on veut aller. Nous avons aussi commencer les tests avec la kinect pour détecter le mouvement. 
+Pour la première semaine, nous avons dû repenser à notre projet et aller plus en détail dans le choix de notre thème et l'esthétique dans lequel nous voulons aller. Nous avons aussi commencé les tests avec la Kinect pour détecter le mouvement. 
 
 
 
-[![IMAGE ALT TEXT HERE](https://github.com/TIM-Celestia/Celestia/assets/113621167/c165c661-39f7-445b-9d69-c1f417d78e03)](https://youtu.be/-pw7Mnlt3s4 )
+[![projet_touchdesigner_ordinateur](https://github.com/TIM-Celestia/Celestia/assets/113621167/c165c661-39f7-445b-9d69-c1f417d78e03)](https://youtu.be/-pw7Mnlt3s4 )
 
 
 
 
-Nous avons même pu être capable de détecter si la personne était proche ou loin de la kinect , ce qui va nous aidé pour quand on va vouloir détecter la profondeur de la main qui appuie sur la toile.
+Nous avons aussi réussi à détecter la distance d'une personne de la caméra de la Kinect, ce qui nous aidera pour lorsque nous devrions détecter la profondeur de la main qui appuie sur la toile.
 
 
 
