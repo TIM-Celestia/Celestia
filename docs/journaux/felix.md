@@ -1,5 +1,5 @@
 # Journal de "Participant 3"
-![portrait du participant ](../web/medias/participants/C.png)
+![portrait felix](../web/medias/participants/felix-celestia.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
@@ -15,32 +15,21 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- Vivamus lacinia tincidunt dui, non auctor justo. 
-- Fusce euismod ornare dolor. 
-- Vestibulum euismod, nulla eu blandit mollis, erat diam convallis lorem, consectetur rhoncus libero sapien in enim. 
-- Praesent viverra tristique malesuada. 
-- Mauris ex ligula, eleifend sed tellus ac, elementum blandit nunc. 
-- Phasellus blandit elit eu nibh blandit molestie. 
-- Nulla facilisi. Praesent vitae quam fermentum leo viverra ultrices eget nec massa. 
-
+- Essais dans TouchDesigner pour ce qui se retrouvera sur la toile
+- Tracking de la main à l'aide d'une Kinect afin de bouger une forme dans TouchDesigner
+- Au moins deux personnes peuvent intéragir avec TouchDesigner à l'aide de la Kinect
+  
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/motionCapture.jpg)
-ou
-![ici est une description de l'image](medias/console.jpg)
-ou
-![ici est une description de l'image](medias/photoshop.jpg)
+![ici est une description de l'image](medias/imagesem1.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
-- [x] Peu
+- [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Phasellus placerat malesuada dictum. Sed dapibus sem vulputate, blandit ligula non, hendrerit dolor. Vivamus congue sit amet nulla nec tristique. Fusce eget nisi justo. 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
+Comme ce n'est que la première semaine, nous n'avons pas besoin d'être tant avancé dans le projet. J'ai réussi à faire les tâches dont je me suis attribué, notamment en lien avec TouchDesigner, donc je dirais que cette semaine est fut un succès pour ma part!
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -56,7 +45,7 @@ Mauris nec ante egestas, vulputate dolor a, suscipit nulla. Phasellus vitae nisl
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec porttitor at metus id viverra.
 
 ### Défis pour la prochaine semaine
-Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
+Nous avons un vidéo à faire pour la deuxième semaine, donc mes coéquipières et moi devrions s'assurer qu'on arrive à atteindre nos buts selon notre horaire en ayant une vidéo de bonne qualité. 
 
 ---
 ## Semaine 2
