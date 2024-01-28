@@ -1,4 +1,4 @@
-# Journal de "Participant 3"
+# Journal de Felix Testa Radovanovic
 ![portrait felix](../web/medias/participants/felix-celestia.png)
 
 * [Semaine 1](#semaine-1)
@@ -18,6 +18,8 @@
 - Essais dans TouchDesigner pour ce qui se retrouvera sur la toile
 - Tracking de la main à l'aide d'une Kinect afin de bouger une forme dans TouchDesigner
 - Au moins deux personnes peuvent intéragir avec TouchDesigner à l'aide de la Kinect
+- Détection de la distance entre la Kinect et la toile à l'appui
+- Blob tracking de l'endroit où l'interacteur appuie
   
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](medias/imagesem1.png)
@@ -29,20 +31,14 @@
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Comme ce n'est que la première semaine, nous n'avons pas besoin d'être tant avancé dans le projet. J'ai réussi à faire les tâches dont je me suis attribué, notamment en lien avec TouchDesigner, donc je dirais que cette semaine est fut un succès pour ma part!
+Comme ce n'est que la première semaine, nous n'avons pas besoin d'être tant avancé dans le projet. J'ai réussi à faire les tâches dont je me suis attribué, notamment en lien avec TouchDesigner, donc je dirais que cette semaine est fut un succès pour ma part! De plus, j'ai fini une partie du travail dont je pensais allais me prendre beaucoup plus longtemps, donc je suis très fier de moi!
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
-- [x] Assez
+- [x] Complètement
+- [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
-
-#### S'il y a des écarts, décrivez-les.
-Mauris nec ante egestas, vulputate dolor a, suscipit nulla. Phasellus vitae nisl pharetra, dapibus purus quis, porttitor velit. Vestibulum nec mauris est.
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec porttitor at metus id viverra.
 
 ### Défis pour la prochaine semaine
 Nous avons un vidéo à faire pour la deuxième semaine, donc mes coéquipières et moi devrions s'assurer qu'on arrive à atteindre nos buts selon notre horaire en ayant une vidéo de bonne qualité. 
