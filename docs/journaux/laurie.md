@@ -36,7 +36,7 @@ ou
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-C'est la première semaine du retour à l'école donc on est toujours en adaptation. Je me suis mis comme défi la planification de la semaine et de décider des jours de rencontre. On avait aussi chacun comme devoir de faire des tests sur le logiciel TouchDesigner, ce que j'ai également fait. 
+C'est la première semaine du retour à l'école donc on est toujours en adaptation. Je me suis mis comme défi la planification de la semaine et de décider des jours de rencontre. On avait aussi chacun comme devoir de faire des tests sur le logiciel TouchDesigner, ce que j'ai également fait. De plus, j'ai commencé a créer des sons dans le logiciel VCV Rack 2 qui sont assez intéressant.
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
