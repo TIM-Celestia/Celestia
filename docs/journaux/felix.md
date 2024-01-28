@@ -22,7 +22,7 @@
 - Blob tracking de l'endroit où l'interacteur appuie
   
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/imagesem1.png)
+![detection_distance_toile](medias/imagesem1.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [x] Complètement
