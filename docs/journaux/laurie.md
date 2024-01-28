@@ -25,9 +25,9 @@
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![image](https://github.com/TIM-Celestia/Celestia/assets/89647723/4d3ba636-891b-4142-beaf-3b1dc97eee3a)
 ou
-![ici est une description de l'image](medias/console.jpg)
+![image2](https://github.com/TIM-Celestia/Celestia/assets/89647723/2fed3f23-d238-4f00-b971-9fc24d93be7c)
 ou
-![ici est une description de l'image](medias/photoshop.jpg)
+![image1](https://github.com/TIM-Celestia/Celestia/assets/89647723/8b0bd33c-788e-44f0-9b1d-b08c7b07063f)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
@@ -36,10 +36,8 @@ ou
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-C'est la première semaine du retour à l'école donc on est toujours en adaptation. Je me suis comme défi la planification de la semaine et décider des jours de rencontre.
+C'est la première semaine du retour à l'école donc on est toujours en adaptation. Je me suis mis comme défi la planification de la semaine et de décider des jours de rencontre. On avait aussi chacun comme devoir de faire des tests sur le logiciel TouchDesigner, ce que j'ai également fait. 
 
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -49,13 +47,12 @@ Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis con
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Mauris nec ante egestas, vulputate dolor a, suscipit nulla. Phasellus vitae nisl pharetra, dapibus purus quis, porttitor velit. Vestibulum nec mauris est.
+Le seul écart qu'il y a c'est le fait qu'on est toujours pas acheter la toile en spandex extensible.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec porttitor at metus id viverra.
-
+On va acheter la toile mardi.
 ### Défis pour la prochaine semaine
-Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
+Mon défi pour la semaine prochaine c'est de acheter les toiles et de peux etre acheter les matériaux nécessaire pour la construction du cadre de la toile. De plus, je vais aussi avoir pour tâche de faire le montage vidéo de notre video qui est a remettre dans une semaine.
 
 ---
 ## Semaine 2
