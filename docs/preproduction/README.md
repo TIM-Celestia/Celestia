@@ -1,4 +1,5 @@
-# Préproduction
+
++# Préproduction
 > C'est ici qu'on dépose les éléments de la préproduction.
 
 # Table des matières
@@ -124,6 +125,9 @@ https://www.youtube.com/watch?v=2k6H5Qa_fCE&t=123s
 
 ### Moodboard Sonore
 ![](https://www.youtube.com/watch?v=ArwcHjmsw3A)
+
+[![Toile ](https://github.com/TIM-Celestia/Celestia/assets/113621167/61cd292b-db15-4bb7-aad8-0ba107d91fb2)](https://www.youtube.com/watch?v=ArwcHjmsw3A)
+
 
 ## Scénario, scénarimage ou document audio/visuel
 ![projetFinal-board-00001](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/a8cfa858-2249-408a-b860-6e1f4d57385a)
