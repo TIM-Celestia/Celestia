@@ -100,7 +100,7 @@ Pour attirer l'intérateur à s'intéresser à notre oeuvre nous avons fait en s
 ## Tableau d'ambiance (*moodboard*)
 
 
-### Moodbord de l'idée de projet 
+### Moodboard de l'idée de projet 
 
 
 ![image](https://github.com/TIM-Celestia/Celestia/assets/113621167/103014e7-d3ce-4a01-8784-90d25a28a058)
@@ -108,7 +108,7 @@ Pour attirer l'intérateur à s'intéresser à notre oeuvre nous avons fait en s
 
 
 
-### Moodbord Visuel
+### Moodboard Visuel
 
 ![cube](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/f7b0dbe0-65ce-4031-a272-a28c96e289d1)
 
@@ -121,6 +121,9 @@ https://www.youtube.com/watch?v=2k6H5Qa_fCE&t=123s
 
 
 ![image](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/bba89e68-8fee-4a47-a6cd-1e5eb28ec432)
+
+### Moodboard Sonore
+![](https://www.youtube.com/watch?v=ArwcHjmsw3A)
 
 ## Scénario, scénarimage ou document audio/visuel
 ![projetFinal-board-00001](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/a8cfa858-2249-408a-b860-6e1f4d57385a)
@@ -141,11 +144,9 @@ Lorsque l'interacteur arrête d'appuyer la toile, la couleur changera graduellem
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 
-- 15 icônes de navigation (pour les utilisateur-trices)
-- 8 montages d'image
-- 3 paysages sonores
-- 5 vidéos d'animation 2D
-- 3 textes poétiques
+- 1 animation générative pour la toile 
+- 1 animation pour le mur
+- 2 ambiances sonores
 - 7 modules multimédias (ex. captation des données, interprétation des données, contrôle d'éclairage, effets audiovisuels, contrôle vidéo, contrôle de la navigation utilisateur & des différents sous-modules, diffusion et interaction en ligne...).
 - ...
 
@@ -177,10 +178,11 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
-* Tapis
-    * Couleur noir
-    * 22,9' x 6,56'
+* Toile de spandex
+    * 30" x 40"
+
 * Cyclorama
+* Construction en bois pour tenir la toile
 
 ## Équipements requis
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
@@ -295,6 +297,7 @@ https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/iss
 https://github.com/orgs/Houston-we-have-a-project/projects/1/views/1?filterQuery=assignee%3A%22im-boyo%22
 
 **Jolyanne Desjardins**
+-Coordination technique (Équipement et matériel)
 - Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
 - Mapping vidéo;
 - Communication entre les projecteurs avec TouchDesigner et MadMapper;
