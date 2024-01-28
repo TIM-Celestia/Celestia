@@ -15,15 +15,14 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- J'ai créer une réalisation artistique pour le mur.
-- J'ai rajouté une détection avec la souris.
+- J'ai fait un test de modèle artistique.
+- J'ai créer un deuxième modèle artistique pour le mur et cette fois-ci le vrai.
+- J'ai rajouté une détection avec la souris pour.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/motionCapture.jpg)
+![premier modèle](medias/premier_modele_artistique.png)
 ou
-![ici est une description de l'image](medias/console.jpg)
-ou
-![ici est une description de l'image](medias/photoshop.jpg)
+![vrai modèle](medias/vrai_modele_art_mur.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
