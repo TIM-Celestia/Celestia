@@ -42,10 +42,10 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 Première journée de cours 
 
 ### Mardi 
-Première rencontre avec les profs, nous avons représenté notre pré-production, soulevé quelque problème.Donc suite à la rencontre nous avons repenser notre projet,  trouvez d'autre inspiration pour la projection sur le mur et sur la toile.Felix et Maïka on commencé quelque tutoriel Touchdesigner pour ce familiariser avec le logiciel.Laurie à trouver des inspirations pour les sons et Jolyanne continuait à trouver des inspiration général et à corriger la pré-production avec les ajustements qu'on a faite.
+Première rencontre avec les profs, nous avons représenté notre pré-production, soulevé quelque problème.Donc suite à la rencontre nous avons repenser notre projet,  trouvez d'autre inspiration pour la projection sur le mur et sur la toile.Felix et Maïka on commencé quelque tutoriel Touchdesigner pour ce familiariser avec le logiciel.Laurie à trouver des inspirations pour les sons et a commencer la liste de matériels. Jolyanne continuait à trouver des inspiration général et à corriger la pré-production avec les ajustements qu'on a faite.
 
 ### Mercredi
-Avant le cours, on a commencé l'organisation des prochaines semaine. Maïka et Laurie on commencé à regarder des tutoriel pour les effets qui pourraient être intéressant dans Touchdesigner
+Avant le cours, on a commencé l'organisation des prochaines semaine. Maïka et Laurie on commencé à regarder des tutoriels pour les effets qui pourraient être intéressant dans Touchdesigner et les ont testés.
 Pour la première semaine, nous avons dû repenser à notre projet et aller plus en détail dans le choix de notre thème et l'esthétique dans lequel nous voulons aller. Nous avons aussi commencé les tests avec la Kinect pour détecter le mouvement.
  
 Durant le cours, on a montrée à Guillaume, les modifications qu'on a apporté à notre projet et essayer de trouver les mesures de la toile et des idées à comment la faire tenir.
