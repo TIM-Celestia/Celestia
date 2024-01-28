@@ -290,7 +290,7 @@ https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/iss
 **Laurie Houde**
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
 - Gestion du spotlight dirigé vers le tapis;
-- Fonctionnement des élément de la boîte à souliers.
+
 
 Liste des tâches dans Git Hub:  
 https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/issues/assigned/lauriehoude
