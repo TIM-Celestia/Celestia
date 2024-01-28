@@ -18,10 +18,12 @@
 - J'ai trouvé une nouvelle idée pour le projet
 - J'ai fait des tests sur TouchDesigner
 - J'ai créer un groupe sur team pour notre projet. J'ai aussi commencé l'organisation de la semaine en créant une liste de choses à faire pour l'équipe.
+- J'ai créé des sons sur VCV RACK 2
+
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/motionCapture.jpg)
+![image](https://github.com/TIM-Celestia/Celestia/assets/89647723/4d3ba636-891b-4142-beaf-3b1dc97eee3a)
 ou
 ![ici est une description de l'image](medias/console.jpg)
 ou
