@@ -52,7 +52,9 @@ Nom d'équipe : Célestia
 
 Le public cible est le public explorateur. En effet, le public que notre oeuvre attire c'est des gens curieux qui souhaitent voyager à travers notre oeuvre. De plus, se sont des personnes aventureux qui désirent se déplacer dans l'espace et découvrir de nouvelles choses.
 
+
 Écrire deux phrases sur chaque les quatre éléments spécifiques au médium de l’interactivité (8 phrases au total).Voir document.
+
 
 Comportement de l'intéracteur:
 
@@ -61,19 +63,33 @@ Esthétique: L'esthétisme d'un projet intéractif c'est le visuel physique de l
 
 Espace:
 
+
 Temps:
 
 Répondre à ces deux questions sur les émotions :
 
 · Quelles émotions voulez-vous faire vivre à l’interacteur?
-
+L'émotion
 · Pourquoi?
 
 Répondre à ces questions sur comment attiser la curiosité des interacteurs :
 
+
 · Quelles questions votre projet met-il dans l’esprit de l’interacteur?
 
+Qu'est ce que c'est ?
+
+À quoi sert la toile?
+
+À quoi toutes ces lignes projeter?
+
+
+
+
+
 · Que devrez-vous faire pour qu’il ait envie de réponde à ces questions?
+
+Pour attirer l'intérateur à s'intéresser à notre oeuvre nous avons fait en sorte de placer un spotlight au dessu de la toile. De plus, nous allons faire en sorte que lorsqu'il y a personne près de notre projet la projection qui est sur les trois murs va défiler très vite et une fois qu'il va y avoir quelqu'un de près elle va commencer à ralentir. Tout ces éléments ensemble vont attirer l'intérateur vers notre toile. Quand il va être devant la toile le spotlight va s'éteindre pour que l'utilisateur comprenne qu'il a un contrôle sur l'oeuvre et qu'il soit attirer vers la toile pour la toucher.
 
 
 ## Tableau d'ambiance (*moodboard*)
