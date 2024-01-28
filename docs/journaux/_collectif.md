@@ -12,8 +12,6 @@ Tout d’abord, comme prévu, nous avons terminé de créer nos images dans Phot
 
 Par la suite, nous avions prévu une séance d’enregistrement audio dans les studios de son. Cependant, misère (!), une panne d’électricité a eu lieu durant notre séance! Nous avons donc dû remettre celle-ci à quelques jours plus tard. (Nous avons beaucoup ri de cette situation.)
 
-
-
 Enfin, nous venons de commencer à mettre en espace le projet dans le grand studio du collège. Nos projecteurs viennent tout juste d’être installés! 
 
 
@@ -42,17 +40,16 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 Première journée de cours 
 
 ### Mardi 
-Première rencontre avec les profs, nous avons représenté notre pré-production, soulevé quelque problème.Donc suite à la rencontre nous avons repenser notre projet,  trouvez d'autre inspiration pour la projection sur le mur et sur la toile.Felix et Maïka on commencé quelque tutoriel Touchdesigner pour ce familiariser avec le logiciel.Laurie à trouver des inspirations pour les sons et a commencer la liste de matériels. Jolyanne continuait à trouver des inspiration général et à corriger la pré-production avec les ajustements qu'on a faite.
+Première rencontre avec les profs, nous avons représenté notre préproduction, soulevé quelques problèmes.Donc suite à la rencontre, nous avons repensé notre projet,  trouvé d'autres inspirations pour la projection sur le mur et sur la toile. Felix et Maïka ont commencé quelques tutoriels Touchdesigner pour se familiariser avec le logiciel. Laurie a trouvé des inspirations pour les sons et a commencé la liste de matériel. Jolyanne continuait à trouver des inspirations générales et à corriger la préproduction avec les ajustements qu'on a fait.
 
 ### Mercredi
-Avant le cours, on a commencé l'organisation des prochaines semaine. Maïka et Laurie on commencé à regarder des tutoriels pour les effets qui pourraient être intéressant dans Touchdesigner et les ont testés.
+Avant le cours, on a commencé l'organisation des prochaines semaines. Maïka et Laurie ont commencé à regarder des tutoriels pour les effets qui pourraient être intéressants dans Touchdesigner et les ont testés.
+
 Pour la première semaine, nous avons dû repenser à notre projet et aller plus en détail dans le choix de notre thème et l'esthétique dans lequel nous voulons aller. Nous avons aussi commencé les tests avec la Kinect pour détecter le mouvement.
  
-Durant le cours, on a montrée à Guillaume, les modifications qu'on a apporté à notre projet et essayer de trouver les mesures de la toile et des idées à comment la faire tenir.
+Durant le cours, on a montré à Guillaume, les modifications qu'on a apportées à notre projet et essayé de trouver les mesures de la toile et des idées à comment la faire tenir.
 
-
-Après le cours nous sommes resté et avons commencé à faire des tests avec la Kinect pour voir si on était capable de capter les mouvements de la main et de faire apparaître des effets à l'écran 
-
+Après le cours, nous sommes restés et avons commencé à faire des tests avec la Kinect pour voir si on était capable de capter les mouvements de la main et de faire apparaître des effets à l'écran.
 Résultats : 
 
 [![projet_touchdesigner_ordinateur](https://github.com/TIM-Celestia/Celestia/assets/113621167/c165c661-39f7-445b-9d69-c1f417d78e03)](https://youtu.be/-pw7Mnlt3s4 )
@@ -66,8 +63,7 @@ Résultat:
 
 ### vendredi 
 
-Vendredi étant une période autonome, nous avons décidé d'intégrer la toile. après quelque tutoriel Felix et Maïka ont réussi à détecter la profondeur de quand on appuit avec notre main.Laurie nous à faite écouter les débuts de son qu'elle a commencer la veille.Jolyanne, elle a continuer le github: faire un moodboard général du projet , vérifier la liste de matériels tout cela à été ralenti à cause d'un manque d'internet intermittent, donc elle n'a pas pus avancer autant qu'elle le souhaitait.
-
+Vendredi étant une période autonome, nous avons décidé d'intégrer la toile à nos tests. Après quelques tutoriels, Felix et Maïka ont réussi à détecter la distance entre la caméra de la Kinect et la toile lorsqu'on appuie sur celle-ci. Laurie a commencé à faire des sons, qu'elle nous a montré, et Jolyanne a fait moodboard général du projet et vérifié la liste de matériels.
 
 
 
