@@ -46,9 +46,6 @@ Nous ferons probablement des tests la semaine prochaine pour voir si on peut syn
 #### S'il y a des écarts, décrivez-les.
 il n'y a pas d'écart pour le moment.
 
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
 Essayer de syncroniser le modèle artistique de la toile avec lui du mur.
 
