@@ -66,16 +66,21 @@ Espace:
 
 Temps:
 
+
 Répondre à ces deux questions sur les émotions :
+
 
 · Quelles émotions voulez-vous faire vivre à l’interacteur?
 L'émotion
 · Pourquoi?
 
+
+
 Répondre à ces questions sur comment attiser la curiosité des interacteurs :
 
 
 · Quelles questions votre projet met-il dans l’esprit de l’interacteur?
+
 
 Qu'est ce que c'est ?
 
