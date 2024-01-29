@@ -126,10 +126,15 @@ https://www.youtube.com/watch?v=2k6H5Qa_fCE&t=123s
 ### Moodboard Sonore
 
 ambiance générale style white noise: https://www.youtube.com/watch?v=ArwcHjmsw3A 
+
 ambiance générale plus dynamique :https://www.youtube.com/watch?v=7jOySuVa3RM
+
 ambiance générale: https://www.youtube.com/watch?si=RrL2yh7cbbV1RWA0&v=1Mbn5GRYoRw&feature=youtu.be
+
 effet sonore impact :https://www.youtube.com/watch?v=LzDUGEwA5p8
+
 effet sonore souvenir :https://www.youtube.com/watch?v=Am4wYTiHHx8
+
 ambiance : https://www.youtube.com/watch?v=f7rspgCiYqk (0à 7 seconde)
 
 
@@ -200,36 +205,37 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 * Audio
     * 4 haut-parleurs actifs de 4"
-    * 5 fils XLR 3 conducteurs de 15' (M->F)
-    * Interface audio USB disposant 8 sorties 
+    * 5 fils XLR 3 conducteurs de 15'
+    * powercon 
+ 
 
 * Vidéo
-    * 4 projecteurs vidéo lentille standard
+ 
     * 4 systèmes d'acrochage
     * 2 kinects
-    * 4 cables HTMI
+    * 3 cables HTMI
 
 * Lumière
-    * 2 lumières LED RGBAW DMX
+    * 1 lumières LED RGBAW DMX
     * 2 fils XLR 3 conducteurs de 20'
-    * Interface DMX USB
+    * powercon
+  
 
 * Électricité
-    * 8 cordons IEC (pour l'alimentation des haut-parleurs)
-    * 2 extentions 3 fiches et 3 conducteurs 
-    * 4 multiprises
+    * 2 cordons IEC (pour l'alimentation des haut-parleurs)
+    * 2 extention
+
 
 * Réseau
-    * 4 fils cat6a de 15"
-    * 8 cables ethernet
-    * 4 received et transmited
+  
+    * 4 cables ethernet
+    * 3 received et transmited
 
 * Ordinateurs
-    * 2 ordinateurs portables
+    * 1 ordinateurs portables
     
 * Autres
-    * toile 8/10 pieds et fil 5 pieds de long
-    * béton
+  
 
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
