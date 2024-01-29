@@ -172,8 +172,9 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 ![plan_haut](https://github.com/TIM-Celestia/Celestia/assets/113621167/76509162-784c-4451-a464-e86fb80ec3d3)
 > Plantation vu de haut
 
-![plan-de-face 1](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/99ce743f-d452-40fe-a0cf-b29615301032)
+![plan-de-face 1](https://github.com/TIM-Celestia/Celestia/assets/113621167/c4981f03-2cd5-4937-a234-d189e5313619)
 > Plantation vu de face
+
 
 
 ![plan_cote](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/555a208a-a5f4-4e8e-a688-119886afb9d3)
