@@ -64,6 +64,13 @@ Résultat:
 ### vendredi 
 
 Vendredi étant une période autonome, nous avons décidé d'intégrer la toile à nos tests. Après quelques tutoriels, Felix et Maïka ont réussi à détecter la distance entre la caméra de la Kinect et la toile lorsqu'on appuie sur celle-ci. Laurie a commencé à faire des sons, qu'elle nous a montré, et Jolyanne a fait moodboard général du projet et vérifié la liste de matériels.
+Celestia/docs
+/journaux/
+
+
+[![projet_touchdesigner_ordinateur](Celestial/docs
+/journaux/installation_toile.jpg)]
+
 
 
 
