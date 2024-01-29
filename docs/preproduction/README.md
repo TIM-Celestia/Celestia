@@ -182,9 +182,6 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 
 
-![plan_cote](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/555a208a-a5f4-4e8e-a688-119886afb9d3)
-> Plantation vu de côté
-
  
 ### Schéma de branchement 
 
