@@ -45,6 +45,8 @@ Première rencontre avec les profs, nous avons représenté notre préproduction
 ### Mercredi
 Avant le cours, on a commencé l'organisation des prochaines semaines. Maïka et Laurie ont commencé à regarder des tutoriels pour les effets qui pourraient être intéressants dans Touchdesigner et les ont testés.
 
+![Uploading mercredi_tutoriel.jpg…]()
+
 Pour la première semaine, nous avons dû repenser à notre projet et aller plus en détail dans le choix de notre thème et l'esthétique dans lequel nous voulons aller. Nous avons aussi commencé les tests avec la Kinect pour détecter le mouvement.
  
 Durant le cours, on a montré à Guillaume, les modifications qu'on a apportées à notre projet et essayé de trouver les mesures de la toile et des idées à comment la faire tenir.
@@ -64,12 +66,10 @@ Résultat:
 ### vendredi 
 
 Vendredi étant une période autonome, nous avons décidé d'intégrer la toile à nos tests. Après quelques tutoriels, Felix et Maïka ont réussi à détecter la distance entre la caméra de la Kinect et la toile lorsqu'on appuie sur celle-ci. Laurie a commencé à faire des sons, qu'elle nous a montré, et Jolyanne a fait moodboard général du projet et vérifié la liste de matériels.
-Celestia/docs
-/journaux/
 
-
-[![projet_touchdesigner_ordinateur](Celestial/docs
-/journaux/installation_toile.jpg)]
+![felix_test](https://github.com/TIM-Celestia/Celestia/assets/113621167/5a97e9ab-cefa-4514-b3d7-f6fd1375cc0c)
+![plan_boite](https://github.com/TIM-Celestia/Celestia/assets/113621167/75b1cf7f-68f7-4a89-8290-958e94848d79)
+![installation_toile](https://github.com/TIM-Celestia/Celestia/assets/113621167/2ecdf2d4-3648-4910-8d4c-b41e8338f1a8)
 
 
 
