@@ -16,19 +16,17 @@
 
 ### Résumé des réalisations effectuées
 - Écrire les idées de notre version du du projet sur github avec les liens vers les vidéo de référence.
-- Commencer l'agenda
+- Commencer l'échéantier
+- Commencer les plans pour la boite et la toile
   
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/motionCapture.jpg)
-ou
-![ici est une description de l'image](medias/console.jpg)
-ou
-![ici est une description de l'image](medias/photoshop.jpg)
+![plan_boite](https://github.com/TIM-Celestia/Celestia/assets/113621167/75b1cf7f-68f7-4a89-8290-958e94848d79)
+
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
-- [ x] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
