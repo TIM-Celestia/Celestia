@@ -72,8 +72,11 @@ Répondre à ces deux questions sur les émotions :
 
 
 · Quelles émotions voulez-vous faire vivre à l’interacteur?
+
 La sérénité
+
 · Pourquoi?
+
 Avant que la personne rentre dans la zone, toute est très rapide mais quand elle rentre tout est lent. Le son ambiant est paisible ce qui est projeté sur le mur et la toile est calme et quand l'on intéragie l'intéractivité est paisible, comme si on contrôlait le temps.
 
 
