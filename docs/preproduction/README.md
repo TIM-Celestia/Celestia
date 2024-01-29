@@ -62,19 +62,19 @@ Comportement de l'intéracteur:
 Esthétique: L'esthétisme d'un projet intéractif c'est le visuel physique de l'oeuvre ainsi que la cohérence entre les différent choix arstique comme le son, les images et les structures. De plus, c'est aussi la beauté du code par exemple son aligment et les commentaire. La propreté dans la programmation fait aussi partie de l'esthétisme. Pour ce qui est de notre projet nos choix artistiques sont très cohérent, ils ont tous été réflechi en conséquence. Par exemple tout ce qui est physique de l'oeuvre comme la toile et sa struture c'est très sobre. Pour ce qui est du code dans notre projet, il est bien exécuté et très clair. Notre programmation se fait dans Touchdesigner. Pour finir, la bande sonore et le visuel se complète très bien dans leur côté mystérieux.
 
 
-Espace:
+Espace: L'espace c'est un volume dans lequel l'interracteur occupe afin d'intéragir avec l'oeuvre. Il peut être soit immense, petit ou assez vaste, et ce qui est intéressant c'est que l'interracteur controle cet espace. La projection sur la toile permet de créer une plus grande espace qui s'affiche au mur, on peut donc iterragir avec cette oeuvre qui suivera la perssone en face, c'est ainsi qu'on peut exploré l'étendue de cet espace. L'espace dans notre projet existe grâce à la personne qui la contrôle avec la toile et son corps.
 
 
-Temps:
+Temps: Le temps est un fil qui ralonge selon différente temporalité, action ou évènement dans la vie. Dans notre projet il est surtout question du temps, le simple action de mettre la main sur la toile suffit pour que des lignes se créer et disparait quant l'interracteur cesse d'appuyer. Le délai est aussi une branche dans la foction de la temporalité, on l'exploite beaucoup dans notre projet. Entre le temps ou on dépose la main, le temps que les lignes s'affichent et ensuite disparaissent, cela représente un délai.
 
 
 Répondre à ces deux questions sur les émotions :
 
 
 · Quelles émotions voulez-vous faire vivre à l’interacteur?
-L'émotion
+La sérénité
 · Pourquoi?
-
+Avant que la personne rentre dans la zone, toute est très rapide mais quand elle rentre tout est lent. Le son ambiant est paisible ce qui est projeté sur le mur et la toile est calme et quand l'on intéragie l'intéractivité est paisible, comme si on contrôlait le temps.
 
 
 Répondre à ces questions sur comment attiser la curiosité des interacteurs :
