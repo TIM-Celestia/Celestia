@@ -140,20 +140,17 @@ ambiance : https://www.youtube.com/watch?v=f7rspgCiYqk (0à 7 seconde)
 
 
 ## Scénario, scénarimage ou document audio/visuel
-![projetFinal-board-00001](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/a8cfa858-2249-408a-b860-6e1f4d57385a)
+![projetFinal-board-00001](medias/Rhizomatique-board-00001.png)
 Ce que l'interacteur voit quand il arrive à l'installation
 
-![projetFinal-board-00002](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/7d3ed631-68f1-460e-a529-604188a3f7ae)
-L'interacteur met ses souliers/bottes dans la boîte à côté de l'installation. Une lumière s'allumera lorsqu'il détecte un objet dedans
+![projetFinal-board-00002](medias/Rhizomatique-board-00002.png)
+Lorsque l'interacteur arrive devant l'installation, le spotlight au-dessus s'éteint et la projection sur le cyclo ralentira.
 
-![projetFinal-board-00003](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/c184c17e-d9e1-4fac-af6d-36b4730ffefb)
-L'interacteur entre dans le cyclo où une projection rapide est projetée sur les murs du cyclo et un spotlight délimite une zone sur le tapis. La projection ralentit et la lumière s'éteint lorsque l'interacteur entre dans la zone délimitée par le spotlight devant le mur extensible.
+![projetFinal-board-00003](medias/Rhizomatique-board-00003.png)
+Lorsque l'interactuer appuie sur la toile, la projection sur celle-ci changera où il appuie. De plus, la projection sur le cyclo aura un effet qui apparaitera après un certain delai. 
 
-![projetFinal-board-00005](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/8f6ff0b6-425d-4d15-82d8-1800b6bec780)
-Lorsque l'interacteur appuie sur la toile, la projection changera à cet endroit. La projection en arrière suit où l'interacteur appuie.
-
-![projetFinal-board-00006](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/565b6bf5-1768-4d88-844e-2cc805cf8c5b)
-Lorsque l'interacteur arrête d'appuyer la toile, la couleur changera graduellement à partir de la toile jusqu'à en arrière de l'interacteur
+![projetFinal-board-00005](medias/Rhizomatique-board-00004.png)
+Enfin, une fois que l'interacteur quitte l'installation, l'effet qu'il a crée sur la projection au cyclo demeura pendant un certain nombre de minutes, afin qu'il puisse voir l'impact qu'il a eu sur l'oeuvre.
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
