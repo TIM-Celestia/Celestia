@@ -128,7 +128,7 @@ https://www.youtube.com/watch?v=2k6H5Qa_fCE&t=123s
 
 ### Moodboard Sonore
 
-pour l'ambiance général sonore nous voulons que l'on puisse entendre le son des vidéos
+pour l'ambiance général sonore nous voulons que l'on puisse entendre le son des vidéos et comme son en arrière plan , un son doux , chaleureux, joyeux
 ambiance générale style white noise: https://www.youtube.com/watch?v=ArwcHjmsw3A 
 
 ambiance générale plus dynamique :https://www.youtube.com/watch?v=7jOySuVa3RM
