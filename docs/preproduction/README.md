@@ -180,7 +180,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ### Plantation 
 
-![image](https://github.com/TIM-Celestia/Celestia/assets/113621167/103014e7-d3ce-4a01-8784-90d25a28a058)
+![image](Rhizomatique/docs/preproduction/medias/rhizomatique_plantation.drawio.png)
 
 
 
