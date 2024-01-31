@@ -39,7 +39,7 @@
 
 ## Intention de départ
  
-Rizhomatique est une œuvre multimédia immersive qui relie l'humain et le temps. De nos jours , le temps controle notre vie, on est toujours occupé et on a moins le temps de rien faire car la vie va trop vite. L’œuvre consiste à insité l'intéracteur à vouloir oublier le temps qui passe et d'apprésier le temps présent.Rizhomatique est une ouvre concentrer sur le thème du temps et la mémoire humaine. Dans notre oeuvre on représente ça par une toile et de la projection. La toile est le support qui va comme représenter le cerveau et ses neurones et les projections sur les murs vont représenter nos souvenirs.
+Rhizomatique est une œuvre multimédia immersive qui relie l'humain et le temps. De nos jours , le temps controle notre vie, on est toujours occupé et on a moins le temps de rien faire car la vie va trop vite. L’œuvre consiste à insité l'intéracteur à vouloir oublier le temps qui passe et d'apprésier le temps présent.Rizhomatique est une ouvre concentrer sur le thème du temps et la mémoire humaine. Dans notre oeuvre on représente ça par une toile et de la projection. La toile est le support qui va comme représenter le cerveau et ses neurones et les projections sur les murs vont représenter nos souvenirs.
 
 La toile va représenter notre cerveau, les mémoires des membres de notre équipe avec une banque de vidéo souvenir de nous ou de qui ont était et de qui on deviens.
 
