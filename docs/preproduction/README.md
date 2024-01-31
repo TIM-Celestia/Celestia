@@ -180,7 +180,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ### Plantation 
 
-![image](Rhizomatique/docs/preproduction/medias/rhizomatique_plantation.drawio.png)
+![image](medias/rhizomatique_plantation.drawio.png)
 
 
 
