@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T20:30:02.545Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="qZHVE6izEG7U53ip2V1V" version="23.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-31T20:38:13.810Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="URCGtvrtfMlGeC7yn4Zy" version="23.1.0" type="github">
   <diagram name="Page-1" id="i1psZpg8WtZZ6GlQXMet">
-    <mxGraphModel dx="1400" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,10 +80,10 @@
           <mxGeometry x="371" y="670" width="88" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0mWBwlVyOOwroPePg85K-26" value="&lt;div&gt;Projecteur&lt;/div&gt;&lt;div&gt;(Vertical)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="681.5" y="650" width="41" height="70" as="geometry" />
+          <mxGeometry x="681.5" y="650" width="58.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0mWBwlVyOOwroPePg85K-27" value="&lt;div&gt;Projecteur&lt;/div&gt;&lt;div&gt;(Vertical)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="650" width="41" height="70" as="geometry" />
+          <mxGeometry x="90" y="650" width="61" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0mWBwlVyOOwroPePg85K-28" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0mWBwlVyOOwroPePg85K-27" target="0mWBwlVyOOwroPePg85K-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -103,10 +103,10 @@
             <mxPoint x="300" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0mWBwlVyOOwroPePg85K-32" value="Vue de haut" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="0mWBwlVyOOwroPePg85K-32" value="Vue de haut" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="100" y="240" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0mWBwlVyOOwroPePg85K-33" value="Vue de face" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="0mWBwlVyOOwroPePg85K-33" value="Vue de face" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="100" y="620" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
