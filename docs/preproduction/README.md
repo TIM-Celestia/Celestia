@@ -129,17 +129,13 @@ https://www.youtube.com/watch?v=2k6H5Qa_fCE&t=123s
 ### Moodboard Sonore
 
 pour l'ambiance général sonore nous voulons que l'on puisse entendre le son des vidéos et comme son en arrière plan , un son doux , chaleureux, joyeux
-ambiance générale style white noise: https://www.youtube.com/watch?v=ArwcHjmsw3A 
+https://youtu.be/fbn8jXv5gqw?si=-5S4xzNioLJOh6Wz
 
-ambiance générale plus dynamique :https://www.youtube.com/watch?v=7jOySuVa3RM
+https://www.youtube.com/watch?v=Hrx0GVB5TT4
 
-ambiance générale: https://www.youtube.com/watch?si=RrL2yh7cbbV1RWA0&v=1Mbn5GRYoRw&feature=youtu.be
+https://youtu.be/TIju4Nfc3-s?si=KvJZ-e6KPWePmNkk
 
-effet sonore impact :https://www.youtube.com/watch?v=LzDUGEwA5p8
-
-effet sonore souvenir :https://www.youtube.com/watch?v=Am4wYTiHHx8
-
-ambiance : https://www.youtube.com/watch?v=f7rspgCiYqk (0à 7 seconde)
+https://youtu.be/vwudm0Pe4mE?si=84BLB6ZMuDLfK96u
 
 
 
