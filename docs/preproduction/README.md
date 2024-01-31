@@ -119,21 +119,21 @@ Pour attirer l'intérateur à s'intéresser à notre oeuvre nous avons fait en s
  > title="Physarum with Touchdesigner"
 https://www.youtube.com/watch?v=2k6H5Qa_fCE&t=123s
 
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/QjaTnrS0IZM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlUeq1fGoKy-bU2EaoBtuHYTS9-w)](https://youtu.be/cvvyqKsGD78)
-
-
-![image](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/bba89e68-8fee-4a47-a6cd-1e5eb28ec432)
 
 
 [![Toile ](https://github.com/TIM-Celestia/Celestia/assets/113621167/6e23f978-ccc6-4a65-9786-34fa2d49fad3A)](https://www.youtube.com/embed/BLHGjFGR7LM)
 
+> Inspo pour les souvenirs
+
 [![Toile ](https://github.com/TIM-Celestia/Rhizomatique/assets/113621167/a34df490-a0b5-4790-be69-9a8c0cfcda0d)](https://youtu.be/lB9xcANebyo)
+
+> Inspo pour la toile (cerveau)
 
 
 ### Moodboard Sonore
 
 
-pour l'ambiance général sonore nous voulons que l'on puisse entendre le son des vidéos et comme son en arrière plan , un son doux , chaleureux, joyeux et evolutif en changeant selon la clarté des souvenirs
+Pour l'ambiance général sonore nous voulons que l'on puisse entendre le son des vidéos auquel on va ajouté un effet pour ajouté un effet flou et lointain au son comme un souvenir. Il va et comme son en arrière plan , un son doux , chaleureux, joyeux et evolutif en changeant selon la clarté des souvenirs
 https://youtu.be/fbn8jXv5gqw?si=-5S4xzNioLJOh6Wz
 
 https://www.youtube.com/watch?v=Hrx0GVB5TT4
