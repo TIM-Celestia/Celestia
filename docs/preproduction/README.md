@@ -179,11 +179,8 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 > Insérer plans, documents et schémas pertinents dans cette sectio.  
 
 ### Plantation 
-![plan_haut](https://github.com/TIM-Celestia/Celestia/assets/113621167/76509162-784c-4451-a464-e86fb80ec3d3)
-> Plantation vu de haut
 
-![plan-de-face 1](https://github.com/TIM-Celestia/Celestia/assets/113621167/c4981f03-2cd5-4937-a234-d189e5313619)
-> Plantation vu de face
+![image](https://github.com/TIM-Celestia/Celestia/assets/113621167/103014e7-d3ce-4a01-8784-90d25a28a058)
 
 
 
