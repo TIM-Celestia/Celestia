@@ -129,6 +129,9 @@ https://www.youtube.com/watch?v=2k6H5Qa_fCE&t=123s
 
 > Inspo pour la toile (cerveau)
 
+[![Toile ](https://github.com/TIM-Celestia/Rhizomatique/assets/113621167/4047956b-1b04-47be-bbd0-7454036fb2db)](https://youtu.be/yRMQaRIT5BE)
+
+
 
 ### Moodboard Sonore
 
