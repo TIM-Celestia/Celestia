@@ -127,6 +127,9 @@ https://www.youtube.com/watch?v=2k6H5Qa_fCE&t=123s
 
 [![Toile ](https://github.com/TIM-Celestia/Celestia/assets/113621167/6e23f978-ccc6-4a65-9786-34fa2d49fad3A)](https://www.youtube.com/embed/BLHGjFGR7LM)
 
+[![Toile ](https://github.com/TIM-Celestia/Rhizomatique/assets/113621167/a34df490-a0b5-4790-be69-9a8c0cfcda0d)](https://youtu.be/lB9xcANebyo)
+
+
 ### Moodboard Sonore
 
 
