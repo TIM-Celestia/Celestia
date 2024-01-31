@@ -39,9 +39,7 @@
 
 ## Intention de départ
  
-Rhizomatique est une œuvre multimédia immersive qui relie l'humain et le temps. De nos jours , le temps controle notre vie, on est toujours occupé et on a moins le temps de rien faire car la vie va trop vite. L’œuvre consiste à insité l'intéracteur à vouloir oublier le temps qui passe et d'apprésier le temps présent.Rizhomatique est une ouvre concentrer sur le thème du temps et la mémoire humaine. Dans notre oeuvre on représente ça par une toile et de la projection. La toile est le support qui va comme représenter le cerveau et ses neurones et les projections sur les murs vont représenter nos souvenirs.
-
-La toile va représenter notre cerveau, les mémoires des membres de notre équipe avec une banque de vidéo souvenir de nous ou de qui ont était et de qui on deviens.
+Rhizomatique est une œuvre multimédia immersive qui relie l'humain et le temps. De nos jours , le temps controle notre vie, on est toujours occupé et on a moins le temps de rien faire car la vie va trop vite. L’œuvre consiste à insité l'intéracteur à vouloir oublier le temps qui passe et d'apprésier le temps présent.Rizhomatique est une ouvre concentrer sur le thème du temps et la mémoire humaine. Dans notre oeuvre on représente ça par une toile et de la projection. La toile est le support qui va comme représenter le cerveau d'une personne basé sur ces souvenirs.
 
 Lorsque nous allons appuyer sur la toile , celle si va faire afficher un nouveau souvenir sur les murs du cyclo, plus il y a d'interaction avec la toile plus le souvenir va prendre de l'ampleur et va jouer en boucle jusqu'à ce que l'interacteur retire ses mains et que le souvenir va fade out jusqu'à ce qu'on voit juste animation des lignes.Lorsque l'intéracteur va remettre ses mains un nouveau souvenir va jouer. 
 
@@ -132,7 +130,7 @@ https://www.youtube.com/watch?v=2k6H5Qa_fCE&t=123s
 ### Moodboard Sonore
 
 
-pour l'ambiance général sonore nous voulons que l'on puisse entendre le son des vidéos et comme son en arrière plan , un son doux , chaleureux, joyeux
+pour l'ambiance général sonore nous voulons que l'on puisse entendre le son des vidéos et comme son en arrière plan , un son doux , chaleureux, joyeux et evolutif en changeant selon la clarté des souvenirs
 https://youtu.be/fbn8jXv5gqw?si=-5S4xzNioLJOh6Wz
 
 https://www.youtube.com/watch?v=Hrx0GVB5TT4
