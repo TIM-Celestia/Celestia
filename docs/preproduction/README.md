@@ -204,7 +204,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * Construction en bois pour tenir la toile
 
 ## Équipements requis
-> Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
+
 
 * Audio
     * 4 haut-parleurs actifs de 4"
@@ -241,7 +241,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
   
 
 ## Logiciels requis
-> Liste des logiciels requis, version ainsi que leurs dépendences
+
 
 * [TouchDesigner](https://derivative.ca/) 
     * [QlC+](https://www.qlcplus.org/)
@@ -250,14 +250,14 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 
 ## Ressources humaines requises
-> Formaté en liste ou en lien vers un tableur Excel.
+
 
 * TTP, location de matériel
 * Guillaume
 
 
 ## Ressources spatiales requises (rangement et locaux)
-> Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
+
 
 * Grand studio
     * Projection vidéo dans le cyclo
