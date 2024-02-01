@@ -233,10 +233,11 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 ## Logiciels requis
 
 
-* [TouchDesigner](https://derivative.ca/) 
-    * [QlC+](https://www.qlcplus.org/)
+* [TouchDesigner](https://derivative.ca/)
+*  [QlC+](https://www.qlcplus.org/)
 * [MadMapper](https://madmapper.com/)
 * [VCV Rack 2](https://vcvrack.com/Rack)
+* [DaVinci Resolve](https://vcvrack.com/Rack)
 
 
 ## Ressources humaines requises
