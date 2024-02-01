@@ -142,16 +142,16 @@ https://youtu.be/vwudm0Pe4mE?si=84BLB6ZMuDLfK96u
 
 ## Scénario, scénarimage ou document audio/visuel
 ![projetFinal-board-00001](medias/Rhizomatique-board-00001.png)
-Ce que l'interacteur voit quand il arrive à l'installation
+Ce que l'interacteur voit quand il arrive à l'installation. Il voit au murs plein de vidéo flou superposer une par dessus l'autre 
 
 ![projetFinal-board-00002](medias/Rhizomatique-board-00002.png)
-Lorsque l'interacteur arrive devant l'installation, le spotlight au-dessus s'éteint et la projection sur le cyclo ralentira.
+Lorsque l'interacteur arrive devant l'installation, le spotlight au-dessus s'éteint et on voit les particules se promener sur le cyclo.
 
 ![projetFinal-board-00003](medias/Rhizomatique-board-00003.png)
-Lorsque l'interactuer appuie sur la toile, la projection sur celle-ci changera où il appuie. De plus, la projection sur le cyclo aura un effet qui apparaitera après un certain delai. 
+Lorsque l'interactuer appuie sur la toile, la projection affichera un souvenir de la personne qui apparaitra au travers des particules. 
 
 ![projetFinal-board-00005](medias/Rhizomatique-board-00004.png)
-Enfin, une fois que l'interacteur quitte l'installation, l'effet qu'il a crée sur la projection au cyclo demeura pendant un certain nombre de minutes, afin qu'il puisse voir l'impact qu'il a eu sur l'oeuvre.
+Enfin, une fois que l'interacteur quitte l'installation, l'effet qu'il a crée sur la projection va redevenir graduellement vers son état de départ.
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
