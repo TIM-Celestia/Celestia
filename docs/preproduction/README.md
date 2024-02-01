@@ -55,7 +55,7 @@ Le public cible est le public explorateur. En effet, le public que notre oeuvre 
 Écrire deux phrases sur chaque les quatre éléments spécifiques au médium de l’interactivité (8 phrases au total).Voir document.
 
 
-Comportement de l'intéracteur:
+Comportement de l'intéracteur: Le comportement de l'intéracteur peut influencer l'oeuvre avec la façon dont il le traite. Dans notre projet ces comportements sont influencer par la curiosité des gens à découvrir les souvenirs qui sont projeté au mur. Ils vont devoir touché la toile pour que l'oeuvre existe.
 
 Esthétique: L'esthétisme d'un projet intéractif c'est le visuel physique de l'oeuvre ainsi que la cohérence entre les différent choix arstique comme le son, les images et les structures. De plus, c'est aussi la beauté du code par exemple son aligment et les commentaire. La propreté dans la programmation fait aussi partie de l'esthétisme. Pour ce qui est de notre projet nos choix artistiques sont très cohérent, ils ont tous été réflechi en conséquence. Par exemple tout ce qui est physique de l'oeuvre comme la toile et sa struture c'est très sobre. Pour ce qui est du code dans notre projet, il est bien exécuté et très clair. Notre programmation se fait dans Touchdesigner. Pour finir, la bande sonore et le visuel se complète très bien dans leur côté mystérieux.
 
