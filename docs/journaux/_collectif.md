@@ -32,7 +32,13 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 ## Semaine 3
 
 ## Semaine 2
+### Lundi 
 
+Nous avons commencé la semaine avec un scrum de groupe et après le scrum nous nous sommes concentré sur les mesure de la toile et revérifier les mesures , nos possibilités pour la toile de Spandex et des idées de comment on pourrait la faire tenir sans être déchirer. 
+
+### Mardi 
+
+Nous avons eu notre reencontre hebdomadaire avec Guillaume et Thomas sur l'avancement du projet. En discutant avec eu nous avons décidé d'au lieu de projeter des souvenirs en forme de lignes , nous devrions upté pour quelque chose de plus concret... Des vrai souvenir vidéo. Après la discussion nous sommes partie acheter la toile pour commencer nos test de détection avec la toile.
 ## Semaine 1
 
 ### Lundi 
