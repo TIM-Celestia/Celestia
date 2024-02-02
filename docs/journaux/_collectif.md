@@ -1,3 +1,5 @@
+
+
 # Journal de création
 
 ## Semaine 9
@@ -39,6 +41,9 @@ Nous avons commencé la semaine avec un scrum de groupe et après le scrum nous 
 ### Mardi 
 
 Nous avons eu notre reencontre hebdomadaire avec Guillaume et Thomas sur l'avancement du projet. En discutant avec eu nous avons décidé d'au lieu de projeter des souvenirs en forme de lignes , nous devrions upté pour quelque chose de plus concret... Des vrai souvenir vidéo. Après la discussion nous sommes partie acheter la toile pour commencer nos test de détection avec la toile.
+
+### Mercredi
+Nous avons commencer nos tests avec la toile nous avons commencer avec une plus grande surface pour nos tests, nous avons aussi regarder l'angle de la kinect et la distance minimum à laquel la kinet peut capter
 ## Semaine 1
 
 ### Lundi 
