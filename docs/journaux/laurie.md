@@ -1,6 +1,7 @@
 # Journal de "Participant 1"
+![portrait felix](../web/medias/participants/felix-celestia.png)
 
-![lauriehoude](https://github.com/TIM-Celestia/Rhizomatique/assets/89647723/e6ee5f23-66b7-46a2-af0e-32bca319ddc3)
+![lauriehoude](../web/medias/participants/lauriehoude.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
