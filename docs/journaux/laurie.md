@@ -1,5 +1,4 @@
 # Journal de "Participant 1"
-![portrait felix](../web/medias/participants/felix-celestia.png)
 
 ![lauriehoude](../web/medias/participants/lauriehoude.png)
 
