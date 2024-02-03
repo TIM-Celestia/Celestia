@@ -44,6 +44,16 @@ Rhizomatique est une œuvre multimédia immersive qui relie l'humain et le temps
 Lorsque nous allons appuyer sur la toile , celle si va faire afficher un nouveau souvenir sur les murs du cyclo, plus il y a d'interaction avec la toile plus le souvenir va prendre de l'ampleur et va jouer en boucle jusqu'à ce que l'interacteur retire ses mains et que le souvenir va fade out jusqu'à ce qu'on voit juste animation des lignes.Lorsque l'intéracteur va remettre ses mains un nouveau souvenir va jouer. 
 
 
+Le comportement de l'intéracteur peut influencer l'oeuvre avec la façon dont il le traite. Dans notre projet ces comportements sont influencer par la curiosité des gens à découvrir les souvenirs qui sont projeté au mur. Ils vont devoir touché la toile pour que l'oeuvre existe.
+
+Esthétique: L'estthétique de notre projet ce résume avec une projection sur la toile qui est un melange de fluide avec des rhizomes qui L'esthétisme d'un projet intéractif c'est le visuel physique de l'oeuvre ainsi que la cohérence entre les différents choix arstique comme le son, les images et les structures. De plus, c'est aussi la beauté du code par exemple son aligment et les commentaire. La propreté dans la programmation fait aussi partie de l'esthétisme. Pour ce qui est de notre projet nos choix artistiques sont très cohérent, ils ont tous été réflechi en conséquence. Par exemple tout ce qui est physique de l'oeuvre comme la toile et sa struture c'est très sobre. Pour ce qui est du code dans notre projet, il est bien exécuté et très clair. Notre programmation se fait dans Touchdesigner. Pour finir, la bande sonore et le visuel se complète très bien dans leur côté mystérieux.
+
+Espace: L'espace c'est un volume dans lequel l'interracteur occupe afin d'intéragir avec l'oeuvre. Il peut être soit immense, petit ou assez vaste, et ce qui est intéressant c'est que l'interracteur controle cet espace. La projection sur la toile permet de créer une plus grande espace qui s'affiche au mur, on peut donc iterragir avec cette oeuvre qui suivera la perssone en face, c'est ainsi qu'on peut exploré l'étendue de cet espace. L'espace dans notre projet existe grâce à la personne qui la contrôle avec la toile et son corps.
+
+Notre oeuvre consiste de 2 espaces , l'espace de la toile, qui va être intéractif. Cette espace va donner le contrôle à l'intéracteur. Les projection sur les murs eu sont l'espace qui est plus contemplatif, ils servent à visionner les souvenirs.
+
+
+Le temps est un fil qui ralonge selon différente temporalité, action ou évènement dans la vie. Dans notre projet il est surtout question du temps.En appuyant sur la toile l'intéracteur va donner l'impression de naviguer dans le cerveau pour y découvrir ces souvenirs , qui vont par la suite être réveller sur les murs du cyclo. Lorsque l'intéraction prend fin la projection sur les murs vont reprendre leur état initale jusqu'à la prochaine intérection.
 
 ## Quatre éléments spécifiques au médium de l’interactivité
 
@@ -95,13 +105,24 @@ Qu'est ce que c'est ?
 À quoi toutes ces lignes projeter?
 
 
-
-
-
 · Que devrez-vous faire pour qu’il ait envie de réponde à ces questions?
 
 Pour attirer l'intérateur à s'intéresser à notre oeuvre nous avons fait en sorte de placer un spotlight au dessu de la toile. De plus, nous allons faire en sorte que lorsqu'il y a personne près de notre projet la projection qui est sur les trois murs va défiler très vite et une fois qu'il va y avoir quelqu'un de près elle va commencer à ralentir. Tout ces éléments ensemble vont attirer l'intérateur vers notre toile. Quand il va être devant la toile le spotlight va s'éteindre pour que l'utilisateur comprenne qu'il a un contrôle sur l'oeuvre et qu'il soit attirer vers la toile pour la toucher.
 
+### Liste des verbes action basique
+- toucher
+- appuyer
+
+### Listez tous les objets sur lesquels chaque verbe peut agir et comment ils le font.
+- Sur la toile
+
+### Listez plusieurs actions émergentes que vous aimeriez que vos interacteurs effectuent.
+- Utiliser les deux mains pour que les souvenirs deviennent plus claire
+### Listez toutes les façons que les interacteurs peuvent faire progresser l’expérience.
+
+
+
+· Finalisez le paragraphe décrivant votre projet en intégrant ce que vous avez rédigé la semaine précédente sur les éléments spécifiques à l’interactivité (comportement de l’interacteur, esthétique, espace et temps).
 
 ## Tableau d'ambiance (*moodboard*)
 
