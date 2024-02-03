@@ -31,7 +31,7 @@
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Pour la planification avoir un ensemble des dates importante et pouvoir savoir ce qu'on doit faire à chaque semaine pour pas prendre de retard.
+Pour la planification avoir un ensemble des dates importantes et pouvoir savoir ce qu'on doit faire à chaque semaine pour pas prendre de retard.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
@@ -44,39 +44,43 @@ Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis con
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Mauris nec ante egestas, vulputate dolor a, suscipit nulla. Phasellus vitae nisl pharetra, dapibus purus quis, porttitor velit. Vestibulum nec mauris est.
+
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec porttitor at metus id viverra.
+
 
 ### Défis pour la prochaine semaine
-Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
+installer le projecteur pour projeter sur la toile
 
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
+- J'ai continuer à ajouté les infos sur le github
+- Connecter le projecteur avec madmapper pour afficher la projection sur la toile.
+- Commencer la réalisation du logo
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+image à venir
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [ x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ j'ai réussi à projeter la projection de la toile en installant le projecteur ultra wide en le connectant a madmapper avec obs.
+
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x ] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -88,7 +92,7 @@ Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id 
 
 
 ### Défis pour la prochaine semaine
-
+Commencer le mapping dans le cyclo
 
 ---
 ## Semaine 3 
