@@ -58,7 +58,7 @@ Installer le projecteur pour projeter sur la toile
 - J'ai continuer à ajouté les infos sur le github
 - Connecter le projecteur avec madmapper pour afficher la projection sur la toile.
 - Commencer la réalisation du logo
-
+- Faire le devoir de Thomas
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
