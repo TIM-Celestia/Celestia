@@ -58,28 +58,31 @@ Mon défi pour la semaine prochaine c'est de acheter les toiles et de peux etre 
 ## Semaine 2
 ### Résumé des réalisations effectuées
 
+Pour la semaine du 29 janvier au 5 février, j'avais pour mission de continuer les sons de notre projet, de trouver des médias qui vont être les souvenirs et de faire le montage vidéo de notre capsule de présentation du projet. J'ai réussi à créer à l'aide d'inspiration un sons plutôt intéressant sur VCV Rack 2. De plus, j'ai fini le montage de la capsule. Pour ce qui est des médias, c'est un processus assez long faire le choix des médias, mais ça avance quand même assez bien.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![sons_ambiant](https://github.com/TIM-Celestia/Rhizomatique/assets/89647723/2ab5a0c7-ee4c-4318-9b3b-2053d2f37fcc)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [ x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
 
+ Je suis assez satisfaite de ce que j'ai fait cette semaine car je pense que je suis sur une bonne piste avec les sons. Au début de la semaine, j'étais un peu découragé car je ne savais comment commencer pour la création de sons, mais grâce à une vidéo Youtube j'ai réussi à avancer. Pour ce qui est du montage de la capsule ça la été assez rapide. Pour ce qui est du choix des médias c'est un processus quand même long car il y a des vidéos qui datent de très longtemps donc je dois manuellement les converser au bon format pour les rendre utilisable et lisible par TouchDesigner.
+ 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -90,7 +93,7 @@ Mon défi pour la semaine prochaine c'est de acheter les toiles et de peux etre 
 
 
 ### Défis pour la prochaine semaine
-
+Mon défi pour la semaine prochaine c'est d'avoir regrouper assez de médias pour reconstruire la vie d'une femme et de créer encore plus de sons. 
 
 ---
 ## Semaine 3 
