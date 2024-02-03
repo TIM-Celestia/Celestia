@@ -33,8 +33,8 @@
 #### Décrivez pourquoi.
 Pour la planification avoir un ensemble des dates importantes et pouvoir savoir ce qu'on doit faire à chaque semaine pour pas prendre de retard.
 
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
+
+
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -50,7 +50,7 @@ Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis con
 
 
 ### Défis pour la prochaine semaine
-installer le projecteur pour projeter sur la toile
+Installer le projecteur pour projeter sur la toile
 
 ---
 ## Semaine 2
@@ -66,13 +66,13 @@ image à venir
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ x] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- j'ai réussi à projeter la projection de la toile en installant le projecteur ultra wide en le connectant a madmapper avec obs.
+ J'ai réussi à projeter la projection de la toile en installant le projecteur ultra wide en le connectant a madmapper avec obs.
 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
