@@ -63,6 +63,7 @@ Pour la semaine du 29 janvier au 5 février, j'avais pour mission de continuer l
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 ![sons_ambiant](https://github.com/TIM-Celestia/Rhizomatique/assets/89647723/2ab5a0c7-ee4c-4318-9b3b-2053d2f37fcc)
+![image](https://github.com/TIM-Celestia/Rhizomatique/assets/89647723/b171a319-664b-47e9-90ce-e2bb7b9884d1)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
