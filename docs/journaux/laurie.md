@@ -59,6 +59,10 @@ Mon défi pour la semaine prochaine c'est de acheter les toiles et de peux etre 
 ## Semaine 2
 ### Résumé des réalisations effectuées
 
+- J'ai fait de la recherche de médias
+- J'ai fait de la colo sur DAVinci
+- J'ai créé des sons sur VCV RACK 2
+
 Pour la semaine du 29 janvier au 5 février, j'avais pour mission de continuer les sons de notre projet, de trouver des médias qui vont être les souvenirs et de faire le montage vidéo de notre capsule de présentation du projet. J'ai réussi à créer à l'aide d'inspiration un sons plutôt intéressant sur VCV Rack 2. De plus, j'ai fini le montage de la capsule. Pour ce qui est des médias, c'est un processus assez long faire le choix des médias, mais ça avance quand même assez bien.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
