@@ -48,7 +48,7 @@ Nous avons commencer nos tests avec la toile nous avons commencer avec une plus 
 ### Jeudi
 Nous avons ajouté la projection sur la toile avec obs et madmapper. Nous avons aussi commencer l'effet que l'on veut sur les souvenirs avec DAvinci pour apres les intégrer dans touchdesigner pour créer l'effet particule que l'on desire ajouter. Nous avons aussi améliorer la détection avec plusieurs mains, c'est pas parfait encore.
 ### Vendredi 
-Nous avons commencer à essayer de faire en sorte que quand une main est détecter que sa face jouer une vidéo particule. 
+Nous avons commencer à essayer de faire en sorte que quand une main est détecter que sa face jouer une vidéo particule. Nous avons aussi commencer à trouver de l'inspiration pour le logo.
 ## Semaine 1
 
 ### Lundi 
