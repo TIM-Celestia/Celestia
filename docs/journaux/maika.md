@@ -1,5 +1,5 @@
 # Journal de "Maïka Désy"
-![portrait du participant ](../web/medias/participants/D.png)
+![portrait du participant ](../web/medias/participants/maika-celestia.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
