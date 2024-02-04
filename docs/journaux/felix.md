@@ -46,40 +46,44 @@ Nous avons un vidéo à faire pour la deuxième semaine, donc mes coéquipières
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+- Retravaillé le tracking avec la toile
+- Retravaillé la détection de la main sur la toile
+- Préparé la démo pour les portes ouvertes
+- Enregistré la vidéo de présentation
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![image_fier_sem2](https://github.com/TIM-Celestia/Rhizomatique/assets/89608091/a46d326c-9433-4a75-abb1-765b2a6f9d69)
 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai réussi à faire en gros ce dont je devais faire, comme la détection d'une main sur la toile et le tracking de celle-ci. Cependant, il n'est pas encore super précis, et aussi lorsqu'on s'approche du bord de la toile, la détection devient moins précise. De plus, la plupart des interacteurs qui ne font pas parti de mon équipe intéragissent initiallement avec leur doigt, alors que la détection n'est pas encore calibré pour détecter quelque chose d'aussi petit. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+ Je vais devoir trouver une manière pour améliorer la détection. En ce moment, je pense que ça se fera que par essai-erreur, mais il se peut qu'en ligne il y a des tutoriels sur comment jouer avec les paramètres dans TouchDesigner.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+En ce qui me concerne, j'ai réalisé ce que j'avais à faire dans le temps donné, mais il y a toujours des problèmes pour le mapping vidéo sur la toile et il faudrait qu'on commence la construction de ce qui va tenir la toile et contenir la Kinect et le projecteur pour pouvoir faire des vrai tests pour calibrer la détection de la distance de la toile.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Ce qui nous faut vraiment est la boîte qui contiendra tous nos matériaux pour qu'on ait une estimation plus précise pour l'installation finale.
 
 ### Défis pour la prochaine semaine
-
+Continuer à paufiner la détection avec la toile et connecter mon travail avec celui de Maïka.
 
 ---
 ## Semaine 3 
