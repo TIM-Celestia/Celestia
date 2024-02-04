@@ -52,9 +52,10 @@ Essayer de syncroniser le modèle artistique de la toile avec lui du mur.
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
--J'ai refais le modèle artistique pour la projection au mur.
--J'ai rajouter des vidéo par dessus.
--J'ai fait en sorte qu'on puisse changer les images.
+- J'ai refais le modèle artistique pour la projection au mur.
+- J'ai créer plusieurs modèle différent.
+- J'ai rajouter des vidéo par dessus.
+- J'ai fait en sorte qu'on puisse changer les images.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![banane](medias/banane-particule.png)
