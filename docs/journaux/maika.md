@@ -52,7 +52,9 @@ Essayer de syncroniser le modèle artistique de la toile avec lui du mur.
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+-J'ai refais le modèle artistique pour la projection au mur.
+-J'ai rajouter des vidéo par dessus.
+-J'ai fait en sorte qu'on puisse changer les images.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -61,31 +63,28 @@ Essayer de syncroniser le modèle artistique de la toile avec lui du mur.
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ On a réussi à synchronyser les deux modèle artistique ensemble mais on à pas encore fait en sorte que les images change d'une à l'autre en touchant la toile.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+On va probablement essayer de les connecter ensembles.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Il n'y a pas d'écarts.
 
 ### Défis pour la prochaine semaine
-
+Faire en sorte les images change sur le mur lorsque l'on touche la toile et monter le projecteur au plafond.
 
 ---
 ## Semaine 3 
