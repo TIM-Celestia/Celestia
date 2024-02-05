@@ -54,7 +54,7 @@ Nous avons ajouté la projection sur la toile avec obs et madmapper. Nous avons 
 ### Vendredi 
 Nous avons commencer à essayer de faire en sorte que quand une main est détecter que sa face jouer une vidéo particule. Nous avons aussi commencer à trouver de l'inspiration pour le logo.
 
-[![projet_touchdesigner_ordinateur](https://github.com/TIM-Celestia/Celestia/assets/113621167/c165c661-39f7-445b-9d69-c1f417d78e03)](https://youtu.be/0W7KPN2MkoA)
+[![projet_touchdesigner_ordinateur](medias/thumbnail_video_vendredi.png)](https://youtu.be/0W7KPN2MkoA)
 ## Semaine 1
 
 ### Lundi 
