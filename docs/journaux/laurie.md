@@ -1,6 +1,6 @@
 # Journal de "Participant 1"
 
-![lauriehoude](../web/medias/participants/lauriehoude.png)
+![portrait du participant ](../web/medias/participants/laurie-celestia.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
