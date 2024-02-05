@@ -51,7 +51,7 @@ Nous avons commencer nos tests avec la toile nous avons commencer avec une plus 
 Nous avons ajouté la projection sur la toile avec obs et madmapper. Nous avons aussi commencer l'effet que l'on veut sur les souvenirs avec DAvinci pour apres les intégrer dans touchdesigner pour créer l'effet particule que l'on desire ajouter. Nous avons aussi améliorer la détection avec plusieurs mains, c'est pas parfait encore.
 
 
-[![projet_touchdesigner_ordinateur](medias/thumbnail_vendredi.png)](https://youtube.com/shorts/AbmWNIvWkNc?feature=share)
+[![projet_touchdesigner_ordinateur](medias/thumbnails_jeudi.png)](https://youtube.com/shorts/AbmWNIvWkNc?feature=share)
 
 
 ### Vendredi 
