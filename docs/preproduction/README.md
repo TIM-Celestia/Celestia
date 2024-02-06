@@ -143,7 +143,7 @@ Pour attirer l'intérateur à s'intéresser à notre oeuvre nous avons fait en s
 
 > la projection avant et après les souvenirs
 
-[![Toile ](file:///C:/Users/Ma%C3%AFka/Downloads/video-particule.png)](https://www.youtube.com/watch?v=u4T1QQYEeec)
+[![Toile ](medias/video-particule.png)](https://www.youtube.com/watch?v=u4T1QQYEeec)
 
 > la projection sur le mur
 
