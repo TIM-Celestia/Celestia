@@ -33,6 +33,13 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 
 ## Semaine 3
 
+### Lundi 
+Nous avons regarder les préprod de chaque équipe pour après apporter ,les modifications nécessaires le lendemain.
+### Mardi 
+Nous avons modifier la vidéo de la préprod et travailler le son d'ambiance de notre oeuvre.De plus, nous avons continuer les tests avec la toile et les souvenirs, faire en sorte que quand l'intéracteur appuie pas fort sur la toile la video est moins claire et que quand la personne appuis beaucoup le souvenir devient reconnaisable.
+
+### Mercredi 
+Nous avons transférer les souvenirs de la caméra de Laurie dans l'ordi avec OBS , nous avons aussi réussi à faire en sorte que quand on enlève notre main et on réappuie un nouveau souvenir apparait.
 ## Semaine 2
 ### Lundi 
 
