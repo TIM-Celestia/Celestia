@@ -34,14 +34,15 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 ## Semaine 3
 
 ### Lundi 
-Nous avons regarder les préprod de chaque équipe pour après apporter ,les modifications nécessaires le lendemain.
+Nous avons regardé les vidéos des préproductions de chaque équipe pour après apporter des modifications le lendemain, si nécessaire.
+
 ### Mardi 
-Nous avons modifier la vidéo de la préprod et travailler le son d'ambiance de notre oeuvre.De plus, nous avons continuer les tests avec la toile et les souvenirs, faire en sorte que quand l'intéracteur appuie pas fort sur la toile la video est moins claire et que quand la personne appuis beaucoup le souvenir devient reconnaisable.
+Nous avons modifié notre vidéo de la préproduction et travaillé le son d'ambiance de notre oeuvre. De plus, nous avons continué les tests avec la toile et les souvenirs, fait en sorte que quand l'interacteur appuie légèrement sur la toile la vidéo est moins claire et que quand la personne appuis plus fort le souvenir devient plus clair.
 
 
 
 ### Mercredi 
-Nous avons transférer les souvenirs de la caméra de Laurie dans l'ordi avec OBS , nous avons aussi réussi à faire en sorte que quand on enlève notre main et on réappuie un nouveau souvenir apparait.
+Nous avons transféré les souvenirs de la caméra de Laurie dans un ordinateur grâce à OBS. Nous avons aussi réussi à faire en sorte que, lorsqu'on enlève notre main de la toile, la vidéo change aléatoirement pour qu'un nouveau souvenir apparait au mur.
 
 
 
@@ -51,7 +52,8 @@ Nous avons transférer les souvenirs de la caméra de Laurie dans l'ordi avec OB
 
 
 ### Jeudi 
-Nous avons faite la rencontre avec Thomas pour le devoir nous avons penser à d'autre moyen d'améliorer notre projet. Laurie à travailler sur la colorisation des souvenirs.Maika à travailler sur l'importatio des souvenirs dans Touchdesigner.Jolyanne s'occupe d'updater le github.
+Nous avons eu une rencontre avec Thomas pour parler des actions que l'interacteur pourrait faire avec notre oeuvre. Laurie a travaillé sur la colorisation des souvenirs. Maika a travaillé sur l'importation des souvenirs dans TouchDesigner. Jolyanne et Felix se sont occupé de mettre à jour le GitHub.
+
 ## Semaine 2
 ### Lundi 
 
