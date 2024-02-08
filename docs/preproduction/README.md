@@ -44,8 +44,7 @@ Rhizomatique est une œuvre multimédia immersive qui relie l'humain et le temps
 Lorsque nous allons appuyer sur la toile , celle si va faire afficher un nouveau souvenir sur les murs du cyclo, plus il y a d'interaction avec la toile plus le souvenir va prendre de l'ampleur et va jouer en boucle jusqu'à ce que l'interacteur retire ses mains et que le souvenir va fade out jusqu'à ce qu'on voit juste animation des lignes.Lorsque l'intéracteur va remettre ses mains un nouveau souvenir va jouer. 
 
 ## Nouvelle formulation
-Rhizomatique est une oeuvre intéractive qui relie l'humain et le temps.De nos jours , le temps controle notre vie, on est toujours occupé et on a moins le temps de rien faire car la vie va trop vite. 
-Le temps est un fil qui ralonge selon différente temporalité, action ou évènement dans la vie. Dans notre projet, en appuyant sur la toile l'intéracteur va donner l'impression de naviguer dans le cerveau pour y découvrir ces souvenirs , qui vont par la suite être réveller sur les murs du cyclo. Lorsque l'intéraction prend fin la projection sur les murs vont reprendre leur état initale jusqu'à la prochaine intérection.L’œuvre consiste à insité l'intéracteur à vouloir oublier le temps qui passe et de retourner dans le passer d'une personne inconnu.L'oeuvre est diviser en 2 espaces qui son lier : la toile et le cyclo. La toile va servir de communication entre l'intéracteur et les souvenirs. La toile va aussi controler la clareter des souvenirs qui vont être représenter en particule. Plus, il va y avoir de l'intéraction avec la toile plus les souvenir vont être clairs. La toile, qui représente le cerveau elle va avoir une projection qui représente les fluides et l'allure rhizomatique du cerveau
+Rhizomatique est une oeuvre intéractive qui relie l'humain et le temps.De nos jours , le temps controle notre vie, on est souvent occupé et la vie va trop vite. Le temps est un fil qui ralonge selon différentes temporalités, actions ou événements dans la vie. Dans notre projet, en appuyant sur la toile l'interacteur  naviguera dans le cerveau pour y découvrir ses souvenirs , qui vont par la suite être révellés sur les murs du cyclo. Lorsque l'intéraction prend fin, la projection sur les murs va reprendre son état initale jusqu'à la prochaine intéraction. L’œuvre consiste à insiter l'interacteur à vouloir oublier le temps qui passe et de retourner dans le passé d'une personne inconnu. L'oeuvre est divisé en deux espaces qui sont liés : la toile et le cyclo. La toile va servir de communication entre l'interacteur et les souvenirs. La toile va aussi contrôler la clarté des souvenirs qui vont être représentés en particules. Plus qu'il y aura de l'intéraction avec la toile plus les souvenirs vont être clairs. La toile, qui représente le cerveau, aura une projection qui représentera les fluides et l'allure rhizomatique du cerveau.
 
 
 ## Quatre éléments spécifiques au médium de l’interactivité
@@ -105,15 +104,19 @@ Pour attirer l'intérateur à s'intéresser à notre oeuvre nous avons fait en s
 ### Liste des verbes action basique
 - toucher
 - appuyer
+- bouger
 
 ### Listez tous les objets sur lesquels chaque verbe peut agir et comment ils le font.
-- Sur la toile
+- la toile
+- les murs
 
 ### Listez plusieurs actions émergentes que vous aimeriez que vos interacteurs effectuent.
 - Utiliser les deux mains pour que les souvenirs deviennent plus claire
+- bouger ses main sur la toile pour bouger dans le souvenir
 ### Listez toutes les façons que les interacteurs peuvent faire progresser l’expérience.
 
-
+- frotter la toile pour que le souvenir devient plus claire
+- Enlever sa main pour regénérer un nouveau souvenir.
 
 · Finalisez le paragraphe décrivant votre projet en intégrant ce que vous avez rédigé la semaine précédente sur les éléments spécifiques à l’interactivité (comportement de l’interacteur, esthétique, espace et temps).
 
