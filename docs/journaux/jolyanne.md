@@ -97,7 +97,9 @@ Commencer le mapping dans le cyclo
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+- Mapping de la toile
+- Arraqngement du github
+- son de la toile
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -106,19 +108,19 @@ Commencer le mapping dans le cyclo
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Nous avions prévu de commencer le mapping avec les projecteurs sur le cyclo, mais le manque d'internet nous a nuis à ce niveau. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [ x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -130,6 +132,9 @@ Commencer le mapping dans le cyclo
 
 
 ### Défis pour la prochaine semaine
+-Construction de la structure 
+- trouver comment faire tenir la toile étirrer 
+
 
 ---
 ## Semaine 4
