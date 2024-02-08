@@ -40,6 +40,9 @@ Nous avons modifier la vidéo de la préprod et travailler le son d'ambiance de 
 
 ### Mercredi 
 Nous avons transférer les souvenirs de la caméra de Laurie dans l'ordi avec OBS , nous avons aussi réussi à faire en sorte que quand on enlève notre main et on réappuie un nouveau souvenir apparait.
+![MicrosoftTeams-image (1)](https://github.com/TIM-Celestia/Rhizomatique/assets/113621167/63c41497-f504-4579-b936-fc6d8ad2dd35)
+
+[![projet_touchdesigner_ordinateur](https://github.com/TIM-Celestia/Celestia/assets/113621167/c165c661-39f7-445b-9d69-c1f417d78e03)](https://youtu.be/-pw7Mnlt3s4 )
 ## Semaine 2
 ### Lundi 
 
@@ -92,7 +95,7 @@ Durant le cours, on a montré à Guillaume, les modifications qu'on a apportées
 Après le cours, nous sommes restés et avons commencé à faire des tests avec la Kinect pour voir si on était capable de capter les mouvements de la main et de faire apparaître des effets à l'écran.
 Résultats : 
 
-[![projet_touchdesigner_ordinateur](https://github.com/TIM-Celestia/Celestia/assets/113621167/c165c661-39f7-445b-9d69-c1f417d78e03)](https://youtu.be/-pw7Mnlt3s4 )
+[![projet_touchdesigner_ordinateur](https://github.com/TIM-Celestia/Rhizomatique/assets/113621167/63c41497-f504-4579-b936-fc6d8ad2dd35)](https://youtu.be/-pw7Mnlt3s4 )
 
 ### Jeudi 
 
