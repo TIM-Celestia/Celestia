@@ -49,7 +49,8 @@ Nous avons commencé la semaine avec un scrum de groupe et après le scrum nous 
 
 Nous avons eu notre reencontre hebdomadaire avec Guillaume et Thomas sur l'avancement du projet. En discutant avec eu nous avons décidé d'au lieu de projeter des souvenirs en forme de lignes , nous devrions upté pour quelque chose de plus concret... Des vrai souvenir vidéo. Après la discussion nous sommes partie acheter la toile pour commencer nos test de détection avec la toile.
 
-![mardi_toile](https://github.com/TIM-Celestia/Rhizomatique/assets/113621167/b6edb488-5eaf-43c6-87b5-ec81dbff6ead)
+<img src="https://github.com/TIM-Celestia/Rhizomatique/assets/113621167/b6edb488-5eaf-43c6-87b5-ec81dbff6ead" width="500px"></img>
+
 
 ### Mercredi
 Nous avons commencer nos tests avec la toile nous avons commencer avec une plus grande surface pour nos tests, nous avons aussi regarder l'angle de la kinect et la distance minimum à laquel la kinect peut capter. Nous avons donc commencer les tests.
