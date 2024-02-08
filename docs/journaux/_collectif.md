@@ -106,6 +106,7 @@ Résultat:
 Vendredi étant une période autonome, nous avons décidé d'intégrer la toile à nos tests. Après quelques tutoriels, Felix et Maïka ont réussi à détecter la distance entre la caméra de la Kinect et la toile lorsqu'on appuie sur celle-ci. Laurie a commencé à faire des sons, qu'elle nous a montré, et Jolyanne a fait moodboard général du projet et vérifié la liste de matériels.
 
 <img src="https://github.com/TIM-Celestia/Celestia/assets/113621167/5a97e9ab-cefa-4514-b3d7-f6fd1375cc0c" width="500px"></img>
+
 <img src="hhttps://github.com/TIM-Celestia/Celestia/assets/113621167/2ecdf2d4-3648-4910-8d4c-b41e8338f1a8" width="500px"></img>
 
 
