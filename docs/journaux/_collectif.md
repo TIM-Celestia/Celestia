@@ -81,7 +81,8 @@ Première rencontre avec les profs, nous avons représenté notre préproduction
 ### Mercredi
 Avant le cours, on a commencé l'organisation des prochaines semaines. Maïka et Laurie ont commencé à regarder des tutoriels pour les effets qui pourraient être intéressants dans Touchdesigner et les ont testés.
 
-![mercredi_tutoriel](https://github.com/TIM-Celestia/Celestia/assets/113621167/5fe99c24-265c-46c4-8061-3df966fdfba7)
+<img src="https://github.com/TIM-Celestia/Celestia/assets/113621167/5fe99c24-265c-46c4-8061-3df966fdfba7" width="500px"></img>
+
 
 
 Pour la première semaine, nous avons dû repenser à notre projet et aller plus en détail dans le choix de notre thème et l'esthétique dans lequel nous voulons aller. Nous avons aussi commencé les tests avec la Kinect pour détecter le mouvement.
