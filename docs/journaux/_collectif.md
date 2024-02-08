@@ -50,7 +50,8 @@ Nous avons transférer les souvenirs de la caméra de Laurie dans l'ordi avec OB
 <img src="hhttps://github.com/TIM-Celestia/Rhizomatique/assets/113621167/77b979a7-4959-4af4-b315-f6697c258e4" width="500px"></img>
 
 
-
+### Jeudi 
+Nous avons faite la rencontre avec Thomas pour le devoir nous avons penser à d'autre moyen d'améliorer notre projet. Laurie à travailler sur la colorisation des souvenirs.Maika à travailler sur l'importatio des souvenirs dans Touchdesigner.Jolyanne s'occupe d'updater le github.
 ## Semaine 2
 ### Lundi 
 
