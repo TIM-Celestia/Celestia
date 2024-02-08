@@ -43,9 +43,14 @@ Nous avons modifier la vidéo de la préprod et travailler le son d'ambiance de 
 ### Mercredi 
 Nous avons transférer les souvenirs de la caméra de Laurie dans l'ordi avec OBS , nous avons aussi réussi à faire en sorte que quand on enlève notre main et on réappuie un nouveau souvenir apparait.
 
-<img src="hhttps://github.com/TIM-Celestia/Rhizomatique/assets/113621167/77b979a7-4959-4af4-b315-f6697c258e4" width="500px"></img>
+
 
 [![projet_touchdesigner_ordinateur](https://github.com/TIM-Celestia/Rhizomatique/assets/113621167/63c41497-f504-4579-b936-fc6d8ad2dd35)](https://www.youtube.com/watch?v=6oEfGe9UQ2k)
+
+<img src="hhttps://github.com/TIM-Celestia/Rhizomatique/assets/113621167/77b979a7-4959-4af4-b315-f6697c258e4" width="500px"></img>
+
+
+
 ## Semaine 2
 ### Lundi 
 
