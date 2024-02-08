@@ -95,7 +95,8 @@ Durant le cours, on a montré à Guillaume, les modifications qu'on a apportées
 Après le cours, nous sommes restés et avons commencé à faire des tests avec la Kinect pour voir si on était capable de capter les mouvements de la main et de faire apparaître des effets à l'écran.
 Résultats : 
 
-[![projet_touchdesigner_ordinateur](https://github.com/TIM-Celestia/Rhizomatique/assets/113621167/63c41497-f504-4579-b936-fc6d8ad2dd35)](https://youtu.be/-pw7Mnlt3s4 )
+
+[![projet_touchdesigner_ordinateur](https://github.com/TIM-Celestia/Rhizomatique/assets/113621167/3fd42b59-7818-4967-a6c2-8390a4440941)](https://youtu.be/-pw7Mnlt3s4 )
 
 ### Jeudi 
 
