@@ -81,7 +81,7 @@ Installer le projecteur pour projeter sur la toile
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [x ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -121,7 +121,7 @@ Commencer le mapping dans le cyclo
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ x] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -133,7 +133,7 @@ Commencer le mapping dans le cyclo
 
 
 ### Défis pour la prochaine semaine
--Construction de la structure 
+- Construction de la structure 
 - trouver comment faire tenir la toile étirrer 
 
 
