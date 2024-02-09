@@ -105,9 +105,14 @@ Mon défi pour la semaine prochaine c'est d'avoir regrouper assez de médias pou
 ## Semaine 3 
 ### Résumé des réalisations effectuées
 
+- J'ai refais le montage de la vidéo d'intention
+- J'ai renommer toutes les souvenirs dans un fichier Onedrive
+- J'ai fait le mapping video sur un mur du cyclo 
+
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![montage Davinci](https://github.com/TIM-Celestia/Rhizomatique/assets/89647723/5f6ab39a-e085-404b-aeef-5a64a326f588)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
