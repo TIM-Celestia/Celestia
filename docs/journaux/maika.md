@@ -92,7 +92,8 @@ Faire en sorte les images change sur le mur lorsque l'on touche la toile et mont
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+- J'ai réussie à faire en sorte que les média soit aléatoire et que cela s'enclenche avec la toile.
+- J'ai mis les vrai médias de souvenirs.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -101,30 +102,31 @@ Faire en sorte les images change sur le mur lorsque l'on touche la toile et mont
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai réussi à mettre les vidéos aléatoire et les afficher en fonction qu'on appuie sur la toile, mais on à pas encore placé les projecteurs, alors je n'ai pas adapter la projection.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Cette semaine nous allons accrocher le projecteurs au plafond.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Un peu
+- [x] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Le projecteur n'ais pas accroché au plafond.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Cette semaine nous allons l'accrocher.
 
 ### Défis pour la prochaine semaine
+Je vais rajouter des lignes lorsque l'oeuvre est au repos.
 
 ---
 ## Semaine 4
