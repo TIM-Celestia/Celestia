@@ -88,21 +88,23 @@ Continuer à paufiner la détection avec la toile et connecter mon travail avec 
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+- Enlevé le blob tracking
+- Remplacé par l'image tel-quel de la vidéo infrarouge de la Kinect
+- Replacé la détection d'un interacteur par le niveau de blanc vue par la Kinect
+- Connecté mon travail de la toile avec celui de Maïka pour les murs
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![image_semaine_3](https://github.com/TIM-Celestia/Rhizomatique/assets/89608091/41ea3d97-5de4-4787-bdf8-2993e232aa1a)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai réussi à améliorer la détection et j'ai remplacé le blob tracking qui allair apparaître sur la toile par l'image directe de la Kinect avec un ramp de couleur mis au-dessus. On
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
