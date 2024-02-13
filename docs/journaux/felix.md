@@ -118,6 +118,7 @@ Discuter des possibilités entre équipe et les professeurs s'ils ont des idées
 
 ### Défis pour la prochaine semaine
 Aider à monter les projecteurs et à faire le mapping vidéo pour que tout à l'air bien sur les murs.
+
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
