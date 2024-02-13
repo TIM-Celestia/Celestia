@@ -104,26 +104,20 @@ Continuer à paufiner la détection avec la toile et connecter mon travail avec 
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- J'ai réussi à améliorer la détection et j'ai remplacé le blob tracking qui allair apparaître sur la toile par l'image directe de la Kinect avec un ramp de couleur mis au-dessus. On
+ J'ai réussi à améliorer la détection et j'ai remplacé le blob tracking qui allait apparaître sur la toile par l'image directe de la Kinect avec un ramp de couleur mis au-dessus. On voulait aussi ajouter un effet sonore et/ou visuel lorsqu'on frotte la toile, mais on ne sait pas encore ce que ça pourrait faire exactement.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Discuter des possibilités entre équipe et les professeurs s'ils ont des idées.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
-
+Aider à monter les projecteurs et à faire le mapping vidéo pour que tout à l'air bien sur les murs.
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
