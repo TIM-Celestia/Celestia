@@ -126,7 +126,7 @@ Mon défi pour la semaine prochaine c'est d'avoir regrouper assez de médias pou
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+J'ai bien avancé cette semaine 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
