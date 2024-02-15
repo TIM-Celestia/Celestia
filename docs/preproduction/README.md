@@ -165,6 +165,7 @@ https://youtu.be/vwudm0Pe4mE?si=84BLB6ZMuDLfK96u
 ### Vidéos
 [Nos souvenirs](https://teams.microsoft.com/l/message/19:7408c0b5d8b94c08af52f563c1fabbe7@thread.v2/1708012984852?context=%7B%22contextType%22%3A%22chat%22%7D)
 ### Sonore
+[Nos sons](https://cmontmorency365-my.sharepoint.com/:f:/g/personal/2133078_cmontmorency_qc_ca/ErhXKaWwwCxGtQTXbWSZzU4BI84MFs33JYxh-wYgqOqZvQ?e=6CYm8Y)
 
 ## Scénario, scénarimage ou document audio/visuel
 ![projetFinal-board-00001](medias/Rhizomatique-board-00001.png)
