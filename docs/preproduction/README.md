@@ -163,7 +163,7 @@ https://youtu.be/vwudm0Pe4mE?si=84BLB6ZMuDLfK96u
 
 ## Nos médias
 ### Vidéos
-[Nos souvenirs](https://cmontmorency365-my.sharepoint.com/:f:/r/personal/2052728_cmontmorency_qc_ca/Documents/Rhysomatique?csf=1&web=1&e=tB2lLy)
+[Nos souvenirs](https://cmontmorency365-my.sharepoint.com/:f:/g/personal/2052728_cmontmorency_qc_ca/EokF2VHZOSRAj8Ro3LeCK5MBCji3YaKSK2FDSpPh_fLlnQ?e=UW8mcc)
 ### Sonore
 [Nos sons](https://cmontmorency365-my.sharepoint.com/:f:/g/personal/2133078_cmontmorency_qc_ca/ErhXKaWwwCxGtQTXbWSZzU4BI84MFs33JYxh-wYgqOqZvQ?e=6CYm8Y)
 
