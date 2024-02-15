@@ -262,7 +262,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 *  [QlC+](https://www.qlcplus.org/)
 * [MadMapper](https://madmapper.com/)
 * [VCV Rack 2](https://vcvrack.com/Rack)
-* [DaVinci Resolve](https://vcvrack.com/Rack)
+* [DaVinci Resolve](https://www.blackmagicdesign.com/ca/products/davinciresolve)
 
 
 ## Ressources humaines requises
