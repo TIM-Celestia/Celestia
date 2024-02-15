@@ -161,7 +161,9 @@ https://youtu.be/TIju4Nfc3-s?si=KvJZ-e6KPWePmNkk
 
 https://youtu.be/vwudm0Pe4mE?si=84BLB6ZMuDLfK96u
 
-
+## Nos médias
+### Vidéos
+### Sonore
 
 ## Scénario, scénarimage ou document audio/visuel
 ![projetFinal-board-00001](medias/Rhizomatique-board-00001.png)
