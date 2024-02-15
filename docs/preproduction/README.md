@@ -102,9 +102,9 @@ Qu'est ce que c'est ?
 Pour attirer l'intérateur à s'intéresser à notre oeuvre nous avons fait en sorte de placer un spotlight au dessu de la toile. De plus, nous allons faire en sorte que lorsqu'il y a personne près de notre projet la projection qui est sur les trois murs va défiler très vite et une fois qu'il va y avoir quelqu'un de près elle va commencer à ralentir. Tout ces éléments ensemble vont attirer l'intérateur vers notre toile. Quand il va être devant la toile le spotlight va s'éteindre pour que l'utilisateur comprenne qu'il a un contrôle sur l'oeuvre et qu'il soit attirer vers la toile pour la toucher.
 
 ### Liste des verbes action basique
-- toucher
-- appuyer
-- bouger
+- toucher la toile
+- appuyer sur la toile
+- bouger ses mains sur la toile
 
 ### Listez tous les objets sur lesquels chaque verbe peut agir et comment ils le font.
 - la toile
