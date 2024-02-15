@@ -31,6 +31,12 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 
 ## Semaine 4
 
+### Lundi 
+srum
+
+### Mardi 
+Durant la rencontre avec les profs nous avons discuté de la disposition des projecteurs et nous avons convenu d'en mettre 2 un en dessous de l'autre pour augmenter la luminosité de la projection.Nous avons aussi réaliser qu'une licences Touchdesigner pourrait être pratique du à la résolution des projecteurs. Nous avons par la suite procédé à enlever les Speakers sur les côté et enlever les projecteurs du cyclo.
+
 ## Semaine 3
 
 ### Lundi 
