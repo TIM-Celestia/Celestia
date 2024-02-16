@@ -150,6 +150,9 @@ Pour la semaine prochaine, je me met au défi d'installer les projecteurs au pla
 ## Semaine 4
 ### Résumé des réalisations effectuées
 
+- J'ai accroché un projecteur
+- J'ai fait tout le filage du projecteur
+- J'ai modifié le sons des vidéo sur Reaper
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
