@@ -109,7 +109,6 @@ Mon défi pour la semaine prochaine c'est d'avoir regrouper assez de médias pou
 - J'ai enregistré le contenu d'une vieille caméra a cassette sur mon disque dur
 - J'ai fait des cuts sur DAvinci des vidéos récupéré de la caméra
 - J'ai renommer toutes les souvenirs dans un fichier Onedrive
-- J'ai fait le mapping video sur un mur du cyclo 
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -126,7 +125,7 @@ Mon défi pour la semaine prochaine c'est d'avoir regrouper assez de médias pou
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-J'ai bien avancé cette semaine 
+J'ai bien avancé cette semaine. J'ai fini le sons ambiant de l'oeuvre et grâce à OBS j'ai enregistré le contenu de la camera à cassette. Ensuite, j'ai été dans le logiciel DAvinci et j'ai couper des bouts de vidéos de 20 secondes qui vont nous servir pour les souvenirs.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
