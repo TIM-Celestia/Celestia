@@ -122,10 +122,13 @@ Aider à monter les projecteurs et à faire le mapping vidéo pour que tout à l
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+- Aidé à déplacer l'échelle pour que mes coéquipières puissent installer les projecteurs
+- Calibré le projecteur et la Kinect à l'intérieur de la boîte supportant la toile
+- Trouvé comment changer de mur selon la vidéo qui joue
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![MicrosoftTeams-image](https://github.com/TIM-Celestia/Rhizomatique/assets/89608091/b99fd61b-5ef6-4c67-93e1-1dac4135a080)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
