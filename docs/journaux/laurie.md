@@ -125,7 +125,7 @@ Mon défi pour la semaine prochaine c'est d'avoir regrouper assez de médias pou
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-J'ai bien avancé cette semaine. J'ai fini le sons ambiant de l'oeuvre et grâce à OBS j'ai enregistré le contenu de la camera à cassette. Ensuite, j'ai été dans le logiciel DAvinci et j'ai couper des bouts de vidéos de 20 secondes qui vont nous servir pour les souvenirs.
+J'ai bien avancé cette semaine. J'ai fini le sons ambiant de l'oeuvre et grâce à OBS j'ai enregistré le contenu de la camera à cassette. Ensuite, j'ai été dans le logiciel DAvinci et j'ai couper des bouts de vidéos de 20 secondes qui vont nous servir pour les souvenirs. Pour finir, j'ai retravailler la vidéo d'intention pour la rendre meilleur encore.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -145,6 +145,7 @@ J'ai bien avancé cette semaine. J'ai fini le sons ambiant de l'oeuvre et grâce
 
 ### Défis pour la prochaine semaine
 
+Pour la semaine prochaine, je me met au défi d'installer les projecteurs au plafond et de faire le filage au plafond.
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
