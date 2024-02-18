@@ -38,8 +38,13 @@ srum
 Durant la rencontre avec les profs nous avons discuté de la disposition des projecteurs et nous avons convenu d'en mettre 2 un en dessous de l'autre pour augmenter la luminosité de la projection.Nous avons aussi réaliser qu'une licences Touchdesigner pourrait être pratique du à la résolution des projecteurs. Nous avons par la suite procédé à enlever les Speakers sur les côté et enlever les projecteurs du cyclo.
 
 ### Mercredi
-Nous avons commencer par apporter la structure pour commencer la maquette fonctionnelle. Un fois la maquette installer nous avons commencer à mettre le projecteur et la kinect , pour se rendre compte que une des planche en bois de la structure est dans le chemin de la projection , donc nous avons du touver une manière de faire tenir le projecteur car l'angle de la toile sur a structure n'est pas la même que sur notre prototype, nous avons du donc toute ajuster et trouver une manière de faire tenir la kinect.
+Nous avons commencer par apporter la structure pour commencer la maquette fonctionnelle. Un fois la maquette installer nous avons commencer à mettre le projecteur et la kinect , pour se rendre compte que une des planche en bois de la structure est dans le chemin de la projection , donc nous avons du touver une manière de faire tenir le projecteur car l'angle de la toile sur a structure n'est pas la même que sur notre prototype, nous avons du donc toute ajuster et trouver une manière de faire tenir la kinect. Nous avons par la suite proceder à installer les projcteurs plafond
 
+### Jeudi 
+Après avoir présenter notre avancement à Thomas nous avons commencer à brancher les câbles et les transmitter pour les projecteurs en prenant note des numéros des prises internets pour être capable de les relier à l'ordinateur. Nous avons aussi fait en sorte que l'on puisse voir le changement des vidéos a chaque fois qu'on apuie. Nous avons aussi invité quelqu'un à tester notre projet et ça nous a permis de comprendre comment on pouvait améliorer la detection de la main.
+
+### Vendredi
+Nous nous sommes concentrer sur le mapping des projecteurs et du branchement des hauts-parleur et les reliers au Touchdesigner. Suite à ça nous avons fait des tests pour être sur que le son sort bien quand on appuit sur la toile et le son ambiant est constant.
 ## Semaine 3
 
 ### Lundi 
