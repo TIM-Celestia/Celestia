@@ -140,7 +140,12 @@ Commencer le mapping dans le cyclo
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+- Construction de la structure 
+- Mapping pour les vidéo projeter sur le mur du centre
+- Son de la toile
+- Updater le github
+- Son des souvenirs
+  
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -149,20 +154,20 @@ Commencer le mapping dans le cyclo
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Pour la maquette nous aurions voulu avoir le temps de faire le mapping pour les autres murs mais notre template était pas encore penser donc c'est quelque chose qui va être à faire la semaine prochaine
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Trouver un manière de faire afficher les vidéos format téléphone sur les murs de côté.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -173,6 +178,9 @@ Commencer le mapping dans le cyclo
 
 
 ### Défis pour la prochaine semaine
+Faire en sorte que le mapping soit fini
+- Que la plupart des vidéos soit dans touch
+- Le son soit final
 
 ---
 ## Semaine 5
