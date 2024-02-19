@@ -40,7 +40,8 @@ Durant la rencontre avec les profs nous avons discuté de la disposition des pro
 
 
 ### Mercredi
-Nous avons commencer par apporter la structure pour commencer la maquette fonctionnelle. Un fois la maquette installer nous avons commencer à mettre le projecteur et la kinect , pour se rendre compte que une des planche en bois de la structure est dans le chemin de la projection , donc nous avons du touver une manière de faire tenir le projecteur car l'angle de la toile sur a structure n'est pas la même que sur notre prototype, nous avons du donc toute ajuster et trouver une manière de faire tenir la kinect. Nous avons par la suite proceder à installer les projcteurs plafond
+Nous avons commencer par apporter la structure pour commencer la maquette fonctionnelle. Un fois la maquette installer nous avons commencer à mettre le projecteur et la kinect , pour se rendre compte que une des planche en bois de la structure est dans le chemin de la projection , donc nous avons du touver une manière de faire tenir le projecteur car l'angle de la toile sur a structure n'est pas la même que sur notre prototype, nous avons du donc toute ajuster et trouver une manière de faire tenir la kinect. Nous avons par la suite proceder à installer les projcteurs plafond.
+<img src="medias/journaux_semaine_4_mercredi.jpg" width="500px"></img>
 
 ### Jeudi 
 Après avoir présenter notre avancement à Thomas nous avons commencer à brancher les câbles et les transmitter pour les projecteurs en prenant note des numéros des prises internets pour être capable de les relier à l'ordinateur. Nous avons aussi fait en sorte que l'on puisse voir le changement des vidéos a chaque fois qu'on apuie. Nous avons aussi invité quelqu'un à tester notre projet et ça nous a permis de comprendre comment on pouvait améliorer la detection de la main.
