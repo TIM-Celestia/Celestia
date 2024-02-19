@@ -131,7 +131,7 @@ Je vais rajouter des lignes lorsque l'oeuvre est au repos.
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+J'ai installé les projecteurs j'ai rajouté l'effet visuel au mur lorsque l'oeuvre est en repos.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -139,32 +139,24 @@ Je vais rajouter des lignes lorsque l'oeuvre est au repos.
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+ les projecteurs sont accroché et j'ai fait l'effet visuelle au repos.
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
-
+Installer les hauts-parleurs, mettre tous les vidéos de souvenirs et programer le sons à l'oeuvre.
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
