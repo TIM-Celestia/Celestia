@@ -37,6 +37,8 @@ srum
 ### Mardi 
 Durant la rencontre avec les profs nous avons discuté de la disposition des projecteurs et nous avons convenu d'en mettre 2 un en dessous de l'autre pour augmenter la luminosité de la projection.Nous avons aussi réaliser qu'une licences Touchdesigner pourrait être pratique du à la résolution des projecteurs. Nous avons par la suite procédé à enlever les Speakers sur les côté et enlever les projecteurs du cyclo.
 
+
+
 ### Mercredi
 Nous avons commencer par apporter la structure pour commencer la maquette fonctionnelle. Un fois la maquette installer nous avons commencer à mettre le projecteur et la kinect , pour se rendre compte que une des planche en bois de la structure est dans le chemin de la projection , donc nous avons du touver une manière de faire tenir le projecteur car l'angle de la toile sur a structure n'est pas la même que sur notre prototype, nous avons du donc toute ajuster et trouver une manière de faire tenir la kinect. Nous avons par la suite proceder à installer les projcteurs plafond
 
@@ -67,6 +69,9 @@ Nous avons transféré les souvenirs de la caméra de Laurie dans un ordinateur 
 
 ### Jeudi 
 Nous avons eu une rencontre avec Thomas pour parler des actions que l'interacteur pourrait faire avec notre oeuvre. Laurie a travaillé sur la colorisation des souvenirs. Maika a travaillé sur l'importation des souvenirs dans TouchDesigner. Jolyanne et Felix se sont occupé de mettre à jour le GitHub.
+
+### Vendredi 
+Nous avons travailler sur trouver une manière de changer les souvenir lorsqu'on appuit sur la toile.
 
 ## Semaine 2
 ### Lundi 
