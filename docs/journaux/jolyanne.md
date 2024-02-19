@@ -150,7 +150,7 @@ Commencer le mapping dans le cyclo
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-<img src="medias/collectif/journaux_semaine_4_mercredi.jpg" width="500px"></img>
+<img src="medias/collectif/journaux_semaine_4_vendredi.jpg" width="500px"></img>
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
