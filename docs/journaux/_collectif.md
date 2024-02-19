@@ -50,6 +50,10 @@ Après avoir présenter notre avancement à Thomas nous avons commencer à branc
 
 ### Vendredi
 Nous nous sommes concentrer sur le mapping des projecteurs et du branchement des hauts-parleur et les reliers au Touchdesigner. Suite à ça nous avons fait des tests pour être sur que le son sort bien quand on appuit sur la toile et le son ambiant est constant.
+
+<img src="medias/collectif/journaux_semaine_4_vendredi.jpg" width="500px"></img>
+
+
 ## Semaine 3
 
 ### Lundi 
