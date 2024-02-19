@@ -156,7 +156,9 @@ J'ai installé les projecteurs j'ai rajouté l'effet visuel au mur lorsque l'oeu
 - [ ] Pas tout à fait
 
 ### Défis pour la prochaine semaine
+
 Installer les hauts-parleurs, mettre tous les vidéos de souvenirs et programer le sons à l'oeuvre.
+
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
