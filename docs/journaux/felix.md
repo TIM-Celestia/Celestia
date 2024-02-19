@@ -125,39 +125,32 @@ Aider à monter les projecteurs et à faire le mapping vidéo pour que tout à l
 - Aidé à déplacer l'échelle pour que mes coéquipières puissent installer les projecteurs
 - Calibré le projecteur et la Kinect à l'intérieur de la boîte supportant la toile
 - Trouvé comment changer de mur selon la vidéo qui joue
+- Enregistré et monté le logo et la bannière de notre projet
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![MicrosoftTeams-image](https://github.com/TIM-Celestia/Rhizomatique/assets/89608091/b99fd61b-5ef6-4c67-93e1-1dac4135a080)
+![image_semaine_4](https://github.com/TIM-Celestia/Rhizomatique/assets/89608091/b99fd61b-5ef6-4c67-93e1-1dac4135a080)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+J'ai pu continuer à améliorer la détection de la toile et aider mes coéquipières à régler des problèmes qu'elles ont rencontré, comme un haut-parleur qui n'était pas branché correctement et pouvoir cycler à travers les sons en même temps que les vidéos. 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
+S'assurer que l'ensemble du projet fonctionne correctement, ensuite continuer avec le mapping des trois murs.
 
 ---
 ## Semaine 5
