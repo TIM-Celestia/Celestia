@@ -101,6 +101,7 @@ Commencer le mapping dans le cyclo
 - Mapping de la toile
 - Arraqngement du github
 - son de la toile
+- Construction de la structure 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -140,7 +141,7 @@ Commencer le mapping dans le cyclo
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-- Construction de la structure 
+
 - Mapping pour les vidéo projeter sur le mur du centre
 - Son de la toile
 - Updater le github
@@ -149,7 +150,7 @@ Commencer le mapping dans le cyclo
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+<img src="medias/collectif/journaux_semaine_4_mercredi.jpg" width="500px"></img>
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
