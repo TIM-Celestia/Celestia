@@ -134,7 +134,7 @@ Je vais rajouter des lignes lorsque l'oeuvre est au repos.
 J'ai installé les projecteurs j'ai rajouté l'effet visuel au mur lorsque l'oeuvre est en repos.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![projecteurs](medias/installation_projecteur.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
