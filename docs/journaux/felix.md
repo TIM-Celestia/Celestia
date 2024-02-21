@@ -52,7 +52,7 @@ Nous avons un vidéo à faire pour la deuxième semaine, donc mes coéquipières
 - Enregistré la vidéo de présentation
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![image_fier_sem2](https://github.com/TIM-Celestia/Rhizomatique/assets/89608091/a46d326c-9433-4a75-abb1-765b2a6f9d69)
+![image_fier_sem2](medias/journal-felix/image_fier_2.png)
 
 
 
@@ -94,7 +94,7 @@ Continuer à paufiner la détection avec la toile et connecter mon travail avec 
 - Connecté mon travail de la toile avec celui de Maïka pour les murs
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![image_semaine_3](https://github.com/TIM-Celestia/Rhizomatique/assets/89608091/41ea3d97-5de4-4787-bdf8-2993e232aa1a)
+![image_semaine_3](medias/journal-felix/image_fier_3.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -129,7 +129,7 @@ Aider à monter les projecteurs et à faire le mapping vidéo pour que tout à l
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![image_semaine_4](https://github.com/TIM-Celestia/Rhizomatique/assets/89608091/b99fd61b-5ef6-4c67-93e1-1dac4135a080)
+![image_semaine_4](medias/journal-felix/image_fier_.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
