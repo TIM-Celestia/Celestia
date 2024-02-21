@@ -58,10 +58,10 @@ Essayer de syncroniser le modèle artistique de la toile avec lui du mur.
 - J'ai fait en sorte qu'on puisse changer les images.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![banane](medias/banane-particule.png)
-![blé](medias/ble-particule.png)
-![blé vidéo](medias/video-blee-particule.png)
-![arbre](medias/arbre-particule.png)
+![banane](medias/journal-maika/banane-particule.png)
+![blé](medias/journal-maika/ble-particule.png)
+![blé vidéo](medias/journal-maika/video-blee-particule.png)
+![arbre](medias/journal-maika/arbre-particule.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -134,7 +134,7 @@ Je vais rajouter des lignes lorsque l'oeuvre est au repos.
 J'ai installé les projecteurs j'ai rajouté l'effet visuel au mur lorsque l'oeuvre est en repos.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![projecteurs](medias/installation_projecteur.png)
+![projecteurs](medias/journal-maika/installation_projecteur.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
