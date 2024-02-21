@@ -24,11 +24,11 @@
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![image](https://github.com/TIM-Celestia/Celestia/assets/89647723/4d3ba636-891b-4142-beaf-3b1dc97eee3a)
+![image](medias/journal-laurie/image_semaine_1-1.png)
 ou
-![image2](https://github.com/TIM-Celestia/Celestia/assets/89647723/2fed3f23-d238-4f00-b971-9fc24d93be7c)
+![image2](medias/journal-laurie/image_semaine_1-2.png)
 ou
-![image1](https://github.com/TIM-Celestia/Celestia/assets/89647723/8b0bd33c-788e-44f0-9b1d-b08c7b07063f)
+![image1](medias/journal-laurie/image_semaine_1-3.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
