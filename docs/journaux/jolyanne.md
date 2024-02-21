@@ -21,7 +21,7 @@
   
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-<img src="https://github.com/TIM-Celestia/Celestia/assets/113621167/75b1cf7f-68f7-4a89-8290-958e94848d79" width="500px"></img>
+<img src="medias/journal-jolyanne/image_semaine_1.png" width="500px"></img>
 
 
 
@@ -63,7 +63,7 @@ Installer le projecteur pour projeter sur la toile
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![plan_boite](medias/logo_rhizomatique.png)
+![plan_boite](medias/journal-jolyanne/image_semaine_2.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -150,7 +150,7 @@ Commencer le mapping dans le cyclo
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-<img src="medias/collectif/journaux_semaine_4_vendredi.jpg" width="500px"></img>
+<img src="medias/journal-jolyanne/image_semaine_4.png" width="500px"></img>
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
