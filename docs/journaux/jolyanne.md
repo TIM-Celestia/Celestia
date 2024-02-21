@@ -1,5 +1,5 @@
 # Journal de "Jolyanne Desjardins"
-![portrait du participant ](../web/medias/participants/celestia-jolyanne.png)
+![portrait du participant ](../web/medias/participants/jolyanne-celestai.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
