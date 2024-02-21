@@ -129,7 +129,7 @@ Aider à monter les projecteurs et à faire le mapping vidéo pour que tout à l
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![image_semaine_4](medias/journal-felix/image_fier_.png)
+![image_semaine_4](medias/journal-felix/image_fier_4.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
