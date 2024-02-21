@@ -113,8 +113,8 @@ Mon défi pour la semaine prochaine c'est d'avoir regrouper assez de médias pou
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![montage Davinci](https://github.com/TIM-Celestia/Rhizomatique/assets/89647723/5f6ab39a-e085-404b-aeef-5a64a326f588)
-![onedrive](https://github.com/TIM-Celestia/Rhizomatique/assets/89647723/fbeeff31-e549-4369-bb2a-1333d85c21aa)
+![montage Davinci](medias/journal-laurie/image_semaine_3-1.png)
+![onedrive](medias/journal-laurie/image_semaine_3-2.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
