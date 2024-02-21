@@ -95,7 +95,6 @@ Faire en sorte les images change sur le mur lorsque l'on touche la toile et mont
 - J'ai réussie à faire en sorte que les média soit aléatoire et que cela s'enclenche avec la toile.
 - J'ai mis les vrai médias de souvenirs.
 
-### Image d'une réalisation dont tu es la ou le plus fier
 
 
 
