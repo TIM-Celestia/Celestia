@@ -29,6 +29,12 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 
 ## Semaine 5
 
+### Lundi 
+présentation maquette.
+
+### mardi 
+Nous avons présenter l'effet des vidéos pour après avec avec l'aide de Thomas faire en sorte que le pan change le son de flou à nette (effet à pas d'effet ).Nous avons aussi eu des problèmes de son avec les vidéos optimiser.Donc on essaie de trouver une solution 
+
 ## Semaine 4
 
 ### Lundi 
