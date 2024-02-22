@@ -186,6 +186,10 @@ Faire en sorte que le mapping soit fini
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
+-effet des vidéos 
+-brancher les haut-parleurs avec le DI
+- son de la toile
+- avancement dans le github
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -195,12 +199,12 @@ Faire en sorte que le mapping soit fini
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ on est quand même bien avancer mais à cause des problème de son avec les vidéo on a pris un peu de retard dans la gestion des effets des sons pour les vidéos.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -208,7 +212,7 @@ Faire en sorte que le mapping soit fini
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
