@@ -33,8 +33,15 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 présentation maquette.
 
 ### mardi 
-Nous avons présenter l'effet des vidéos pour après avec avec l'aide de Thomas faire en sorte que le pan change le son de flou à nette (effet à pas d'effet ).Nous avons aussi eu des problèmes de son avec les vidéos optimiser.Donc on essaie de trouver une solution 
+Nous avons présenter l'effet des vidéos pour après avec avec l'aide de Thomas faire en sorte que le pan change le son de flou à nette (effet à pas d'effet ).Nous avons aussi eu des problèmes de son avec les vidéos optimiser.Donc on essaie de trouver une solution.
 
+### Mercredi 
+nous avons faite le mapping des vidéos sur les murs de côté et nous avons relier les son à ceux-ci. Nous avons aussi brancher le haut-parleur des vidéos au plafond.
+
+### Jeudi 
+Présentation des sons à Thomas. Nous avons aussi passer les fils xlr dans le plancher pour les cacher du publique car il n'y avait pas de prise xlr sous la trappe ou on a notre toile.
+
+### vendredi 
 ## Semaine 4
 
 ### Lundi 
