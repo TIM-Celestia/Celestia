@@ -143,6 +143,7 @@ J'ai bien avancé cette semaine. J'ai fini le sons ambiant de l'oeuvre et grâce
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
+
 ### Défis pour la prochaine semaine
 
 Pour la semaine prochaine, je me met au défi d'installer les projecteurs au plafond et de faire le filage au plafond.
@@ -188,13 +189,17 @@ La semaine 4 était la semaine des installations. J'ai beaucoup contribué à ce
 
 #### S'il y a des écarts, décrivez-les.
 
+Trouver la bonne position pour les projecteurs à été un gros défi car on ne savait pas si on disposait les projecteur à la verticale au lieux de l'horizontale. Il y a avait beaucoup de possibilités, mais aucune d'entre elles donnaient exactement ce qu'on voulait.
+
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+Finalement, on est aller parler aux professeurs et on a conclu que s'était d'avoir un projecteur par dessus l'autre. et que le projecteur du dessous est un angle penché vers le haut.
 
 ### Défis pour la prochaine semaine
-
 ---
+Pour la semaine prochaine je me met au défi de retravailler le son de la toile pour créer plus de mouvement et dimension lorsque tu appuies sur la toile.
+
 ## Semaine 5
 ### Résumé des réalisations effectuées
 
