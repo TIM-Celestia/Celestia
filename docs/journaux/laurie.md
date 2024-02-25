@@ -154,6 +154,9 @@ Pour la semaine prochaine, je me met au défi d'installer les projecteurs au pla
 - J'ai fait tout le filage du projecteur
 - J'ai modifié le sons des vidéo sur Reaper
 
+La semaine 4 était la semaine des installations. J'ai beaucoup contribué à cette partie pour le projet. En effet, je suis monté dans l'échelle j'ai installé les projecteurs et j'ai fait le filage avec ma collègue Maika. 
+
+
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 
