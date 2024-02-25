@@ -159,6 +159,10 @@ La semaine 4 était la semaine des installations. J'ai beaucoup contribué à ce
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![image_semaine_4-1](medias/journal-laurie/image_semaine_4-1.png)
+
+
+
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
