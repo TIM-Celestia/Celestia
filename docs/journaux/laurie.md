@@ -163,13 +163,14 @@ La semaine 4 était la semaine des installations. J'ai beaucoup contribué à ce
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x ] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+
+ Je suis très fière de moi car j'ai vaincu ma peur hauteurs en montant dans l'échelle et installant des projecteurs. J'ai beaucoup aidé mon équipe à ce niveau car on est nombreux à avoir la peur des hauteurs dans mon équipe.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
