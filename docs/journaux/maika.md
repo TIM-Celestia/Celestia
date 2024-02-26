@@ -195,6 +195,7 @@ Il faut absolument les mettrent cette semaine.
 
 ### Défis pour la prochaine semaine
 Mettre toutes les vidéos et mettre les bons sons pour chacun.
+
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
