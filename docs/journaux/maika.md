@@ -161,7 +161,7 @@ Installer les hauts-parleurs, mettre tous les vidéos de souvenirs et programer 
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+-J'ai mis les vidéos sur les trois murs
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -171,30 +171,30 @@ Installer les hauts-parleurs, mettre tous les vidéos de souvenirs et programer 
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Peu
+- [x] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ les vidéos ne sont pas toute là et il faut couper certaine vidéos
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+cette semaine il faut toutes les mettrent
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Un peu
+- [x] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+les vidéos ne sont pas toutes là donc les sons aussi.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Il faut absolument les mettrent cette semaine.
 
 ### Défis pour la prochaine semaine
-
+Mettre toutes les vidéos et mettre les bons sons pour chacun.
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
