@@ -26,7 +26,11 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 ## Semaine 7
 
 ## Semaine 6
+### lundi 
+Srum + planification de la semaine
 
+### Mardi 
+on a ajouté 2 autre speaker au plafond nous avons aussi ajouté les DI nécessaires, ce qui nous a pris plus de temps que prévu. nous avons aussi essayer d'arranger les côté de la structure qui décollait.
 ## Semaine 5
 
 ### Lundi 
@@ -42,6 +46,8 @@ nous avons faite le mapping des vidéos sur les murs de côté et nous avons rel
 Présentation des sons à Thomas. Nous avons aussi passer les fils xlr dans le plancher pour les cacher du publique car il n'y avait pas de prise xlr sous la trappe ou on a notre toile.
 
 ### vendredi 
+
+
 ## Semaine 4
 
 ### Lundi 
