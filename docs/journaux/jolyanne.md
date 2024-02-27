@@ -189,6 +189,7 @@ Faire en sorte que le mapping soit fini
 -effet des vidéos 
 -brancher les haut-parleurs avec le DI
 - son de la toile
+- exporter toute les vidéo avec reaper 
 - avancement dans le github
 
 
