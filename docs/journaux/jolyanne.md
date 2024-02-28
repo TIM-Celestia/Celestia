@@ -6,8 +6,8 @@
 * [Semaine 3](#semaine-3)
 * [Semaine 4](#semaine-4)
 * [Semaine 5](#semaine-5)
-* [Semaine de rattrapage](#semaine-de-rattrapage)
 * [Semaine 6](#semaine-6)
+* [Semaine de rattrapage](#semaine-de-rattrapage)
 * [Semaine 7](#semaine-7)
 * [Semaine 8](#semaine-8)
 * [Semaine 9](#semaine-9)
@@ -194,7 +194,7 @@ Faire en sorte que le mapping soit fini
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+<img src="medias/journal-jolyanne/image_semaine_5.png" width="500px"></img>
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
