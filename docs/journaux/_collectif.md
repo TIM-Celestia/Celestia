@@ -47,7 +47,7 @@ nous avons faite le mapping des vidéos sur les murs de côté et nous avons rel
 Présentation des sons à Thomas. Nous avons aussi passer les fils xlr dans le plancher pour les cacher du publique car il n'y avait pas de prise xlr sous la trappe ou on a notre toile.
 
 ### vendredi 
-Nous avons fait en sorte que dépendant ou on met notre main , les video apparaissent sur le mur, exemple l'intéracteur appuis a gauche ,et bie sa va être sur le mur gauche que la vidéo va apparaitre.
+Nous avons fait en sorte que dépendant ou on met notre main , les video apparaissent sur le mur, exemple l'intéracteur appuis a gauche ,et bie sa va être sur le mur gauche que la vidéo va apparaitre. Et nous avons aussi mis le son de la toile qu'on a modifier et on a fait en sorte que lorsqu'on bouge notre main sur la toile le son suit le mouvement de la main.
 
 ## Semaine 4
 
