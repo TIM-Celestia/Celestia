@@ -122,10 +122,10 @@ Aider à monter les projecteurs et à faire le mapping vidéo pour que tout à l
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-- Aidé à déplacer l'échelle pour que mes coéquipières puissent installer les projecteurs
 - Calibré le projecteur et la Kinect à l'intérieur de la boîte supportant la toile
 - Trouvé comment changer de mur selon la vidéo qui joue
 - Enregistré et monté le logo et la bannière de notre projet
+- Aidé à déplacer l'échelle pour que mes coéquipières puissent installer les projecteurs
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -161,36 +161,36 @@ S'assurer que l'ensemble du projet fonctionne correctement, ensuite continuer av
  
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![image_semaine_5](medias/journal-felix/image_fier_5.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai complété la plupart des objectifs dont je m'étais fixé, mais il reste encore un pixel dans la caméra de la Kinect que je n'ai pas encore essayé de réparer.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+La semaine prochaine, je vais voir si on peut simplement mettre un masque sur le pixel, ou si on doir changer complètement de Kinect.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+On a prévu faire plusieurs choses cette semaine, comme arranger le pixel mort de la Kinect, mettre à jour les vidéos dans TouchDesigner et avoir un mode veille sur la toile, mais on a eu des problèmes qui ont ralenti notre progression.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+La semaine prochaine, on va se concentrer sur tout ce qui nous manque pour qu'on puisse se concentrer sur les détails.
 
 ### Défis pour la prochaine semaine
-
+S'assurer que les sons marchent avec les nouveaux sons et arranger le visuel de la toile avec où on appuie
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
