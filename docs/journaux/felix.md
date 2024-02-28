@@ -6,8 +6,8 @@
 * [Semaine 3](#semaine-3)
 * [Semaine 4](#semaine-4)
 * [Semaine 5](#semaine-5)
-* [Semaine de rattrapage](#semaine-de-rattrapage)
 * [Semaine 6](#semaine-6)
+* [Semaine de rattrapage](#semaine-de-rattrapage)
 * [Semaine 7](#semaine-7)
 * [Semaine 8](#semaine-8)
 * [Semaine 9](#semaine-9)
@@ -155,8 +155,10 @@ S'assurer que l'ensemble du projet fonctionne correctement, ensuite continuer av
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
-
+- Fait en sorte que l'endroit où on appuie sur la toile change où une vidéo est projetée
+- Lié le son de Laurie à l'appui, au relâchement et au frottement de la toile
+- Aidé à déplacer l'échelle pour que mes coéquipières puissent installer les haut-parleurs
+ 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 
