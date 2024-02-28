@@ -189,10 +189,11 @@ On a prévu faire plusieurs choses cette semaine, comme arranger le pixel mort d
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 La semaine prochaine, on va se concentrer sur tout ce qui nous manque pour qu'on puisse se concentrer sur les détails.
 
-### Défis pour la prochaine semaine
+### Défis pour la prochaine semaine 
 S'assurer que les sons marchent avec les nouveaux sons et arranger le visuel de la toile avec où on appuie
+
 ---
-## Semaine de rattrapage
+## Semaine 6
 ### Résumé des réalisations effectuées
 
 
@@ -229,7 +230,7 @@ S'assurer que les sons marchent avec les nouveaux sons et arranger le visuel de 
 ### Défis pour la prochaine semaine
 
 ---
-## Semaine 6
+## Semaine de rattrapage
 ### Résumé des réalisations effectuées
 
 
