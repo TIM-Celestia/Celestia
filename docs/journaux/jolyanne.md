@@ -226,6 +226,44 @@ Faire en sorte que le mapping soit fini
 ### Défis pour la prochaine semaine
 
 ---
+## Semaine 6
+### Résumé des réalisations effectuées
+- Trouver des solutions pour la structure de la toile et les bord qui décolle.
+- Aider à l'installation des 2 autres speakers
+- Aider au branchement des fils audios
+
+### Image d'une réalisation dont tu es la ou le plus fier
+
+
+
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
+
+- [ ] Complètement
+- [] Assez
+- [x] Peu
+- [ ] Pas du tout
+
+#### Décrivez pourquoi.
+ j'Aurais du m'occuper des branchement des fils audio mais j'ai régler le problème de la toile en espérent que sa tienne
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+Essayer d'être capable de comprendre mieu touch pour me rendre plus utile
+
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
+
+- [ ] Complètement
+- [ x] Assez
+- [ ] Un peu
+- [ ] Pas tout à fait
+
+#### S'il y a des écarts, décrivez-les.
+
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+
+
+### Défis pour la prochaine semaine
+---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
 
@@ -263,41 +301,6 @@ Faire en sorte que le mapping soit fini
 ### Défis pour la prochaine semaine
 
 ---
-## Semaine 6
-### Résumé des réalisations effectuées
-
-
-### Image d'une réalisation dont tu es la ou le plus fier
-
-
-
-### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
-
-- [ ] Complètement
-- [ ] Assez
-- [ ] Peu
-- [ ] Pas du tout
-
-#### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
-### Mon projet s'est-il réalisé selon l’échéancier prévu?
-
-- [ ] Complètement
-- [ ] Assez
-- [ ] Un peu
-- [ ] Pas tout à fait
-
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
-### Défis pour la prochaine semaine
 
 ---
 ## Semaine 7
