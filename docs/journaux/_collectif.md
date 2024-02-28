@@ -41,7 +41,7 @@ Nous avons présenter l'effet des vidéos pour après avec avec l'aide de Thomas
 
 ### Mercredi 
 nous avons faite le mapping des vidéos sur les murs de côté et nous avons relier les son à ceux-ci. Nous avons aussi brancher le haut-parleur des vidéos au plafond.
-[![projet_touchdesigner_ordinateur](https://github.com/TIM-Celestia/Rhizomatique/assets/113621167/63c41497-f504-4579-b936-fc6d8ad2dd35)](https://youtu.be/M_DaUIG9yd4)
+[![projet_touchdesigner_ordinateur](https://github.com/TIM-Celestia/Rhizomatique/assets/113621167/63c41497-f504-4579-b936-fc6d8ad2dd35)](https://youtu.be/yDfYUsQofnw)
 
 ### Jeudi 
 Présentation des sons à Thomas. Nous avons aussi passer les fils xlr dans le plancher pour les cacher du publique car il n'y avait pas de prise xlr sous la trappe ou on a notre toile.
