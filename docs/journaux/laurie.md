@@ -203,6 +203,9 @@ Pour la semaine prochaine je me met au défi de retravailler le son de la toile 
 ## Semaine 5
 ### Résumé des réalisations effectuées
 
+- ajout des haut-parleurs au sol
+- ajout du haut-parleur au plafond
+- j'ai refait le son de la toile 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
