@@ -31,6 +31,11 @@ Srum + planification de la semaine
 
 ### Mardi 
 on a ajouté 2 autre speaker au plafond nous avons aussi ajouté les DI nécessaires, ce qui nous a pris plus de temps que prévu. nous avons aussi essayer d'arranger les côté de la structure qui décollait.
+### Mercredi 
+Nous avons remarquer que les haut parleur allait en sleep mode donc on a du les démonter et switcher une switch pour le désactiver.
+### Jeudi 
+
+### Vendredi 
 ## Semaine 5
 
 ### Lundi 
