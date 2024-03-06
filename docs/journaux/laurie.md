@@ -149,7 +149,9 @@ J'ai bien avancé cette semaine. J'ai fini le sons ambiant de l'oeuvre et grâce
 
 ### Défis pour la prochaine semaine
 
+
 Pour la semaine prochaine, je me met au défi d'installer les projecteurs au plafond et de faire le filage au plafond.
+
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
@@ -222,7 +224,8 @@ Pour la semaine prochaine je me met au défi de retravailler le son de la toile 
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- J'ai travaillé très fort dans l'installation des haut-parleurs, dans leur fonctionnement et dans le filage. J'ai aussi refais le sons de la toile. 
+
+ J'ai travaillé très fort dans l'installation des haut-parleurs, dans leur fonctionnement et dans le filage. J'ai aussi refais le sons de la toile afin qu'il soit plus adapter au sons d'ambiance du projet. Je suis très fier du résultat sa complète vraiment le projet.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -239,8 +242,12 @@ On a eu quelques problèmes au niveau des sons des vidéos car il y'a des sons p
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
-Il faut ajuster les sons des vidéos dans Reaper et les réexporter .
+Il faut ajuster les sons des vidéos dans Reaper et les réexporter.
+
 ### Défis pour la prochaine semaine
+Pour la semaine prochaine, je me donne pour défi d'installer deux autres haut-parleurs au plafond , de faire le filage et d'ajouter les DI à la carte de son.
+
+
 
 ---
 ## Semaine 6
