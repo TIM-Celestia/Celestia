@@ -154,8 +154,9 @@ Pour la semaine prochaine, je me met au défi d'installer les projecteurs au pla
 - J'ai accroché un projecteur
 - J'ai fait tout le filage du projecteur
 - J'ai modifié le sons des vidéo sur Reaper
+- ajout des haut-parleurs au sol
 
-La semaine 4 était la semaine des installations. J'ai beaucoup contribué à cette partie pour le projet. En effet, je suis monté dans l'échelle j'ai installé les projecteurs et j'ai fait le filage avec ma collègue Maika. 
+La semaine 4 était la semaine des installations. J'ai beaucoup contribué à cette partie pour le projet. En effet, je suis monté dans l'échelle, j'ai installé les projecteurs et j'ai fait le filage avec ma collègue Maika. De plus, j'ai ajouter les haut-parleurs du sol et j'ai fait le filage.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -203,8 +204,7 @@ Pour la semaine prochaine je me met au défi de retravailler le son de la toile 
 ## Semaine 5
 ### Résumé des réalisations effectuées
 
-- ajout des haut-parleurs au sol
-- ajout du haut-parleur au plafond
+- ajout du haut-parleur (milieu) au plafond
 - j'ai refait le son de la toile 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -213,13 +213,13 @@ Pour la semaine prochaine je me met au défi de retravailler le son de la toile 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [ x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai travaillé très fort dans l'installation des haut-parleurs, dans leur fonctionnement et dans le filage. J'ai aussi refais le sons de la toile. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -227,16 +227,16 @@ Pour la semaine prochaine je me met au défi de retravailler le son de la toile 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [ x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+On a eu quelques problèmes au niveau des sons des vidéos car il y'a des sons plus fort que d'autres et le contraste est trop gros. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
-
+Il faut ajuster les sons des vidéos dans Reaper et les réexporter .
 ### Défis pour la prochaine semaine
 
 ---
