@@ -233,10 +233,12 @@ Faire en sorte que le mapping soit fini
 - Trouver des solutions pour la structure de la toile et les bord qui décolle.
 - Aider à l'installation des 2 autres speakers
 - Aider au branchement des fils audios
+- Refaite le schémas de branchement
+- J'ai aussi réexporter les vidéos une 3 èmes fois à cause des niveaux bizarre de certaine vidéo
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+Le schémas de branchement 
+<img src="medias/journal-jolyanne/image_semaine_6.png" width="500px"></img>
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -246,7 +248,7 @@ Faire en sorte que le mapping soit fini
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- j'Aurais du m'occuper des branchement des fils audio mais j'ai régler le problème de la toile en espérent que sa tienne
+ j'Aurais du m'occuper des branchement des fils audio mais j'ai régler le problème de la toile en espérent que sa tienne. J'ai aussi faite le schémas de branchement.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Essayer d'être capable de comprendre mieu touch pour me rendre plus utile
@@ -265,6 +267,9 @@ Essayer d'être capable de comprendre mieu touch pour me rendre plus utile
 
 
 ### Défis pour la prochaine semaine
+
+Faire la transition vers la salle des matrices!
+
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
