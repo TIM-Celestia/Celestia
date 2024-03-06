@@ -195,39 +195,37 @@ S'assurer que les sons marchent avec les nouveaux sons et arranger le visuel de 
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+- Fait en sorte que les sons sortent des bons haut-parleeurs selon où on touche
+- Lié l'intensité de l'effet sur l'audio des vidéos au niveau d'interaction avec la toile
+- Aidé à arranger le mapping vidéo
+- Fait en sorte que les vidéos (TOP) soient liés au bon audio (CHOP) dans TouchDesigner
+- Ajouté un effet de veille (main) sur la toile
+- Enlevé le pixel mort de la Kinect à l'aide d'un masque
+- Programmé le choix de mur selon le niveau de blanc à l'endroit correspondant (gauche, centre, droit)
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![image_semaine_6](medias/journal-felix/image_fier_6.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+ J'ai pu régler plusieurs problèmes qu'on pensait allaient prendre plus longtemps, tels que le pixel mort, l'effet sur les sons selon l'interaction et j'ai aussi pu optimiser la sélection du mur selon le niveau d'interaction à cet endroit sur la toile.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
+S'assurer que le branchement des fils soient bien faites lorsque l'ordinateur sur le chariot est dans la salle des matrices.
 
 ---
 ## Semaine de rattrapage
