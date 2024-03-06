@@ -16,6 +16,7 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
+
 - J'ai trouvé une nouvelle idée pour le projet
 - J'ai fait des tests sur TouchDesigner
 - J'ai créer un groupe sur team pour notre projet. J'ai aussi commencé l'organisation de la semaine en créant une liste de choses à faire pour l'équipe.
@@ -253,6 +254,10 @@ Pour la semaine prochaine, je me donne pour défi d'installer deux autres haut-p
 ## Semaine 6
 ### Résumé des réalisations effectuées
 
+- Installer deux haut-parleurs au plafond
+- Ajout des boîtes DI
+- Changer de carte de sons
+- Filage des haut-parleurs
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
