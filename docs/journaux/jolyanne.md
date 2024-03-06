@@ -23,7 +23,7 @@
   
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-<img src="medias/journal-jolyanne/image_semaine_1.png" width="500px"></img>
+<img src="medias/journal-jolyanne/image_semaine_1.jpg" width="500px"></img>
 
 
 
