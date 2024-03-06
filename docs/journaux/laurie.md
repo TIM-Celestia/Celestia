@@ -258,6 +258,7 @@ Pour la semaine prochaine, je me donne pour défi d'installer deux autres haut-p
 - Ajout des boîtes DI
 - Changer de carte de sons
 - Filage des haut-parleurs
+- Le focus des projecteurs
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
