@@ -51,8 +51,10 @@ C'est la première semaine du retour à l'école donc on est toujours en adaptat
 Le seul écart qu'il y a c'est le fait qu'on est toujours pas acheter la toile en spandex extensible.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+
 On va acheter la toile mardi.
 ### Défis pour la prochaine semaine
+
 Mon défi pour la semaine prochaine c'est de acheter les toiles et de peux etre acheter les matériaux nécessaire pour la construction du cadre de la toile. De plus, je vais aussi avoir pour tâche de faire le montage vidéo de notre video qui est a remettre dans une semaine.
 
 ---
@@ -99,6 +101,7 @@ Pour la semaine du 29 janvier au 5 février, j'avais pour mission de continuer l
 
 
 ### Défis pour la prochaine semaine
+
 Mon défi pour la semaine prochaine c'est d'avoir regrouper assez de médias pour reconstruire la vie d'une femme et de créer encore plus de sons. 
 
 ---
