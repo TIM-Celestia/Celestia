@@ -165,7 +165,7 @@ Installer les hauts-parleurs, mettre tous les vidéos de souvenirs et programer 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![premier modèle](medias/journal-maika/trois_murs_videos.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
