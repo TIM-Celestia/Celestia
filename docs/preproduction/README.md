@@ -135,7 +135,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
  
 ### Schéma de branchement 
 
-![MicrosoftTeams-image (12)](https://github.com/TIM-Celestia/Celestia/assets/113621167/b669c933-4942-41e4-8f75-f496f9d02946)
+![Toile ](medias/schemas_branchement.png)]
 
 
 ## Matériel de scénographie requis
