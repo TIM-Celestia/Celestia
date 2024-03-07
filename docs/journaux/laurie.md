@@ -137,16 +137,17 @@ J'ai bien avancé cette semaine. J'ai fini le sons ambiant de l'oeuvre et grâce
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
+Il y a un ralentissement dans la recherche de média car on a réaliser qu'il manquait de vidéo plus récente (filmé avec un téléphone). 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
-
+On a du faire une recherche encore plus approfondie pour trouver de nous médias
 
 ### Défis pour la prochaine semaine
 
@@ -211,12 +212,16 @@ Pour la semaine prochaine je me met au défi de retravailler le son de la toile 
 ### Résumé des réalisations effectuées
 
 - ajout du haut-parleur (milieu) au plafond
-- j'ai refait le son de la toile 
+- j'ai refait le son de la toile
+- Faire le filage
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 
-![image_semaine_5-1](medias/journal-laurie/image_semaine_5-1.png)
+![image_semaine_5_1](medias/journal-laurie/image_semaine_5_1.png)
+
+
+![image_semaine_5_2](medias/journal-laurie/image_semaine_5_2.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -228,10 +233,11 @@ Pour la semaine prochaine je me met au défi de retravailler le son de la toile 
 
 #### Décrivez pourquoi.
 
- J'ai travaillé très fort dans l'installation des haut-parleurs, dans leur fonctionnement et dans le filage. J'ai aussi refais le sons de la toile afin qu'il soit plus adapter au sons d'ambiance du projet. Je suis très fier du résultat sa complète vraiment le projet.
+ J'ai travaillé très fort dans l'installation des haut-parleurs, dans leur fonctionnement et dans le filage. J'ai aussi refais le sons de la toile afin qu'il soit plus adapter au sons d'ambiance du projet. Je suis très fier du résultat sa complète vraiment le projet.On a eu quelques complication avec l'ajout du haut-parleur au plafond car on ne savait pas où le mettre. On hésitait entre au sol en avant de la structure de la toile ou au plafond au dessu de la toile. De base je l'ai essayé au sol, mais avec les portes ouverte j'ai réalisé que c'etait pas la meilleure place. En effet, les personnes qui testaient la toile regardait que la toile et pas les projections.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+Pour remédier à la situation, on a installer le haut parleur au plafond. De cette façon les gens sont attirer vers le son du plafond et regarde d'avantages les projections.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -241,6 +247,7 @@ Pour la semaine prochaine je me met au défi de retravailler le son de la toile 
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
+
 On a eu quelques problèmes au niveau des sons des vidéos car il y'a des sons plus fort que d'autres et le contraste est trop gros. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
@@ -248,6 +255,7 @@ On a eu quelques problèmes au niveau des sons des vidéos car il y'a des sons p
 Il faut ajuster les sons des vidéos dans Reaper et les réexporter.
 
 ### Défis pour la prochaine semaine
+
 Pour la semaine prochaine, je me donne pour défi d'installer deux autres haut-parleurs au plafond , de faire le filage et d'ajouter les DI à la carte de son.
 
 
