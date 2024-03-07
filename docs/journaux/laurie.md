@@ -27,7 +27,7 @@
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![image](medias/journal-laurie/image_semaine_1-1.png)
 ou
-![image](medias/journal-laurie/image_semaine_1-2.png)
+![image](medias/journal-laurie/image_semaine_1-2)
 
 
 
