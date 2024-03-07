@@ -278,13 +278,14 @@ Pour la semaine prochaine, je me donne pour défi d'installer deux autres haut-p
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x ] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+
+J'ai été très productive pendant la semaine 6. J'ai installé deux nouveau haut-parleurs au plafond et fait le filage (un à gauche et un à droite). J'ai aussi changé la carte de son pour une plus grosse car ils n'y avaient pu assez de sorties audios pour les cinq haut-parleurs qu'on utilisait. De plus j'ai aussi ajouter des boîtes DI pour avoir un meilleur son quand on va être rendu à déplacer l'ordinateur dans la salle des matrices.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -292,17 +293,21 @@ Pour la semaine prochaine, je me donne pour défi d'installer deux autres haut-p
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [ x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
+J'ai rencontré quelques problème pendant la semaine 6 concernant les haut-parleurs. En effet, j'ai réaliser que quand tu arrêtais de sortir du son dans le haut-parleur gauche et le droit ils s'éteignaient. Donc à chaque qu'il s'éteignaient je devais prendre l'échelle l'amener dans le cyclo et rallumer les deux haut-parleurs plusieurs fois dans une journée. Un autre problème que j'ai rencontré c'est que les haut-parleurs du plafond grichaient à chaque qu'on mettait notre main sur la toile et qu'on la retirait. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+Pour régler le problème des haut-parleurs qui s'éteingne lorsque tu ne l'ai utilise pas pendant un moment, j'ai été voir Antoine et Guillaume pour comprendre ce qu'il se passait. Après avoir lu de la documentation on a réalisé qu'avec cette sorte de haut-parleur là quand tu cesses de les utiliser pendant un moment il tombe dans un mode sleep. Pour remédier à la situation j'ai du décrocher les haut-parleur et enlever une pièce pour pouvoir accéder à un petit panneau qui nous permet de désactiver ce mode. En l'ai réinstallant on a réalisé que le problème était régler. Pour ce qui est du deuxième problème, on est encore entrain d'essayer de comprendre la cause.
 
 ### Défis pour la prochaine semaine
+
+Régler le son qui griches et faire le filage pour amener l'ordi dans la salle des matrices.
 
 ---
 ## Semaine de rattrapage
