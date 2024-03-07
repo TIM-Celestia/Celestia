@@ -272,7 +272,9 @@ Pour la semaine prochaine, je me donne pour défi d'installer deux autres haut-p
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![image_semaine_6_1](medias/journal-laurie/image_semaine_6_1.png)
 
+![image_semaine_6_2](medias/journal-laurie/image_semaine_6_2.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
