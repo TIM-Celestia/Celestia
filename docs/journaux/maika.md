@@ -232,7 +232,7 @@ Mettre l'ordinateur dans la salle des matrix.
 - Nous avons déplacés l'ordinateur dans la salle des matrix
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![projecteurs](medias/journal-maika/matrix.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -256,7 +256,7 @@ Mettre l'ordinateur dans la salle des matrix.
 
 ### Défis pour la prochaine semaine
 
-Arranger tous les petits problème pour que ce soit terminer avant la semaine d'exposition.
+Arranger tous les petits problème pour que ce soit terminer avant la semaine d'exposition et faire de la publicité pour l'exposition.
 
 ---
 
