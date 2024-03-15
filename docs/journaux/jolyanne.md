@@ -273,7 +273,9 @@ Faire la transition vers la salle des matrices!
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+-aider pour les problèmes de son 
+-réexportation des sons
+-fillagw
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -281,20 +283,20 @@ Faire la transition vers la salle des matrices!
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ on a même eu droit à une journée de congé vendredi, car le transfert a la salle des matrice à prit moins de temps que prévu.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -306,13 +308,14 @@ Faire la transition vers la salle des matrices!
 
 
 ### Défis pour la prochaine semaine
-
+-finir les petits ajustements de détaille
 ---
 
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+-connexion du 3ème projecteur
+-tournage du teaser vidéo 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -326,7 +329,7 @@ Faire la transition vers la salle des matrices!
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ dernière minutes on à décider d'utiliser le 3ème projecteur et de le connecter pour les projections du milieu.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
