@@ -107,6 +107,8 @@ Commencer le mapping dans le cyclo
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+<img src="medias/journal-jolyanne/image_semaine_3.png" width="500px"></img>
+
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
