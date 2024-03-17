@@ -230,77 +230,66 @@ S'assurer que le branchement des fils soient bien faites lorsque l'ordinateur su
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+- Amélioré le pétillement des haut-parleurs
+- Assisté au déménagement de l'ordinateur sur chariot à la salle des matrices
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![image_semaine_rattrapage](medias/journal-felix/image_fier_rattrapage.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Nous nous sommes consacrés au filage cette semaine. Même avec le problème qu'on devait régler avec les haut-parleurs, on a réussi à mettre l'ordinateur sur chariot dans la salle des matrices, tout brancher et tout marche encore.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
+S'assurer que le projet fonctionne comme il faut et peaufiner le tout si il nous reste du temps libre.
 
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+- Ajouté un troisième projecteur pour le mur du centre
+- Ajusté l'image du troisième projecteur pour qu'il soit bien aligné avec les deux autres
+- Réparé un bug qui causait un changement de vidéo alors que la main restait au même endroit
+- Amélioré l'alignement de la main et de l'image sur la toile
+- Ajusté l'effet sonore et visuel selon le niveau d'interaction sur la toile
+- Changé l'effet de veille sur la toile pour deux mains qui apparaissent un après l'autre
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![image_semaine_7](medias/journal-felix/image_fier_7.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Même avec un troisième projecteur imprévu, j'ai pu l'inclure dans le projet lors de cette semaine. Aussi, j'ai modifié plusieurs éléments, mentionnés dans le résumé ci-haut, en peu de temps.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
-
+Espérer que tout fonctionne. Si, dans le pire des cas, il y a un problème, il faut le régler le plus rapidement que possible.
 
 ## Semaine 8
 
