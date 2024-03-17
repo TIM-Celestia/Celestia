@@ -27,7 +27,8 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 ### Lundi 
 Scrum + arranger les côtés de la structure pour cacher les clous.
 ### Mardi 
-LA rencontre avec les profs nous a fait réaliser qu'on devrait ajourter le 3ème projecteur pour enlever l'effet moustiquaire que les pixel des deux autres projocteur donne puisqu'ils sont vraiment éloigner.Nous avons aussi ajusté pour que le projo ce ferme lorsqu'il n'y a rien de projeter pour pas qu'on voit le carré de lumière.Nous avons aussi procéder au fillage du projecteur derrière la toile pour que ce sois plus net.
+La rencontre avec les profs nous a fait réaliser qu'on devrait ajourter le 3ème projecteur pour enlever l'effet moustiquaire que les pixel des deux autres projocteur donne puisqu'ils sont vraiment éloigner.Nous avons aussi ajusté pour que le projo ce ferme lorsqu'il n'y a rien de projeter pour pas qu'on voit le carré de lumière.Nous avons aussi procéder au fillage du projecteur derrière la toile pour que ce sois plus net.
+<img src="medias/collectif/journaux_semaine_7_mardi.png" width="500px"></img>
 ### Mercredi
 Nous avons décider de fermer le 3ème projo pour pouvoir se concentrer sur le son, l'effet de pan et le flou de la video lorsqu'on appuit pas fort c'est flou et si on appuit à deux mains c'est net. Nous avons aussi faite le tournage pour la vidéo promotionnelle ce qu'on a faite en avant midi.
 ### Jeudi 
@@ -36,9 +37,12 @@ Nous allon nous concentrer sur le mapping du troisième projo pour ce rendre com
 ## Semaine de relache
 ### Mercredi 
 On a réimporter les vidéo dans touchdesigner après les avoirs remodifiers. Nous avons aussi eu des problème de son qui apparaissait quand on changeais de vidéo. Avec plusieurs tantative et aide des profs à distance nous avons réussi a régler le problème de pop qui apparaissait dans les speakers. Nous aussi réaliser que un de nos speacker fonctionnais pas a cause d'un fil Jack qui était brisser.
+
 ### Jeudi 
 Nous avons reidentifier les sorties audios pour rendre le rebranchement dans la salle des matrices plus efficace nous avons par la suite procéder au rebranchement et tout a été comme sur des roulettes tout fonctionnaitdu premier coup.
+<img src="medias/collectif/journaux_semaine_relache_jeudi.png" width="500px"></img>
 
+<img src="medias/collectif/journaux_semaine_relache_jeudi_2.png" width="500px"></img>
 
 ## Semaine 6
 ### lundi 
