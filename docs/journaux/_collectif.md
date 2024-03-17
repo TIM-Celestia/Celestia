@@ -35,7 +35,11 @@ Nous avons décider de fermer le 3ème projo pour pouvoir se concentrer sur le s
 
 <img src="medias/collectif/journaux_semaine_7_mercredi.png" width="500px"></img>
 ### Jeudi 
-Nous allon nous concentrer sur le mapping du troisième projo pour ce rendre compte qu'il était pas alligner avec les autres donc nous allons essayer de le déplacer pour l'Alligner avec les autres.
+Nous allon nous concentrer sur le mapping du troisième projo pour ce rendre compte qu'il était pas alligner avec les autres donc nous allons essayer de le déplacer pour l'alligner avec les autres. Nous avons aussi mis l'auto iris pour faire en sorte que lorsque que la video fini le projecteur s'éteint pour pas qu'on voit le rectangle de la projection.
+
+### Vendredi
+
+On s'est rendu compte que l'auto iris arrêtais de fonctionner si personne touchait a la toile pendant plusieurs minutes, nous avons aussi toute nettoyer notre place de travaille ranger la table et tout pour faire de la place.
 
 ## Semaine de relache
 ### Mercredi 
