@@ -279,7 +279,7 @@ Faire la transition vers la salle des matrices!
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+<img src="medias/journal-jolyanne/image_fier_6.png" width="500px"></img>
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -319,6 +319,8 @@ Faire la transition vers la salle des matrices!
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+
+<img src="medias/journal-jolyanne/image_fier_7.png" width="500px"></img>
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
