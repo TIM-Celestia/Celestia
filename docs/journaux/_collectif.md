@@ -27,10 +27,13 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 ### Lundi 
 Scrum + arranger les côtés de la structure pour cacher les clous.
 ### Mardi 
-La rencontre avec les profs nous a fait réaliser qu'on devrait ajourter le 3ème projecteur pour enlever l'effet moustiquaire que les pixel des deux autres projocteur donne puisqu'ils sont vraiment éloigner.Nous avons aussi ajusté pour que le projo ce ferme lorsqu'il n'y a rien de projeter pour pas qu'on voit le carré de lumière.Nous avons aussi procéder au fillage du projecteur derrière la toile pour que ce sois plus net.
+La rencontre avec les profs nous a fait réaliser qu'on devrait ajourter le 3ème projecteur pour enlever l'effet moustiquaire que les pixel des deux autres projocteur donne puisqu'ils sont vraiment éloigner.Nous avons aussi ajusté pour que le projo ce ferme lorsqu'il n'y a rien de projeter pour pas qu'on voit le carré de lumière.Nous avons aussi procéder au fillage du projecteur derrière la toile pour que ce sois plus propre.
+
 <img src="medias/collectif/journaux_semaine_7_mardi.png" width="500px"></img>
 ### Mercredi
 Nous avons décider de fermer le 3ème projo pour pouvoir se concentrer sur le son, l'effet de pan et le flou de la video lorsqu'on appuit pas fort c'est flou et si on appuit à deux mains c'est net. Nous avons aussi faite le tournage pour la vidéo promotionnelle ce qu'on a faite en avant midi.
+
+<img src="medias/collectif/journaux_semaine_7_mercredi.png" width="500px"></img>
 ### Jeudi 
 Nous allon nous concentrer sur le mapping du troisième projo pour ce rendre compte qu'il était pas alligner avec les autres donc nous allons essayer de le déplacer pour l'Alligner avec les autres.
 
@@ -50,10 +53,14 @@ Srum + planification de la semaine
 
 ### Mardi 
 on a ajouté 2 autre speaker au plafond nous avons aussi ajouté les DI nécessaires, ce qui nous a pris plus de temps que prévu. nous avons aussi essayer d'arranger les côté de la structure qui décollait.
+
+<img src="medias/collectif/journaux_semaine_6_mardi.png" width="500px"></img>
 ### Mercredi 
 Nous avons remarquer que les haut parleur allait en sleep mode donc on a du les démonter et switcher une switch pour le désactiver.
 ### Jeudi 
-Nous avons améliorer la détection de la main et le son lier au bon vidéo
+Nous avons améliorer la détection de la main et le son lier au bon vidéo.
+
+<img src="medias/collectif/journaux_semaine_6_jeudi.png" width="500px"></img>
 ### Vendredi 
 Nous avons remarque que certaine vidéo était vraiment pas forte comparer a d'autre donc on a du les réexporter pour essayer qu'il soit le plus égale possible.
 ## Semaine 5
