@@ -314,6 +314,9 @@ Régler le son qui griches et faire le filage pour amener l'ordi dans la salle d
 
 ### Résumé des réalisations effectuées
 
+-Filage
+-organisation du budget pour mon comité
+
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -323,29 +326,37 @@ Régler le son qui griches et faire le filage pour amener l'ordi dans la salle d
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Peu
+- [x ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
  
+On étaient bien avancé dans le projet donc on c'est permis quelques jours de congés.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+On va travailler plus fort la semaine prochaine.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [ x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
+On avait rencontré quelques problèmes avec mes haut-parleurs la semaine passé et on penssait régler ça très rapidement pendant la semiane de relâche. Cependant, on a réalisé que le problème était un peu plus compliqué qu'on penssait. On a contacté Thomas et il nous a aidé à régler le problème à distance.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Défis pour la prochaine semaine
+
+
+Pour la semaine prochaine, je vais essayer de bouger les choses dans comité pour du budget et de trouver une solution si on arrive pas a voir du financement.
+
+
 
 ---
 
@@ -353,6 +364,9 @@ Régler le son qui griches et faire le filage pour amener l'ordi dans la salle d
 ## Semaine 7
 ### Résumé des réalisations effectuées
 
+-Vidéo promotionnelle pour la technique
+-tournage pour la video promotionnelle du projet 
+-Vidéo promotionnelle pour notre projet
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
