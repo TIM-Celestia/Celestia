@@ -16,7 +16,7 @@
 
 ### Résumé des réalisations effectuées
 - J'ai fait un test de modèle artistique.
-- J'ai créer un deuxième modèle artistique pour le mur et cette fois-ci le vrai.
+- J'ai créé un deuxième modèle artistique pour le mur et cette fois-ci le vrai.
 - J'ai rajouté une détection avec la souris pour.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -31,7 +31,7 @@ ou
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Le bus étais de réaliser un modèle artistique selon ce que nous voulions et j'ai fait lui qui sera projeter au mur alors la tâche est assez accomplie, Mais il reste à le synchroniser avec celui de la toile.
+Le but était de réaliser un modèle artistique selon ce que nous voulions et j'ai fait celui qui sera projeté au mur. Alors, la tâche est assez accomplète, mais il reste à le synchroniser avec celui de la toile.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Nous ferons probablement des tests la semaine prochaine pour voir si on peut synchroniser le modèle artistique de la toile avec lui du mur.
@@ -44,17 +44,17 @@ Nous ferons probablement des tests la semaine prochaine pour voir si on peut syn
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-il n'y a pas d'écart pour le moment.
+Il n'y a pas d'écarts pour le moment.
 
 ### Défis pour la prochaine semaine
-Essayer de syncroniser le modèle artistique de la toile avec lui du mur.
+Essayer de synchroniser le modèle artistique de la toile avec lui du mur.
 
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-- J'ai refais le modèle artistique pour la projection au mur.
-- J'ai créer plusieurs modèle différent.
-- J'ai rajouter des vidéo par dessus.
+- J'ai refait le modèle artistique pour la projection au mur.
+- J'ai créé plusieurs modèles différents.
+- J'ai rajouté des vidéos par-dessus.
 - J'ai fait en sorte qu'on puisse changer les images.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -71,10 +71,10 @@ Essayer de syncroniser le modèle artistique de la toile avec lui du mur.
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- On a réussi à synchronyser les deux modèle artistique ensemble mais on à pas encore fait en sorte que les images change d'une à l'autre en touchant la toile.
+On a réussi à synchroniser les deux modèles artistiques ensemble mais nous n'avions pas encore fait en sorte que les images changent d'une à l'autre en touchant la toile.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-On va probablement essayer de les connecter ensembles.
+Nous allons probablement essayer de les connecter ensembles.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -92,8 +92,8 @@ Faire en sorte les images change sur le mur lorsque l'on touche la toile et mont
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-- J'ai réussie à faire en sorte que les média soit aléatoire et que cela s'enclenche avec la toile.
-- J'ai mis les vrai médias de souvenirs.
+- J'ai réussi à faire en sorte que les médias soient aléatoires et que cela s'enclenche avec la toile.
+- J'ai mis les vrais médias de souvenirs.
 
 
 
@@ -106,10 +106,10 @@ Faire en sorte les images change sur le mur lorsque l'on touche la toile et mont
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- J'ai réussi à mettre les vidéos aléatoire et les afficher en fonction qu'on appuie sur la toile, mais on à pas encore placé les projecteurs, alors je n'ai pas adapter la projection.
+J'ai réussi à mettre les vidéos aléatoires et les afficher en fonction qu'on appuie sur la toile, mais on n'a pas encore placé les projecteurs, alors je n'ai pas adapté la projection.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Cette semaine nous allons accrocher le projecteurs au plafond.
+Cette semaine nous allons accrocher le projecteur au plafond.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -119,13 +119,13 @@ Cette semaine nous allons accrocher le projecteurs au plafond.
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Le projecteur n'ais pas accroché au plafond.
+Le projecteur n'est pas accroché au plafond.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Cette semaine nous allons l'accrocher.
 
 ### Défis pour la prochaine semaine
-Je vais rajouter des lignes lorsque l'oeuvre est au repos.
+Je vais rajouter des lignes en rhizome lorsque l'oeuvre est au repos.
 
 ---
 ## Semaine 4
@@ -144,7 +144,7 @@ J'ai installé les projecteurs j'ai rajouté l'effet visuel au mur lorsque l'oeu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- les projecteurs sont accroché et j'ai fait l'effet visuelle au repos.
+ Les projecteurs sont accrochés et j'ai fait l'effet visuel au repos.
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
@@ -154,9 +154,12 @@ J'ai installé les projecteurs j'ai rajouté l'effet visuel au mur lorsque l'oeu
 - [ ] Un peu
 - [ ] Pas tout à fait
 
+#### S'il y a des écarts, décrivez-les.
+Il n'y a pas d'écarts.
+
 ### Défis pour la prochaine semaine
 
-Installer les hauts-parleurs, mettre tous les vidéos de souvenirs et programer le sons à l'oeuvre.
+Installer les haut-parleurs, mettre toutes les vidéos de souvenirs et programmer le son à l'oeuvre.
 
 ---
 ## Semaine 5
@@ -175,10 +178,10 @@ Installer les hauts-parleurs, mettre tous les vidéos de souvenirs et programer 
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- les vidéos ne sont pas toute là et il faut couper certaine vidéos
+ Les vidéos ne sont pas toutes là et il faut couper certaines vidéos.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-cette semaine il faut toutes les mettrent
+Cette semaine il faut toutes les mettre.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -188,10 +191,10 @@ cette semaine il faut toutes les mettrent
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-les vidéos ne sont pas toutes là donc les sons aussi.
+Les vidéos ne sont pas toutes là donc les sons aussi.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Il faut absolument les mettrent cette semaine.
+Il faut absolument les mettre cette semaine.
 
 ### Défis pour la prochaine semaine
 Mettre toutes les vidéos et mettre les bons sons pour chacun.
@@ -199,7 +202,7 @@ Mettre toutes les vidéos et mettre les bons sons pour chacun.
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-- J'ai mis toute les vidéos avec les effets
+- J'ai mis toutes les vidéos avec les effets.
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -210,7 +213,7 @@ Mettre toutes les vidéos et mettre les bons sons pour chacun.
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- toute les vidéos ont été mise avec les effets.
+ Toutes les vidéos ont été mise avec les effets.
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
@@ -220,16 +223,19 @@ Mettre toutes les vidéos et mettre les bons sons pour chacun.
 - [ ] Un peu
 - [ ] Pas tout à fait
 
+#### S'il y a des écarts, décrivez-les.
+Il n'y a pas d'écarts.
 
 ### Défis pour la prochaine semaine
 
-Mettre l'ordinateur dans la salle des matrix.
+Mettre l'ordinateur dans la salle des matrixes.
 
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-- Nous avons arrangés le son des haut-parleurs
-- Nous avons déplacés l'ordinateur dans la salle des matrix
+- Nous avons arrangé l'audio des haut-parleurs
+- Nous avons déplacé l'ordinateur dans la salle des matrixes
+  
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 ![projecteurs](medias/journal-maika/matrix.png)
@@ -242,7 +248,7 @@ Mettre l'ordinateur dans la salle des matrix.
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- J'ai déplacer les fils dans la salles des matrix et arranger le son pour ne plus qu'il est de bruit.
+ J'ai déplacé les fils dans la salle des matrixes et arrangé le son pour ne plus qu'il est de bruit.
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
@@ -252,21 +258,23 @@ Mettre l'ordinateur dans la salle des matrix.
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-
+#### S'il y a des écarts, décrivez-les.
+Il n'y a pas d'écarts.
 
 ### Défis pour la prochaine semaine
 
-Arranger tous les petits problème pour que ce soit terminer avant la semaine d'exposition et faire de la publicité pour l'exposition.
+Arranger tous les petits problèmes pour que ce soit terminer avant la semaine d'exposition et faire de la publicité pour l'exposition.
 
 ---
 
 ## Semaine 7
 ### Résumé des réalisations effectuées
-- Nous avons arranger les petits problèmes et on a mis un troisième projecteur.
+- Nous avons arrangé les petits problèmes et on a mis un troisième projecteur.
 - On a fait de la publicité.
+
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![fini](medias/journal-maika/projet_fini.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -286,7 +294,8 @@ Arranger tous les petits problème pour que ce soit terminer avant la semaine d'
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-
+#### S'il y a des écarts, décrivez-les.
+Il n'y a pas d'écarts.
 
 ### Défis pour la prochaine semaine
 S'assurer que l'exposition de l'oeuvre se passe comme il se doit.
