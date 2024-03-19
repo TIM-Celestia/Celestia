@@ -370,7 +370,7 @@ Pour la semaine prochaine, je vais essayer de bouger les choses dans comité pou
 -Vidéo promotionnelle pour notre projet
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![image](medias/journal-laurie/image_semaine_7-1.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
