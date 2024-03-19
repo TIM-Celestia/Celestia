@@ -321,7 +321,8 @@ Régler le son qui griches et faire le filage pour amener l'ordi dans la salle d
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![image](medias/journal-laurie/image_semaine_relache_1-2.png)
+![image](medias/journal-laurie/image_semaine_relache_1.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -370,7 +371,10 @@ Pour la semaine prochaine, je vais essayer de bouger les choses dans comité pou
 -Vidéo promotionnelle pour notre projet
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![image](medias/journal-laurie/image_semaine_7-1.png)
+
+![image](medias/journal-laurie/image_semaine_7_1.png)
+![image](medias/journal-laurie/image_semaine_7_1-2.png)
+![image](medias/journal-laurie/image_semaine_7_1-3.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
