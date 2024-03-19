@@ -38,7 +38,7 @@ ou
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-C'est la première semaine du retour à l'école donc on est toujours en adaptation. Je me suis mis comme défi la planification de la semaine et de décider des jours de rencontre. On avait aussi chacun comme devoir de faire des tests sur le logiciel TouchDesigner, ce que j'ai également fait. De plus, j'ai commencé a créer des sons dans le logiciel VCV Rack 2 qui sont assez intéressant.
+C'est la première semaine à l'école donc on est toujours en adaptation. Je me suis mis comme défi la planification de la semaine et de décider des jours de rencontre. On avait aussi chacun comme devoir de faire des tests sur le logiciel TouchDesigner, ce que j'ai également fait. De plus, j'ai commencé à créer des sons dans le logiciel VCV Rack 2 qui sont assez intéressant.
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
@@ -56,7 +56,7 @@ Le seul écart qu'il y a c'est le fait qu'on est toujours pas acheter la toile e
 On va acheter la toile mardi.
 ### Défis pour la prochaine semaine
 
-Mon défi pour la semaine prochaine c'est de acheter les toiles et de peux etre acheter les matériaux nécessaire pour la construction du cadre de la toile. De plus, je vais aussi avoir pour tâche de faire le montage vidéo de notre video qui est a remettre dans une semaine.
+Mon défi pour la semaine prochaine c'est d'acheter les toiles et de peut être acheté les matériaux nécessaires pour la construction du cadre de la toile. De plus, je vais aussi avoir pour tâche de faire le montage vidéo de notre vidéo qui est à remettre dans une semaine.
 
 ---
 ## Semaine 2
@@ -66,7 +66,7 @@ Mon défi pour la semaine prochaine c'est de acheter les toiles et de peux etre 
 - J'ai fait de la colo sur DAVinci
 - J'ai créé des sons sur VCV RACK 2
 
-Pour la semaine du 29 janvier au 5 février, j'avais pour mission de continuer les sons de notre projet, de trouver des médias qui vont être les souvenirs et de faire le montage vidéo de notre capsule de présentation du projet. J'ai réussi à créer à l'aide d'inspiration un sons plutôt intéressant sur VCV Rack 2. De plus, j'ai fini le montage de la capsule. Pour ce qui est des médias, c'est un processus assez long faire le choix des médias, mais ça avance quand même assez bien.
+Pour la semaine du 29 janvier au 5 février, j'avais pour mission de continuer les sons de notre projet, de trouver des médias qui vont être les souvenirs et de faire le montage vidéo de notre capsule de présentation du projet. J'ai réussi à créer à l'aide d'inspiration un son plutôt intéressant sur VCV Rack 2. De plus, j'ai fini le montage de la capsule. Pour ce qui est des médias, c'est un processus assez long faire le choix des médias, mais ça avance quand même assez bien.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -83,7 +83,7 @@ Pour la semaine du 29 janvier au 5 février, j'avais pour mission de continuer l
 
 #### Décrivez pourquoi.
 
- Je suis assez satisfaite de ce que j'ai fait cette semaine car je pense que je suis sur une bonne piste avec les sons. Au début de la semaine, j'étais un peu découragé car je ne savais comment commencer pour la création de sons, mais grâce à une vidéo Youtube j'ai réussi à avancer. Pour ce qui est du montage de la capsule ça la été assez rapide. Pour ce qui est du choix des médias c'est un processus quand même long car il y a des vidéos qui datent de très longtemps donc je dois manuellement les converser au bon format pour les rendre utilisable et lisible par TouchDesigner.
+Je suis assez satisfaite de ce que j'ai fait cette semaine, car je pense que je suis sur une bonne piste avec les sons. Au début de la semaine, j'étais un peu découragé car je ne savais comment commencer pour la création de son, mais grâce à une vidéo YouTube j'ai réussi à avancer. Pour ce qui est du montage de la capsule ça la été assez rapide. Pour ce qui est du choix des médias c'est un processus quand même long car il y a des vidéos qui datent de très longtemps donc je dois manuellement les converser au bon format pour les rendre utilisables et lisibles par TouchDesigner.
  
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -103,7 +103,7 @@ Pour la semaine du 29 janvier au 5 février, j'avais pour mission de continuer l
 
 ### Défis pour la prochaine semaine
 
-Mon défi pour la semaine prochaine c'est d'avoir regrouper assez de médias pour reconstruire la vie d'une femme et de créer encore plus de sons. 
+Mon défi pour la semaine prochaine c'est d'avoir regrouper un bon nombre de médias des membres de l'équipe et de créer encore plus de sons. 
 
 ---
 ## Semaine 3 
@@ -129,7 +129,8 @@ Mon défi pour la semaine prochaine c'est d'avoir regrouper assez de médias pou
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-J'ai bien avancé cette semaine. J'ai fini le sons ambiant de l'oeuvre et grâce à OBS j'ai enregistré le contenu de la camera à cassette. Ensuite, j'ai été dans le logiciel DAvinci et j'ai couper des bouts de vidéos de 20 secondes qui vont nous servir pour les souvenirs. Pour finir, j'ai retravailler la vidéo d'intention pour la rendre meilleur encore.
+
+J'ai bien avancé cette semaine. J'ai fini le son ambiant de l'oeuvre et grâce à OBS j'ai enregistré le contenu de la caméra à cassette. Ensuite, j'ai été dans le logiciel DAvinci et j'ai coupé des bouts de vidéos de 20 secondes qui vont nous servir pour les souvenirs. Pour finir, j'ai retravaillé la vidéo d'intention pour la rendre meilleure encore.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -143,7 +144,7 @@ J'ai bien avancé cette semaine. J'ai fini le sons ambiant de l'oeuvre et grâce
 
 #### S'il y a des écarts, décrivez-les.
 
-Il y a un ralentissement dans la recherche de média car on a réaliser qu'il manquait de vidéo plus récente (filmé avec un téléphone). 
+Il y a un ralentissement dans la recherche de média, car on a réalisé qu'il manquait de vidéo plus récente (filmé avec un téléphone). 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -163,7 +164,7 @@ Pour la semaine prochaine, je me met au défi d'installer les projecteurs au pla
 - J'ai modifié le sons des vidéo sur Reaper
 - ajout des haut-parleurs au sol
 
-La semaine 4 était la semaine des installations. J'ai beaucoup contribué à cette partie pour le projet. En effet, je suis monté dans l'échelle, j'ai installé les projecteurs et j'ai fait le filage avec ma collègue Maika. De plus, j'ai ajouter les haut-parleurs du sol et j'ai fait le filage.
+La semaine 4 était la semaine des installations. J'ai beaucoup contribué à cette partie pour le projet. En effet, je suis monté dans l'échelle, j'ai installé les projecteurs et j'ai fait le filage avec ma collègue Maika. De plus, j'ai ajouté les haut-parleurs du sol et j'ai fait le filage.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -183,7 +184,7 @@ La semaine 4 était la semaine des installations. J'ai beaucoup contribué à ce
 
 #### Décrivez pourquoi.
 
- Je suis très fière de moi car j'ai vaincu ma peur hauteurs en montant dans l'échelle et installant des projecteurs. J'ai beaucoup aidé mon équipe à ce niveau car on est nombreux à avoir la peur des hauteurs dans mon équipe.
+ Je suis très fière de moi, car j'ai vaincu ma peur des hauteurs en montant dans l'échelle et installant des projecteurs. J'ai beaucoup aidé mon équipe à ce niveau car on est nombreux à avoir la peur des hauteurs dans mon équipe.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -197,16 +198,16 @@ La semaine 4 était la semaine des installations. J'ai beaucoup contribué à ce
 
 #### S'il y a des écarts, décrivez-les.
 
-Trouver la bonne position pour les projecteurs à été un gros défi car on ne savait pas si on disposait les projecteur à la verticale au lieux de l'horizontale. Il y a avait beaucoup de possibilités, mais aucune d'entre elles donnaient exactement ce qu'on voulait.
+Trouver la bonne position pour les projecteurs a été un gros défi, car on ne savait pas si on disposait les projecteurs à la verticale au lieu de l'horizontale. Il y a avait beaucoup de possibilités, mais aucune d'entre elles ne donnaient exactement ce qu'on voulait.
 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
-Finalement, on est aller parler aux professeurs et on a conclu que s'était d'avoir un projecteur par dessus l'autre. et que le projecteur du dessous est un angle penché vers le haut.
+Finalement, on est allé parler aux professeurs et on a conclu que c'était d'avoir un projecteur par-dessus l'autre et que le projecteur du dessous est un angle penché vers le haut.
 
 ### Défis pour la prochaine semaine
 ---
-Pour la semaine prochaine je me met au défi de retravailler le son de la toile pour créer plus de mouvement et dimension lorsque tu appuies sur la toile.
+Pour la semaine prochaine,je me mets au défi de retravailler le son de la toile pour créer plus de mouvement et dimension lorsque tu appuies sur la toile.
 
 ## Semaine 5
 ### Résumé des réalisations effectuées
@@ -233,11 +234,11 @@ Pour la semaine prochaine je me met au défi de retravailler le son de la toile 
 
 #### Décrivez pourquoi.
 
- J'ai travaillé très fort dans l'installation des haut-parleurs, dans leur fonctionnement et dans le filage. J'ai aussi refais le sons de la toile afin qu'il soit plus adapter au sons d'ambiance du projet. Je suis très fier du résultat sa complète vraiment le projet.On a eu quelques complication avec l'ajout du haut-parleur au plafond car on ne savait pas où le mettre. On hésitait entre au sol en avant de la structure de la toile ou au plafond au dessu de la toile. De base je l'ai essayé au sol, mais avec les portes ouverte j'ai réalisé que c'etait pas la meilleure place. En effet, les personnes qui testaient la toile regardait que la toile et pas les projections.
+ J'ai travaillé très fort dans l'installation des haut-parleurs, dans leur fonctionnement et dans le filage. J'ai aussi refait le son de la toile afin qu'il soit plus adapté aux sons d'ambiance du projet. Je suis très fier du résultat ça complète vraiment le projet.On a eu quelques complications avec l'ajout du haut-parleur au plafond, car on ne savait pas où le mettre. On hésitait entre au sol en avant de la structure de la toile ou au plafond au dessus de la toile. De base je l'ai essayé au sol, mais avec les portes ouvertes j'ai réalisé que ce n'était pas la meilleure place. En effet, les personnes qui testaient la toile ne regardait que la toile et pas les projections.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
-Pour remédier à la situation, on a installer le haut parleur au plafond. De cette façon les gens sont attirer vers le son du plafond et regarde d'avantages les projections.
+Pour remédier à la situation, on a installé le haut-parleur au plafond. De cette façon les gens sont attirés vers le son du plafond et regarde davantages les projections.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
