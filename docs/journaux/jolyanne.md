@@ -53,13 +53,13 @@ Pour la planification, avoir un ensemble des dates importantes et pouvoir savoir
 
 
 ### Défis pour la prochaine semaine
-Installer le projecteur pour projeter sur la toile
+Installer le projecteur pour projeter sur la toile.
 
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-- J'ai continuer à ajouté les infos sur le github
-- Connecter le projecteur avec madmapper pour afficher la projection sur la toile.
+- J'ai continuer à ajouté les infos sur le Github
+- Connecter le projecteur avec MadMapper pour afficher la projection sur la toile.
 - Commencer la réalisation du logo
 - Faire le devoir de Thomas
 
@@ -75,7 +75,7 @@ Installer le projecteur pour projeter sur la toile
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- J'ai réussi à projeter la projection de la toile en installant le projecteur ultra wide en le connectant a madmapper avec obs.
+ J'ai réussi à projeter la projection de la toile en installant le projecteur ultra wide en le connectant a MadMapper avec OBS.
 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
@@ -101,7 +101,7 @@ Commencer le mapping dans le cyclo
 ## Semaine 3 
 ### Résumé des réalisations effectuées
 - Mapping de la toile
-- Arraqngement du github
+- Arrangement du github
 - son de la toile
 - Construction de la structure 
 
@@ -119,7 +119,7 @@ Commencer le mapping dans le cyclo
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- Nous avions prévu de commencer le mapping avec les projecteurs sur le cyclo, mais le manque d'internet nous a nuis à ce niveau. 
+ Nous avions prévu de commencer le mapping avec les projecteurs sur le cyclo, mais le manque d'internet nous a nui à ce niveau. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -139,16 +139,17 @@ Commencer le mapping dans le cyclo
 
 ### Défis pour la prochaine semaine
 - Construction de la structure 
-- trouver comment faire tenir la toile étirrer 
+- 
+Trouver comment faire tenir la toile étirrer 
 
 
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
 
-- Mapping pour les vidéo projeter sur le mur du centre
+- Mapping pour les vidéos projetées sur le mur du centre
 - Son de la toile
-- Updater le github
+- Updater le Github
 - Son des souvenirs
   
 
@@ -164,10 +165,10 @@ Commencer le mapping dans le cyclo
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- Pour la maquette nous aurions voulu avoir le temps de faire le mapping pour les autres murs mais notre template était pas encore penser donc c'est quelque chose qui va être à faire la semaine prochaine
+Pour la maquette nous aurions voulu avoir le temps de faire le mapping pour les autres murs, mais notre template était pas encore pensé donc c'est quelque chose qui va être à faire la semaine prochaine
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Trouver un manière de faire afficher les vidéos format téléphone sur les murs de côté.
+Trouver une manière de faire afficher les vidéos format téléphone sur les murs de côté. 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -183,18 +184,18 @@ Trouver un manière de faire afficher les vidéos format téléphone sur les mur
 
 
 ### Défis pour la prochaine semaine
-Faire en sorte que le mapping soit fini
-- Que la plupart des vidéos soit dans touch
+- Faire en sorte que le mapping soit fini
+- Que la plupart des vidéos soit dans TouchDesigner
 - Le son soit final
 
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
--effet des vidéos 
--brancher les haut-parleurs avec le DI
-- son de la toile
-- exporter toute les vidéo avec reaper 
-- avancement dans le github
+-Effets des vidéos 
+- Brancher les haut-parleurs avec le DI
+- Son de la toile
+- Exporter toute les vidéo avec reaper 
+- Avancement dans le Github
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -209,7 +210,7 @@ Faire en sorte que le mapping soit fini
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- on est quand même bien avancer mais à cause des problème de son avec les vidéo on a pris un peu de retard dans la gestion des effets des sons pour les vidéos.
+ On est quand même bien avancer mais nous avons eu des problèmes de son avec les vidéos qui on a pris un peu de temps que prévu à régler.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -275,9 +276,9 @@ Faire la transition vers la salle des matrices!
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
--aider pour les problèmes de son 
--réexportation des sons
--fillage
+-Aider pour les problèmes de son 
+-Réexportation des sons
+-Fillage
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -316,7 +317,7 @@ Faire la transition vers la salle des matrices!
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
--connexion du 3ème projecteur
+-Connexion du 3ème projecteur
 -tournage du teaser vidéo 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -333,7 +334,7 @@ Faire la transition vers la salle des matrices!
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- Dernières minutes on à décider d'utiliser le 3ème projecteur et de le connecter pour les projections du milieu.
+ Dernières minutes, on à décider d'utiliser le 3ème projecteur et de le connecter pour les projections du milieu.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
