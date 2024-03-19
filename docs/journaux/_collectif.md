@@ -175,7 +175,7 @@ Nous avons commencer à essayer de faire en sorte que quand une main est détect
 Première journée de cours 
 
 ### Mardi 
-Première rencontre avec les profs, nous avons représenté notre préproduction, soulevé quelques problèmes.Donc suite à la rencontre, nous avons repensé notre projet,  trouvé d'autres inspirations pour la projection sur le mur et sur la toile. Felix et Maïka ont commencé quelques tutoriels Touchdesigner pour se familiariser avec le logiciel. Laurie a trouvé des inspirations pour les sons et a commencé la liste de matériel. Jolyanne continuait à trouver des inspirations générales et à corriger la préproduction avec les ajustements qu'on a fait.
+Première rencontre avec les profs, nous avons représenté notre préproduction, soulevé quelques problèmes.Donc suite à la rencontre, nous avons repensé notre projet,  trouvé d'autres inspirations pour la projection sur le mur et sur la toile. Felix et Maïka ont commencé quelques tutoriels Touchdesigner pour se familiariser avec le logiciel. Laurie a trouvé des inspirations pour les sons et a commencé la liste de matériel. Jolyanne continuait à trouver des inspirations générales et à corriger la préproduction avec les ajustements qu'on a faits.
 
 ### Mercredi
 Avant le cours, on a commencé l'organisation des prochaines semaines. Maïka et Laurie ont commencé à regarder des tutoriels pour les effets qui pourraient être intéressants dans Touchdesigner et les ont testés.
@@ -201,9 +201,9 @@ Cours avec Thomas qui servait à déterminer le thème et le nom de notre exposi
 Résultat:
 
 
-### vendredi 
+### Vendredi 
 
-Vendredi étant une période autonome, nous avons décidé d'intégrer la toile à nos tests. Après quelques tutoriels, Felix et Maïka ont réussi à détecter la distance entre la caméra de la Kinect et la toile lorsqu'on appuie sur celle-ci. Laurie a commencé à faire des sons, qu'elle nous a montré, et Jolyanne a fait moodboard général du projet et vérifié la liste de matériels.
+Vendredi étant une période autonome, nous avons décidé d'intégrer la toile à nos tests. Après quelques tutoriels, Felix et Maïka ont réussi à détecter la distance entre la caméra de la Kinect et la toile lorsqu'on appuie sur celle-ci. Laurie a commencé à faire des sons, qu'elle nous a montrés, et Jolyanne a fait moodboard général du projet et vérifié la liste de matériel. 
 
 <img src="https://github.com/TIM-Celestia/Celestia/assets/113621167/5a97e9ab-cefa-4514-b3d7-f6fd1375cc0c" width="500px"></img>
 
