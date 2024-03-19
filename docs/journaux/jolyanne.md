@@ -17,8 +17,8 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- Écrire les idées de notre version du du projet sur github avec les liens vers les vidéo de référence.
-- Commencer l'échéantier
+- Écrire les idées de notre version du projet sur Github avec les liens vers les vidéos de référence. 
+- Commencer l'échéancier 
 - Commencer les plans pour la boite et la toile
   
 
@@ -34,7 +34,7 @@
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Pour la planification avoir un ensemble des dates importantes et pouvoir savoir ce qu'on doit faire à chaque semaine pour pas prendre de retard.
+Pour la planification, avoir un ensemble des dates importantes et pouvoir savoir ce qu'on doit faire à chaque semaine pour ne pas prendre de retard.
 
 
 
