@@ -25,28 +25,31 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 
 ## Semaine 7
 ### Lundi 
-Scrum + arranger les côtés de la structure pour cacher les clous.
+Scrum et nous avons arrangé les côtés de la structure pour cacher les clous.
+
 ### Mardi 
-La rencontre avec les profs nous a fait réaliser qu'on devrait ajourter le 3ème projecteur pour enlever l'effet moustiquaire que les pixel des deux autres projocteur donne puisqu'ils sont vraiment éloigner.Nous avons aussi ajusté pour que le projo ce ferme lorsqu'il n'y a rien de projeter pour pas qu'on voit le carré de lumière.Nous avons aussi procéder au fillage du projecteur derrière la toile pour que ce sois plus propre.
+La rencontre avec les profs nous a fait réaliser qu'on devrait ajouter le 3ᵉ projecteur pour enlever l'effet moustiquaire que les pixels des deux autres projecteurs donnent puisqu'ils sont vraiment éloignés. Nous avons aussi ajusté pour que le projo se ferme lorsqu'il n'y a rien de projeté pour ne pas qu'on voie le carré de lumière. Nous avons aussi procédé au filage du projecteur derrière la toile pour que ce soit plus propre.
 
 <img src="medias/collectif/journaux_semaine_7_mardi.png" width="500px"></img>
+
 ### Mercredi
-Nous avons décider de fermer le 3ème projo pour pouvoir se concentrer sur le son, l'effet de pan et le flou de la video lorsqu'on appuit pas fort c'est flou et si on appuit à deux mains c'est net. Nous avons aussi faite le tournage pour la vidéo promotionnelle ce qu'on a faite en avant midi.
+Nous avons décidé de fermer le 3ᵉ projo pour pouvoir se concentrer sur le son, l'effet de pan et le flou de la vidéo lorsqu'on appuie pas fort, c'est flou, et si on appuie à deux mains, c'est net. Nous avons aussi fait le tournage pour la vidéo promotionnelle ce qu'on a faite en avant midi.
 
 <img src="medias/collectif/journaux_semaine_7_mercredi.png" width="500px"></img>
 ### Jeudi 
-Nous allon nous concentrer sur le mapping du troisième projo pour ce rendre compte qu'il était pas alligner avec les autres donc nous allons essayer de le déplacer pour l'alligner avec les autres. Nous avons aussi mis l'auto iris pour faire en sorte que lorsque que la video fini le projecteur s'éteint pour pas qu'on voit le rectangle de la projection.
+Nous allons nous concentrer sur le mapping du troisième projo pour se rendre compte qu'il n'était pas aligné avec les autres donc nous allons essayer de le déplacer pour l'aligner avec les autres. Nous avons aussi mis l'auto-iris pour faire en sorte que lorsque que la vidéo finit, le projecteur s'éteint pour qu'on ne voie pas le rectangle de la projection.
 
 ### Vendredi
 
-On s'est rendu compte que l'auto iris arrêtais de fonctionner si personne touchait a la toile pendant plusieurs minutes, nous avons aussi toute nettoyer notre place de travaille ranger la table et tout pour faire de la place.
+On s'est rendu compte que l'auto iris arrêtait de fonctionner si personne ne touchait la toile pendant plusieurs minutes. Nous avons aussi tout nettoyer notre place de travail et rangé la table pour faire de la place.
 
 ## Semaine de relache
 ### Mercredi 
-On a réimporter les vidéo dans touchdesigner après les avoirs remodifiers. Nous avons aussi eu des problème de son qui apparaissait quand on changeais de vidéo. Avec plusieurs tantative et aide des profs à distance nous avons réussi a régler le problème de pop qui apparaissait dans les speakers. Nous aussi réaliser que un de nos speacker fonctionnais pas a cause d'un fil Jack qui était brisser.
+On a réimporté les vidéos dans TouchDesigner après les avoirs modifiées. Nous avons aussi eu des problèmes avec le sont son qui apparaissait quand on changeait de vidéos. Après plusieurs tentatives et l'aide des profs à distance, nous avons réussi à régler le problème de pop qui apparaissait dans les haut-parleurs. Nous avons réalisé qu'un de nos haut-parleurs fonctionnait pas à cause d'un fil jack qui était brisé.
 
 ### Jeudi 
-Nous avons reidentifier les sorties audios pour rendre le rebranchement dans la salle des matrices plus efficace nous avons par la suite procéder au rebranchement et tout a été comme sur des roulettes tout fonctionnaitdu premier coup.
+Nous avons identifié les sorties audio pour rendre le rebranchement dans la salle des matrices plus efficace. Nous avons par la suite procédé au rebranchement et tout fonctionnait du premier coup.
+
 <img src="medias/collectif/journaux_semaine_relache_jeudi.png" width="500px"></img>
 
 <img src="medias/collectif/journaux_semaine_relache_jeudi_2.png" width="500px"></img>
@@ -56,59 +59,58 @@ Nous avons reidentifier les sorties audios pour rendre le rebranchement dans la 
 Srum + planification de la semaine
 
 ### Mardi 
-on a ajouté 2 autre speaker au plafond nous avons aussi ajouté les DI nécessaires, ce qui nous a pris plus de temps que prévu. nous avons aussi essayer d'arranger les côté de la structure qui décollait.
+On a ajouté 2 autres haut-parleurs au plafond nous avons aussi ajouté les DI nécessaires, ce qui nous a pris plus de temps que prévu. Nous avons aussi essayé d'arranger les côtés de la structure qui décollait.
 
 <img src="medias/collectif/journaux_semaine_6_mardi.png" width="500px"></img>
+
 ### Mercredi 
-Nous avons remarquer que les haut parleur allait en sleep mode donc on a du les démonter et switcher une switch pour le désactiver.
+Nous avons remarqué que les haut-parleurs allaient en mode veille, donc on a dû les démonter et changer une switch pour le désactiver.
+
 ### Jeudi 
-Nous avons améliorer la détection de la main et le son lier au bon vidéo.
+Nous avons amélioré la détection de la main et le son lié au vidéo correspondant.
 
 <img src="medias/collectif/journaux_semaine_6_jeudi.png" width="500px"></img>
 ### Vendredi 
-Nous avons remarque que certaine vidéo était vraiment pas forte comparer a d'autre donc on a du les réexporter pour essayer qu'il soit le plus égale possible.
+Nous avons remarqué que l'audio de certaines vidéos n'était pas aussi fort comparé aux autres, donc on a dû les réexporter pour qu'ils soient les plus égales que possible.
+
 ## Semaine 5
 
 ### Lundi 
-présentation maquette.
+Présentation de la maquette.
 
-### mardi 
-Nous avons présenter l'effet des vidéos pour après avec avec l'aide de Thomas faire en sorte que le pan change le son de flou à nette (effet à pas d'effet ).Nous avons aussi eu des problèmes de son avec les vidéos optimiser.Donc on essaie de trouver une solution.
+### Mardi
+Nous avons présenté l'effet sur le son des vidéos aux professeurs. Ensuite, Thomas nous a aidé pour changer l'intensité de l'effet selon le niveau d'interaction. En ce moment, nous essayons de trouver une solution aux problèmes avec l'audio de certains vidéos.
 
 ### Mercredi 
-nous avons faite le mapping des vidéos sur les murs de côté et nous avons relier les son à ceux-ci. Nous avons aussi brancher le haut-parleur des vidéos au plafond.
-
+Nous avons fait le mapping des vidéos sur les murs de côté et nous avons crées des zones sur la toile correspondant à ceux-ci (mur droit avec le côté droit de la toile, mur de centre avec le centre de la toile, mur gauche avec le côté gauche de la toile). Nous avons aussi branché les haut-parleurs au plafond.
 
 [![projet_touchdesigner_ordinateur](https://github.com/TIM-Celestia/Rhizomatique/assets/113621167/ea1c7bd5-3cae-44ab-b040-92e9db512f8a)](https://youtu.be/yDfYUsQofnw)
 
 
 ### Jeudi 
-Présentation des sons à Thomas. Nous avons aussi passer les fils xlr dans le plancher pour les cacher du publique car il n'y avait pas de prise xlr sous la trappe ou on a notre toile.
+Présentation des sons à Thomas. Nous avons aussi passé les fils XLR sous le plancher pour les cacher du public car il n'y avait pas de prise XLR sous la trappe où on a notre toile.
 
-### vendredi 
-Nous avons fait en sorte que dépendant ou on met notre main , les video apparaissent sur le mur, exemple l'intéracteur appuis a gauche ,et bie sa va être sur le mur gauche que la vidéo va apparaitre. Et nous avons aussi mis le son de la toile qu'on a modifier et on a fait en sorte que lorsqu'on bouge notre main sur la toile le son suit le mouvement de la main.
+### Vendredi 
+Nous avons fait en sorte que, selon la partie de la toile où on met notre main, les vidéos apparaissent sur le mur correspondant. Nous avons aussi ajouté le son de la toile qu'on a modifié et on a fait en sorte qu'un son suit le mouvement de la main lorsqu'elle bouge.
 
 ## Semaine 4
 
 ### Lundi 
-srum
+Scrum
 
 ### Mardi 
-Durant la rencontre avec les profs nous avons discuté de la disposition des projecteurs et nous avons convenu d'en mettre 2 un en dessous de l'autre pour augmenter la luminosité de la projection.Nous avons aussi réaliser qu'une licences Touchdesigner pourrait être pratique du à la résolution des projecteurs. Nous avons par la suite procédé à enlever les Speakers sur les côté et enlever les projecteurs du cyclo.
-
-
+Durant la rencontre avec les profs, nous avons discuté de la disposition des projecteurs et nous avons convenu d'en mettre deux un en dessous de l'autre pour augmenter la luminosité de la projection. Nous avons aussi réalisé qu'une licence TouchDesigner pourrait être pratique pour améliorer la qualité tes projections. Nous avons par la suite procédé à enlever les haut-parleurs et les projecteurs qui étaient déjà installés.
 
 ### Mercredi
-Nous avons commencer par apporter la structure pour commencer la maquette fonctionnelle. Un fois la maquette installer nous avons commencer à mettre le projecteur et la kinect , pour se rendre compte que une des planche en bois de la structure est dans le chemin de la projection , donc nous avons du touver une manière de faire tenir le projecteur car l'angle de la toile sur a structure n'est pas la même que sur notre prototype, nous avons du donc toute ajuster et trouver une manière de faire tenir la kinect. Nous avons par la suite proceder à installer les projcteurs plafond.
-
+Nous avons commencé par apporter la structure qui allait tenir la toile pour commencer la maquette fonctionnelle. Une fois la maquette installé, nous avons commencé à mettre le projecteur et la Kinect en-dessous de celle-ci. Une des planches de bois de la boîte est dans le chemin, donc nous avons dû ajuster le projecteur correctement pour qu'elle ne cache pas la projection. Nous avons ensuite installé les projcteurs au plafond.
 
 <img src="medias/collectif/journaux_semaine_4_mercredi.jpg" width="500px"></img>
 
 ### Jeudi 
-Après avoir présenter notre avancement à Thomas nous avons commencer à brancher les câbles et les transmitter pour les projecteurs en prenant note des numéros des prises internets pour être capable de les relier à l'ordinateur. Nous avons aussi fait en sorte que l'on puisse voir le changement des vidéos a chaque fois qu'on apuie. Nous avons aussi invité quelqu'un à tester notre projet et ça nous a permis de comprendre comment on pouvait améliorer la detection de la main.
+Après avoir présenté notre avancement à Thomas, nous avons commencer à brancher les câbles et les _transmitters_ pour les projecteurs en prenant note des numéros des prises ethernets pour être capable de les relier à l'ordinateur. Nous avons aussi fait en sorte qu'on peut voir le changement des vidéos à chaque fois qu'on appuie sur la toile. Nous avons aussi invité quelqu'un à tester notre projet et ça nous a permis de comprendre comment on pouvait améliorer la detection de la main.
 
 ### Vendredi
-Nous nous sommes concentrer sur le mapping des projecteurs et du branchement des hauts-parleur et les reliers au Touchdesigner. Suite à ça nous avons fait des tests pour être sur que le son sort bien quand on appuit sur la toile et le son ambiant est constant.
+Nous nous sommes concentrés sur le mapping des projecteurs et le branchement des haut-parleurs pour les reliers à TouchDesigner. Suite à ça, nous avons fait des tests pour être sûr que le son sort bien quand on appuit sur la toile et le son ambiant est constant.
 
 <img src="medias/collectif/journaux_semaine_4_vendredi.jpg" width="500px"></img>
 
