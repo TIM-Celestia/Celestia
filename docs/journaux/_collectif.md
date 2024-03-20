@@ -188,7 +188,7 @@ Avant le cours, on a commencé l'organisation des prochaines semaines. Maïka et
 
 Pour la première semaine, nous avons dû repenser à notre projet et aller plus en détail dans le choix de notre thème et l'esthétique dans lequel nous voulons aller. Nous avons aussi commencé les tests avec la Kinect pour détecter le mouvement.
  
-Durant le cours, on a montré à Guillaume, les modifications qu'on a apportées à notre projet et essayé de trouver les mesures de la toile et des idées à comment la faire tenir.
+Durant le cours, on a montré à Guillaume les modifications qu'on a apportées à notre projet et essayé de trouver les mesures de la toile et des idées à comment la faire tenir.
 
 Après le cours, nous sommes restés et avons commencé à faire des tests avec la Kinect pour voir si on était capable de capter les mouvements de la main et de faire apparaître des effets à l'écran.
 Résultats : 
