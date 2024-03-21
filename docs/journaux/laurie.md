@@ -379,13 +379,13 @@ Pour la semaine prochaine, je vais essayer de bouger les choses dans comité pou
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x ] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai travaillé très fort cette semaine pour rendre à temps mes différents montages vidéos. Cette semaine, j'ai aidé le comité publicité en faisant une vidéo publicitaire pour annoncer l'exposition qui va être affiché sur les télévisions et projeter sur un mur du collège. Par la suite, mercredi matin moi et Jolyanne sommes arrivés tôt au cégep pour tourner du contenu visuel de notre installation pour notre vidéo publicitaire. Ensuite, j'ai fait le montage de la vidéo jeudi.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
