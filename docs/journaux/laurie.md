@@ -404,7 +404,7 @@ Pour la semaine prochaine, je vais essayer de bouger les choses dans comité pou
 
 
 ### Défis pour la prochaine semaine
-
+Mon défi pour la semaine prochaine est de faire le montage pour la vidéo documentaire du projet.
 
 ## Semaine 8
 
