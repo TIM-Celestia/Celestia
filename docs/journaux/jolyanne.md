@@ -58,7 +58,7 @@ Installer le projecteur pour projeter sur la toile.
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-- J'ai continuer à ajouté les infos sur le Github
+- J'ai continué à ajouter les infos sur le Github
 - Connecter le projecteur avec MadMapper pour afficher la projection sur la toile.
 - Commencer la réalisation du logo
 - Faire le devoir de Thomas
@@ -139,8 +139,7 @@ Commencer le mapping dans le cyclo
 
 ### Défis pour la prochaine semaine
 - Construction de la structure 
-- 
-Trouver comment faire tenir la toile étirrer 
+- Trouver comment faire tenir la toile étirré 
 
 
 ---
@@ -165,7 +164,7 @@ Trouver comment faire tenir la toile étirrer
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Pour la maquette nous aurions voulu avoir le temps de faire le mapping pour les autres murs, mais notre template était pas encore pensé donc c'est quelque chose qui va être à faire la semaine prochaine
+Pour la maquette nous aurions voulu avoir le temps de faire le mapping pour les autres murs, mais notre template n'était pas encore pensé donc c'est quelque chose qui va être à faire la semaine prochaine
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Trouver une manière de faire afficher les vidéos format téléphone sur les murs de côté. 
@@ -185,16 +184,16 @@ Trouver une manière de faire afficher les vidéos format téléphone sur les mu
 
 ### Défis pour la prochaine semaine
 - Faire en sorte que le mapping soit fini
-- Que la plupart des vidéos soit dans TouchDesigner
+- Que la plupart des vidéos soient dans TouchDesigner
 - Le son soit final
 
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
--Effets des vidéos 
+- Effet des vidéos 
 - Brancher les haut-parleurs avec le DI
 - Son de la toile
-- Exporter toute les vidéo avec reaper 
+- Exporter toutes les vidéos avec Reaper 
 - Avancement dans le Github
 
 
@@ -210,7 +209,7 @@ Trouver une manière de faire afficher les vidéos format téléphone sur les mu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- On est quand même bien avancer mais nous avons eu des problèmes de son avec les vidéos qui on a pris un peu de temps que prévu à régler.
+On est quand même bien avancés, mais nous avons eu des problèmes de son avec les vidéos qui on a pris un peu de temps que prévu à régler.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -233,28 +232,28 @@ Trouver une manière de faire afficher les vidéos format téléphone sur les mu
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-- Trouver des solutions pour la structure de la toile et les bord qui décolle.
-- Aider à l'installation des 2 autres speakers
-- Aider au branchement des fils audios
-- Refaite le schémas de branchement
-- J'ai aussi réexporter les vidéos une 3 èmes fois à cause des niveaux bizarre de certaine vidéo
-
+- Trouvé des solutions pour la structure de la toile et les bords qui décollent.
+- Aidé à l'installation des 2 autres speakers
+- Aidé au branchement des fils audio
+- Refaite le schéma de branchement
+- J'ai aussi réexporté les vidéos une 3e fois à cause des niveaux bizarres de certaines vidéos
+- 
 ### Image d'une réalisation dont tu es la ou le plus fier
-Le schémas de branchement 
+Le schéma de branchement 
 <img src="medias/journal-jolyanne/image_fier_6.png" width="500px"></img>
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [] Assez
+- [ ] Assez
 - [x] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- J'aurais du m'occuper des branchement des fils audio,mais j'ai régler le problème de la toile en espérent que sa tienne. J'ai aussi faite le schémas de branchement.
+J'aurais dû m'occuper des branchements des fils audio, mais j'ai réglé le problème de la toile en espérant que ça tienne. J'ai aussi fait le schéma de branchement.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Essayer d'être capable de comprendre mieu touch pour me rendre plus utile
+Essayer d'être capable de comprendre mieu TouchDesigner pour me rendre plus utile
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -276,9 +275,9 @@ Faire la transition vers la salle des matrices!
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
--Aider pour les problèmes de son 
+-Aidé pour les problèmes de son 
 -Réexportation des sons
--Fillage
+-Filage
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -292,7 +291,7 @@ Faire la transition vers la salle des matrices!
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- On a même eu droit à une journée de congé vendredi, car le transfert dans la salle des matrice à prit moins de temps que prévu.
+On a même eu droit à une journée de congé vendredi, car le transfert dans la salle des matrices a pris moins de temps que prévu.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -311,7 +310,7 @@ Faire la transition vers la salle des matrices!
 
 
 ### Défis pour la prochaine semaine
--finir les petits ajustements de détaille
+-finir les petits ajustements de détails
 ---
 
 ---
@@ -334,7 +333,7 @@ Faire la transition vers la salle des matrices!
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- Dernières minutes, on à décider d'utiliser le 3ème projecteur et de le connecter pour les projections du milieu.
+Dernière minute, on a décidé d'utiliser le 3ᵉ projecteur et de le connecter pour les projections du milieu.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -353,7 +352,7 @@ Faire la transition vers la salle des matrices!
 
 
 ### Défis pour la prochaine semaine
-- Faire en sorte que toute marche et qu'il y ai pas d'imprevu durant l'exposition.
+- Faire en sorte que tout marche et qu'il n'y ait pas d'imprévu durant l'exposition.
 ## Semaine 8
 
 
