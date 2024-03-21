@@ -304,11 +304,11 @@ J'ai rencontré quelques problème pendant la semaine 6 concernant les haut-parl
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
-Pour régler le problème des haut-parleurs qui s'éteingne lorsque tu ne l'ai utilise pas pendant un moment, j'ai été voir Antoine et Guillaume pour comprendre ce qu'il se passait. Après avoir lu de la documentation on a réalisé qu'avec cette sorte de haut-parleur là quand tu cesses de les utiliser pendant un moment il tombe dans un mode sleep. Pour remédier à la situation j'ai du décrocher les haut-parleur et enlever une pièce pour pouvoir accéder à un petit panneau qui nous permet de désactiver ce mode. En l'ai réinstallant on a réalisé que le problème était régler. Pour ce qui est du deuxième problème, on est encore entrain d'essayer de comprendre la cause.
+Pour régler le problème des haut-parleurs qui s'éteignent lorsque tu ne les utilises pas pendant un moment, j'ai été voir Antoine et Guillaume pour comprendre ce qui se passait. Après avoir lu de la documentation, on a réalisé qu'avec cette sorte de haut-parleur là quand tu cesses de les utiliser pendant un moment, il tombe dans un mode veille. Pour remédier à la situation j'ai dû décrocher les haut-parleurs et enlever une pièce pour pouvoir accéder à un petit panneau qui nous permet de désactiver ce mode. En les réinstallant, on a réalisé que le problème était réglé. Pour ce qui est du deuxième problème, on est encore entrain d'essayer de comprendre la cause.
 
 ### Défis pour la prochaine semaine
 
-Régler le son qui griches et faire le filage pour amener l'ordi dans la salle des matrices.
+Régler le son qui griche et faire le filage pour amener l'ordi dans la salle des matrices.
 
 ---
 ## Semaine de rattrapage
@@ -333,7 +333,7 @@ Régler le son qui griches et faire le filage pour amener l'ordi dans la salle d
 
 #### Décrivez pourquoi.
  
-On étaient bien avancé dans le projet donc on c'est permis quelques jours de congés.
+On était bien avancé dans le projet donc on s'est permis quelques jours de congé.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -348,7 +348,7 @@ On va travailler plus fort la semaine prochaine.
 
 #### S'il y a des écarts, décrivez-les.
 
-On avait rencontré quelques problèmes avec mes haut-parleurs la semaine passé et on penssait régler ça très rapidement pendant la semiane de relâche. Cependant, on a réalisé que le problème était un peu plus compliqué qu'on penssait. On a contacté Thomas et il nous a aidé à régler le problème à distance.
+On avait rencontré quelques problèmes avec mes haut-parleurs la semaine passée et on pensait régler ça très rapidement pendant la semaine de relâche. Cependant, on a réalisé que le problème était un peu plus compliqué qu'on pensait. On a contacté Thomas et il nous a aidé à régler le problème à distance.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -385,7 +385,7 @@ Pour la semaine prochaine, je vais essayer de bouger les choses dans comité pou
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- J'ai travaillé très fort cette semaine pour rendre à temps mes différents montages vidéos. Cette semaine, j'ai aidé le comité publicité en faisant une vidéo publicitaire pour annoncer l'exposition qui va être affiché sur les télévisions et projeter sur un mur du collège. Par la suite, mercredi matin moi et Jolyanne sommes arrivés tôt au cégep pour tourner du contenu visuel de notre installation pour notre vidéo publicitaire. Ensuite, j'ai fait le montage de la vidéo jeudi.
+ J'ai travaillé très fort cette semaine pour rendre à temps mes différents montages vidéos. Cette semaine, j'ai aidé le comité publicité en faisant une vidéo publicitaire pour annoncer l'exposition qui va être affiché sur les télévisions et projeté sur un mur du collège. Par la suite, mercredi matin, moi et Jolyanne sommes arrivés tôt au cégep pour tourner du contenu visuel de notre installation pour notre vidéo publicitaire. Ensuite, j'ai fait le montage de la vidéo jeudi.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
