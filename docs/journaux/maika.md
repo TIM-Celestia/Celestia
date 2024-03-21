@@ -130,7 +130,7 @@ Je vais rajouter des lignes en rhizome lorsque l'oeuvre est au repos.
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-J'ai installé les projecteurs j'ai rajouté l'effet visuel au mur lorsque l'oeuvre est en repos.
+J'ai installé les projecteurs, j'ai rajouté l'effet visuel au mur lorsque l'oeuvre est en repos.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![projecteurs](medias/journal-maika/installation_projecteur.png)
@@ -213,7 +213,7 @@ Mettre toutes les vidéos et mettre les bons sons pour chacun.
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- Toutes les vidéos ont été mise avec les effets.
+ Toutes les vidéos ont été mises avec les effets.
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
@@ -234,7 +234,7 @@ Mettre l'ordinateur dans la salle des matrixes.
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
 - Nous avons arrangé l'audio des haut-parleurs
-- Nous avons déplacé l'ordinateur dans la salle des matrixes
+- Nous avons déplacé l'ordinateur dans la salle des matrices
   
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -248,8 +248,7 @@ Mettre l'ordinateur dans la salle des matrixes.
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- J'ai déplacé les fils dans la salle des matrixes et arrangé le son pour ne plus qu'il est de bruit.
-
+J'ai déplacé les fils dans la salle des matrices et arrangé le son pour plus qu'il ait de bruits.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -263,7 +262,7 @@ Il n'y a pas d'écarts.
 
 ### Défis pour la prochaine semaine
 
-Arranger tous les petits problèmes pour que ce soit terminer avant la semaine d'exposition et faire de la publicité pour l'exposition.
+Arranger tous les petits problèmes pour que ce soit terminé avant la semaine d'exposition et faire de la publicité pour l'exposition.
 
 ---
 
