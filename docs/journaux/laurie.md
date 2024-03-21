@@ -76,7 +76,7 @@ Pour la semaine du 29 janvier au 5 février, j'avais pour mission de continuer l
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ x] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
@@ -90,7 +90,7 @@ Je suis assez satisfaite de ce que j'ai fait cette semaine, car je pense que je 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [x ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -123,7 +123,7 @@ Mon défi pour la semaine prochaine c'est d'avoir regrouper un bon nombre de mé
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ x] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
@@ -137,7 +137,7 @@ J'ai bien avancé cette semaine. J'ai fini le son ambiant de l'oeuvre et grâce 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [x ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -176,7 +176,7 @@ La semaine 4 était la semaine des installations. J'ai beaucoup contribué à ce
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [x ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
@@ -190,7 +190,7 @@ Je suis très fière de moi, car j'ai vaincu ma peur des hauteurs en montant dan
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -225,7 +225,7 @@ Pour la semaine prochaine,je me mets au défi de retravailler le son de la toile
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ x] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
@@ -241,7 +241,7 @@ Pour remédier à la situation, on a installé le haut-parleur au plafond. De ce
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ x] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -277,7 +277,7 @@ Pour la semaine prochaine, je me donne pour défi d'installer deux autres haut-p
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [x ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
@@ -292,7 +292,7 @@ J'ai été très productive pendant la semaine 6. J'ai installé deux nouveaux h
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ x] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -326,7 +326,7 @@ Régler le son qui griche et faire le filage pour amener l'ordi dans la salle de
 
 - [ ] Complètement
 - [ ] Assez
-- [x ] Peu
+- [x] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
@@ -339,7 +339,7 @@ On va travailler plus fort la semaine prochaine.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ x] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -377,7 +377,7 @@ Pour la semaine prochaine, je vais essayer de bouger les choses dans comité pou
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [x ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
