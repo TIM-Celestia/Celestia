@@ -12,7 +12,7 @@
 * [Semaine de rattrapage](#semaine-de-rattrapage)
 * [Semaine 7](#semaine-7)
 * [Semaine 8](#semaine-8)
-* [Semaine 9](#semaine-9)
+
 
 ## Semaine 1
 
@@ -354,6 +354,5 @@ Dernière minute, on a décidé d'utiliser le 3ᵉ projecteur et de le connecter
 ### Défis pour la prochaine semaine
 - Faire en sorte que tout marche et qu'il n'y ait pas d'imprévu durant l'exposition.
 ## Semaine 8
-
-
+Semaine d'exposition et vendredi démontage
 ## Semaine 9
