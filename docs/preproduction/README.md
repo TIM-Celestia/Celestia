@@ -25,6 +25,8 @@
     - [Liste des tâches à réaliser](#Liste-des-tâches-à-réaliser)
     - [Rôles et responsabilités des membres de l'équipe](#Rôles-et-responsabilités-des-membres-de-l'équipe))
     - [Moments des rencontres d'équipe](#Moments-des-rencontres-d'équipe)
+5. [Résultat Final)](#Resultat-final))
+   
 
 # Intention ou concept
 <!---[comment]: <> (## Cartographie)
@@ -290,4 +292,7 @@ Hebdomadaire
 - Mardi à 10h45: Rencontre de suivi de projet.
 
 Autre: 
-- à déterminer 
+- à déterminer
+
+# Résultat final
+https://youtu.be/HuXbazOCO6A
